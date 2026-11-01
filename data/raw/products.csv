@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,unit_cost
+P001,Premium Headphones,Electronics,117.99,56.43
+P002,Classic Headphones,Electronics,53.99,36.62
+P003,Smart Headphones,Electronics,75.99,37.12
+P004,Eco Smartwatch,Electronics,111.99,72.03
+P005,Smart Smartwatch,Electronics,125.99,73.46
+P006,Compact Smartwatch,Electronics,62.99,38.83
+P007,Classic Power Bank,Electronics,79.99,44.5
+P008,Smart Power Bank,Electronics,129.99,93.32
+P009,Premium Power Bank,Electronics,72.99,37.11
+P010,Premium Bluetooth Speaker,Electronics,97.99,64.18
+P011,Eco Bluetooth Speaker,Electronics,179.99,133.24
+P012,Pro Bluetooth Speaker,Electronics,70.99,39.84
+P013,Eco Webcam,Electronics,62.99,32.63
+P014,Compact Webcam,Electronics,106.99,62.18
+P015,Classic Webcam,Electronics,102.99,72.06
+P016,Eco Blender,Home & Kitchen,64.99,42.55
+P017,Classic Blender,Home & Kitchen,64.99,33.14
+P018,Compact Blender,Home & Kitchen,60.99,41.84
+P019,Compact Coffee Maker,Home & Kitchen,50.99,31.65
+P020,Smart Coffee Maker,Home & Kitchen,53.99,26.15
+P021,Eco Coffee Maker,Home & Kitchen,43.99,26.01
+P022,Premium Cookware Set,Home & Kitchen,63.99,39.42
+P023,Compact Cookware Set,Home & Kitchen,76.99,41.67
+P024,Smart Cookware Set,Home & Kitchen,52.99,30.79
+P025,Smart Vacuum Cleaner,Home & Kitchen,39.99,18.69
+P026,Premium Vacuum Cleaner,Home & Kitchen,70.99,38.2
+P027,Pro Vacuum Cleaner,Home & Kitchen,75.99,46.89
+P028,Smart Air Fryer,Home & Kitchen,53.99,37.48
+P029,Eco Air Fryer,Home & Kitchen,47.99,21.92
+P030,Compact Air Fryer,Home & Kitchen,51.99,34.66
+P031,Premium Jacket,Fashion,64.99,42.82
+P032,Compact Jacket,Fashion,68.99,38.93
+P033,Eco Jacket,Fashion,46.99,30.03
+P034,Smart Sneakers,Fashion,34.99,25.84
+P035,Eco Sneakers,Fashion,62.99,41.57
+P036,Premium Sneakers,Fashion,47.99,35.55
+P037,Pro Backpack,Fashion,50.99,24.42
+P038,Smart Backpack,Fashion,48.99,28.74
+P039,Premium Backpack,Fashion,29.99,16.25
+P040,Smart Sunglasses,Fashion,32.99,22.35
+P041,Pro Sunglasses,Fashion,45.99,26.66
+P042,Compact Sunglasses,Fashion,54.99,34.38
+P043,Premium Hoodie,Fashion,58.99,35.29
+P044,Smart Hoodie,Fashion,73.99,36.5
+P045,Classic Hoodie,Fashion,91.99,57.61
+P046,Premium Face Serum,Beauty,25.99,14.4
+P047,Smart Face Serum,Beauty,36.99,16.9
+P048,Pro Face Serum,Beauty,17.99,10.7
+P049,Smart Perfume,Beauty,82.99,60.69
+P050,Classic Perfume,Beauty,20.99,12.43
+P051,Pro Perfume,Beauty,32.99,18.13
+P052,Eco Hair Dryer,Beauty,28.99,20.23
+P053,Pro Hair Dryer,Beauty,31.99,15.74
+P054,Smart Hair Dryer,Beauty,20.99,10.13
+P055,Smart Makeup Kit,Beauty,55.99,38.11
+P056,Classic Makeup Kit,Beauty,41.99,30.43
+P057,Eco Makeup Kit,Beauty,19.99,9.22
+P058,Smart Skincare Set,Beauty,22.99,15.92
+P059,Eco Skincare Set,Beauty,21.99,16.18
+P060,Classic Skincare Set,Beauty,33.99,20.55
+P061,Pro Yoga Mat,Sports,29.99,17.41
+P062,Smart Yoga Mat,Sports,21.99,15.78
+P063,Premium Yoga Mat,Sports,60.99,43.74
+P064,Premium Dumbbell Set,Sports,54.99,37.48
+P065,Pro Dumbbell Set,Sports,29.99,16.86
+P066,Classic Dumbbell Set,Sports,40.99,27.63
+P067,Pro Running Belt,Sports,61.99,43.35
+P068,Compact Running Belt,Sports,32.99,16.62
+P069,Classic Running Belt,Sports,57.99,41.31
+P070,Compact Water Bottle,Sports,43.99,32.62
+P071,Pro Water Bottle,Sports,34.99,17.26
+P072,Classic Water Bottle,Sports,38.99,20.23
+P073,Pro Fitness Tracker,Sports,33.99,22.37
+P074,Classic Fitness Tracker,Sports,22.99,11.72
+P075,Premium Fitness Tracker,Sports,30.99,20.6
+P076,Compact Novel,Books,14.99,8.1
+P077,Classic Novel,Books,25.99,16.86
+P078,Premium Novel,Books,28.99,15.54
+P079,Eco Cookbook,Books,18.99,9.15
+P080,Compact Cookbook,Books,18.99,10.93
+P081,Smart Cookbook,Books,42.99,27.03
+P082,Eco Self-Help Book,Books,10.99,7.53
+P083,Classic Self-Help Book,Books,19.99,9.65
+P084,Premium Self-Help Book,Books,13.99,9.64
+P085,Pro Textbook,Books,14.99,8.43
+P086,Eco Textbook,Books,26.99,17.42
+P087,Compact Textbook,Books,9.99,5.86
+P088,Compact Comic Collection,Books,11.99,8.33
+P089,Pro Comic Collection,Books,49.99,23.49
+P090,Eco Comic Collection,Books,15.99,7.9
+P091,Pro Building Blocks,Toys,32.99,16.48
+P092,Compact Building Blocks,Toys,21.99,10.91
+P093,Classic Building Blocks,Toys,14.99,6.84
+P094,Smart Puzzle,Toys,20.99,13.17
+P095,Premium Puzzle,Toys,35.99,20.45
+P096,Classic Puzzle,Toys,27.99,16.83
+P097,Eco RC Car,Toys,23.99,12.59
+P098,Compact RC Car,Toys,42.99,24.71
+P099,Premium RC Car,Toys,18.99,10.67
+P100,Compact Board Game,Toys,37.99,17.69
+P101,Classic Board Game,Toys,29.99,14.39
+P102,Smart Board Game,Toys,34.99,25.22
+P103,Classic Plush Toy,Toys,24.99,17.09
+P104,Compact Plush Toy,Toys,23.99,14.65
+P105,Pro Plush Toy,Toys,25.99,18.38
+P106,Compact Coffee Beans,Grocery,12.99,6.88
+P107,Smart Coffee Beans,Grocery,10.99,6.52
+P108,Eco Coffee Beans,Grocery,12.99,6.75
+P109,Pro Olive Oil,Grocery,11.99,7.86
+P110,Smart Olive Oil,Grocery,10.99,8.07
+P111,Compact Olive Oil,Grocery,14.99,8.91
+P112,Pro Protein Bars,Grocery,21.99,14.2
+P113,Premium Protein Bars,Grocery,15.99,9.75
+P114,Smart Protein Bars,Grocery,11.99,6.43
+P115,Premium Green Tea,Grocery,10.99,6.97
+P116,Smart Green Tea,Grocery,15.99,10.68
+P117,Classic Green Tea,Grocery,14.99,10.95
+P118,Eco Dried Fruit Mix,Grocery,9.99,6.27
+P119,Smart Dried Fruit Mix,Grocery,14.99,10.32
+P120,Classic Dried Fruit Mix,Grocery,7.99,4.2

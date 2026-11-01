@@ -1,0 +1,4 @@
+model,mape,rmse,bias
+Damped Holt-Winters,0.0419,3651.3191,-0.034
+Seasonal naive + growth,0.0808,6118.1368,0.0795
+Ridge trend + seasonality,0.0842,6764.2899,0.0781

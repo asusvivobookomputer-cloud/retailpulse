@@ -1,0 +1,2226 @@
+customer_id,recency_days,frequency,monetary,aov,country,acquisition_channel,churn_probability,risk_band,value_at_risk_90d
+C02811,67,2,571.83,285.915,Turkey,Organic Search,0.6027,Medium,344.63
+C04814,53,1,405.49,405.49,Turkey,Social Media,0.7807,High,316.59
+C05479,48,8,1572.78,196.5975,United States,Paid Search,0.6033,Medium,283.73
+C02407,6,3,811.45,270.4833,UAE,Organic Search,0.404,Medium,283.68
+C01365,17,1,419.91,419.91,UAE,Paid Search,0.6711,Medium,281.8
+C00964,22,5,951.2,190.24,Turkey,Organic Search,0.2902,Low,276.06
+C05424,100,5,521.86,104.372,United Kingdom,Paid Search,0.6245,Medium,269.09
+C04199,15,1,388.96,388.96,United Kingdom,Social Media,0.6751,Medium,262.57
+C02669,42,2,405.79,202.895,United Kingdom,Social Media,0.6206,Medium,251.85
+C00184,147,12,1030.55,85.8792,Germany,Referral,0.7611,High,251.22
+C05766,41,1,401.41,401.41,United Kingdom,Organic Search,0.6117,Medium,245.54
+C03481,53,1,327.94,327.94,Turkey,Paid Search,0.7209,High,236.4
+C04298,4,1,419.85,419.85,United Kingdom,Paid Search,0.5618,Medium,235.87
+C00681,171,6,722.41,120.4017,United States,Social Media,0.8937,High,235.25
+C03964,140,3,563.64,187.88,Azerbaijan,Paid Search,0.8307,High,230.27
+C02554,57,2,448.45,224.225,United Kingdom,Referral,0.511,Medium,229.18
+C03832,83,2,307.26,153.63,UAE,Social Media,0.7427,High,228.22
+C00322,142,18,2110.47,117.2483,UAE,Email,0.7636,High,227.34
+C02057,162,2,548.81,274.405,UAE,Referral,0.819,High,227.26
+C03692,162,1,437.14,437.14,United States,Social Media,0.9051,High,219.81
+C02963,17,3,582.6,194.2,Germany,Organic Search,0.3731,Low,217.34
+C00178,103,25,2619.18,104.7672,United States,Referral,0.6384,Medium,215.29
+C02745,29,2,541.81,270.905,United States,Organic Search,0.5962,Medium,213.76
+C00619,16,2,385.39,192.695,Germany,Social Media,0.5471,Medium,210.85
+C05644,131,7,932.12,133.16,United States,Organic Search,0.7506,High,209.9
+C03195,19,4,515.56,128.89,United States,Paid Search,0.4515,Medium,207.42
+C01387,83,2,443.41,221.705,Azerbaijan,Email,0.6177,Medium,207.13
+C01071,14,3,436.02,145.34,United States,Paid Search,0.4647,Medium,202.61
+C00259,32,4,727.27,181.8175,Turkey,Referral,0.3698,Low,201.71
+C03295,155,3,501.15,167.05,United Kingdom,Referral,0.7406,High,201.21
+C05007,85,1,258.3,258.3,Turkey,Paid Search,0.7765,High,200.57
+C04466,32,2,327.25,163.625,Germany,Social Media,0.6127,Medium,200.52
+C04401,101,2,326.44,163.22,Turkey,Paid Search,0.7822,High,198.1
+C03221,3,2,619.02,309.51,United Kingdom,Organic Search,0.5206,Medium,197.3
+C05984,18,2,396.67,198.335,Azerbaijan,Social Media,0.4897,Medium,194.25
+C04151,49,3,444.8,148.2667,UAE,Social Media,0.6157,Medium,194.08
+C01882,79,11,1242.19,112.9264,United Kingdom,Social Media,0.5749,Medium,191.29
+C02137,84,6,703.79,117.2983,Germany,Email,0.5009,Medium,191.12
+C03434,147,1,358.43,358.43,Germany,Paid Search,0.8626,High,189.28
+C04944,158,13,1416.76,108.9815,United States,Paid Search,0.8666,High,189.21
+C02176,159,10,904.41,90.441,Azerbaijan,Paid Search,0.8383,High,186.44
+C01834,26,1,329.71,329.71,Azerbaijan,Email,0.5628,Medium,185.55
+C00154,41,3,351.02,117.0067,United States,Paid Search,0.5792,Medium,184.82
+C01562,36,2,333.67,166.835,United Kingdom,Paid Search,0.5642,Medium,184.17
+C02285,54,2,344.59,172.295,Azerbaijan,Organic Search,0.5816,Medium,184.04
+C04593,118,3,338.35,112.7833,Azerbaijan,Social Media,0.7722,High,183.71
+C03610,45,1,278.22,278.22,Turkey,Organic Search,0.6598,Medium,183.58
+C05391,41,2,305.18,152.59,Germany,Paid Search,0.5955,Medium,181.74
+C05350,88,1,224.66,224.66,Azerbaijan,Social Media,0.8045,High,180.74
+C04299,45,4,385.3,96.325,Turkey,Paid Search,0.4688,Medium,180.61
+C01914,10,1,332.29,332.29,Turkey,Organic Search,0.5431,Medium,180.48
+C02626,60,1,265.74,265.74,Azerbaijan,Organic Search,0.6753,Medium,179.45
+C03786,119,18,1457.85,80.9917,United States,Email,0.6819,Medium,177.52
+C01215,24,3,455.08,151.6933,Azerbaijan,Organic Search,0.417,Medium,176.08
+C05558,19,4,417.61,104.4025,United States,Social Media,0.4807,Medium,175.41
+C00022,20,4,394.03,98.5075,United States,Social Media,0.4447,Medium,175.24
+C02697,112,4,571.54,142.885,Germany,Paid Search,0.7957,High,174.92
+C00863,135,3,531.88,177.2933,Turkey,Paid Search,0.822,High,174.88
+C04240,44,3,390.29,130.0967,UAE,Referral,0.4473,Medium,174.59
+C02302,83,3,366.14,122.0467,Turkey,Social Media,0.7248,High,174.33
+C01226,77,4,462.05,115.5125,Turkey,Paid Search,0.6204,Medium,174.32
+C01620,6,5,1030.2,206.04,Turkey,Email,0.2531,Low,172.56
+C01504,17,2,390.93,195.465,Germany,Email,0.4371,Medium,170.89
+C05003,5,4,587.4,146.85,United States,Organic Search,0.2895,Low,170.05
+C05732,69,3,374.83,124.9433,UAE,Paid Search,0.6546,Medium,169.88
+C04741,54,1,269.16,269.16,Germany,Referral,0.6298,Medium,169.51
+C05137,97,3,313.08,104.36,UAE,Organic Search,0.6075,Medium,167.81
+C04059,32,4,533.8,133.45,United Kingdom,Email,0.3139,Low,167.57
+C01179,147,19,1761.94,92.7337,Turkey,Email,0.7503,High,167.34
+C00320,0,1,317.32,317.32,Turkey,Paid Search,0.5272,Medium,167.3
+C05289,150,15,2005.84,133.7227,United States,Email,0.791,High,166.62
+C04309,36,2,301.95,150.975,United Kingdom,Social Media,0.6431,Medium,166.45
+C04303,127,2,323.34,161.67,United Kingdom,Social Media,0.8062,High,166.39
+C05637,142,8,794.03,99.2538,Turkey,Organic Search,0.7465,High,165.68
+C00013,7,3,381.14,127.0467,United States,Paid Search,0.4303,Medium,164.01
+C03425,29,7,1166.41,166.63,Turkey,Social Media,0.4756,Medium,163.68
+C00580,29,2,458.13,229.065,United States,Referral,0.5305,Medium,163.22
+C00434,69,1,216.85,216.85,Turkey,Paid Search,0.752,High,163.07
+C05523,136,4,812.46,203.115,UAE,Organic Search,0.783,High,162.19
+C02179,40,2,303.71,151.855,UAE,Email,0.5321,Medium,161.6
+C05843,70,3,382.21,127.4033,UAE,Social Media,0.6761,Medium,161.5
+C04245,156,4,554.59,138.6475,United Kingdom,Social Media,0.8249,High,161.47
+C01518,126,1,265.55,265.55,United States,Paid Search,0.8511,High,161.43
+C00703,109,9,822.34,91.3711,United States,Referral,0.6952,Medium,161.3
+C04016,17,2,298.52,149.26,Germany,Social Media,0.5391,Medium,160.94
+C04374,171,9,992.7,110.3,Turkey,Organic Search,0.8328,High,160.69
+C04031,12,3,331.87,110.6233,United States,Social Media,0.4876,Medium,160.04
+C04916,97,2,267.16,133.58,Germany,Organic Search,0.6785,Medium,159.94
+C04933,37,1,261.51,261.51,United States,Organic Search,0.6078,Medium,158.95
+C03665,61,1,229.18,229.18,Turkey,Organic Search,0.6905,Medium,158.24
+C00772,56,2,255.31,127.655,Turkey,Social Media,0.7016,High,158.06
+C00472,177,22,1797.71,81.7141,Germany,Referral,0.82,High,157.74
+C03353,28,2,336.42,168.21,UAE,Organic Search,0.5312,Medium,157.69
+C01630,48,1,254.78,254.78,UAE,Referral,0.6174,Medium,157.29
+C04644,48,3,387.71,129.2367,United Kingdom,Social Media,0.5767,Medium,157.22
+C01066,46,2,240.02,120.01,United States,Social Media,0.6446,Medium,154.73
+C03257,42,3,332.05,110.6833,Germany,Organic Search,0.4643,Medium,154.16
+C01585,75,6,675.64,112.6067,Germany,Organic Search,0.5242,Medium,153.98
+C02215,98,3,583.77,194.59,UAE,Referral,0.6905,Medium,153.72
+C02379,74,5,677.62,135.524,Germany,Referral,0.5041,Medium,153.7
+C04219,157,4,473.98,118.495,United States,Organic Search,0.8207,High,152.21
+C05125,19,2,354.1,177.05,Turkey,Organic Search,0.4296,Medium,152.11
+C02266,130,3,464.48,154.8267,United Kingdom,Organic Search,0.7637,High,152.02
+C00201,59,5,564.64,112.928,United States,Social Media,0.6817,Medium,151.94
+C00898,156,18,1774.82,98.6011,UAE,Referral,0.7843,High,151.85
+C04276,87,1,187.87,187.87,Turkey,Social Media,0.8073,High,151.67
+C01865,66,5,336.64,67.328,United States,Social Media,0.5633,Medium,151.04
+C03104,167,12,906.46,75.5383,Turkey,Organic Search,0.8199,High,150.99
+C04740,102,16,1536.4,96.025,United Kingdom,Social Media,0.6824,Medium,150.5
+C05569,142,2,379.03,189.515,Germany,Email,0.8109,High,150.34
+C04585,67,9,742.66,82.5178,United Kingdom,Social Media,0.4408,Medium,150.33
+C01331,111,1,253.17,253.17,Germany,Referral,0.7314,High,150.14
+C04332,6,4,478.22,119.555,United Kingdom,Paid Search,0.3863,Low,149.8
+C00254,24,3,665.78,221.9267,UAE,Organic Search,0.5519,Medium,149.63
+C03210,65,1,197.02,197.02,United States,Social Media,0.7573,High,149.2
+C05436,120,1,232.57,232.57,UAE,Social Media,0.8501,High,148.28
+C02829,118,1,233.74,233.74,United States,Paid Search,0.8313,High,148.21
+C01150,71,13,1111.41,85.4931,United Kingdom,Paid Search,0.5372,Medium,148.02
+C03867,106,7,884.08,126.2971,Turkey,Social Media,0.7789,High,147.56
+C01463,90,29,2659.32,91.7007,United States,Organic Search,0.5698,Medium,147.44
+C00843,102,16,1449.9,90.6188,United Kingdom,Social Media,0.6564,Medium,146.93
+C00120,46,2,226.45,113.225,United States,Social Media,0.6449,Medium,146.03
+C03048,63,1,188.2,188.2,UAE,Social Media,0.7752,High,145.9
+C00845,3,4,410.09,102.5225,United States,Social Media,0.4376,Medium,145.51
+C03745,40,2,411.64,205.82,United States,Organic Search,0.5768,Medium,145.37
+C05768,122,4,474.22,118.555,United States,Paid Search,0.7556,High,145.27
+C01975,118,18,1498.23,83.235,Azerbaijan,Organic Search,0.6976,Medium,145.17
+C00314,27,3,411.51,137.17,United Kingdom,Referral,0.3837,Low,145.02
+C01366,14,2,322.23,161.115,United Kingdom,Organic Search,0.5147,Medium,144.93
+C03023,72,3,297.61,99.2033,Azerbaijan,Referral,0.5028,Medium,144.81
+C05366,72,5,674.86,134.972,Germany,Paid Search,0.7145,High,144.65
+C03765,70,4,548.83,137.2075,Azerbaijan,Paid Search,0.6201,Medium,144.48
+C03362,73,4,543.56,135.89,United States,Social Media,0.7312,High,144.24
+C04144,127,2,266.58,133.29,United States,Paid Search,0.7968,High,143.73
+C00481,11,2,318.28,159.14,Azerbaijan,Social Media,0.566,Medium,143.48
+C02159,50,1,199.47,199.47,Azerbaijan,Social Media,0.7188,High,143.38
+C00991,81,3,295.2,98.4,Turkey,Organic Search,0.5706,Medium,143.02
+C01441,34,3,348.59,116.1967,United States,Social Media,0.5764,Medium,142.38
+C04671,135,6,809.04,134.84,Turkey,Organic Search,0.7742,High,142.36
+C02784,86,1,177.93,177.93,United States,Social Media,0.7994,High,142.23
+C02521,37,2,252.48,126.24,Germany,Paid Search,0.5618,Medium,141.84
+C05081,59,2,243.1,121.55,Germany,Organic Search,0.5812,Medium,141.3
+C00920,16,1,231.06,231.06,United Kingdom,Social Media,0.6106,Medium,141.08
+C01389,68,3,240.84,80.28,Germany,Social Media,0.6567,Medium,140.94
+C01922,116,1,219.44,219.44,Germany,Paid Search,0.8256,High,140.57
+C01290,41,4,381.09,95.2725,United States,Referral,0.3686,Low,140.47
+C05360,35,3,451.15,150.3833,United States,Organic Search,0.5014,Medium,140.41
+C05353,18,3,475.93,158.6433,Azerbaijan,Paid Search,0.5206,Medium,140.24
+C00293,155,4,489.22,122.305,Germany,Organic Search,0.7741,High,139.11
+C02728,10,3,371.2,123.7333,Turkey,Organic Search,0.373,Low,138.47
+C05178,13,5,657.22,131.444,United Kingdom,Email,0.21,Low,138.03
+C05079,42,1,235.01,235.01,Germany,Email,0.5869,Medium,137.94
+C00955,87,6,609.2,101.5333,UAE,Referral,0.5756,Medium,137.81
+C03243,120,3,342.16,114.0533,Germany,Social Media,0.805,High,136.96
+C05423,135,3,343.35,114.45,UAE,Paid Search,0.801,High,136.74
+C00679,46,1,190.64,190.64,United Kingdom,Social Media,0.7131,High,135.95
+C03823,32,1,215.04,215.04,Azerbaijan,Paid Search,0.6303,Medium,135.53
+C01793,2,4,488.38,122.095,Germany,Organic Search,0.2806,Low,135.51
+C03167,20,3,333.23,111.0767,United States,Organic Search,0.4048,Medium,134.89
+C03751,135,7,598.83,85.5471,United Kingdom,Organic Search,0.7494,High,134.63
+C00601,2,2,272.35,136.175,United States,Social Media,0.6006,Medium,133.84
+C05017,36,4,320.12,80.03,Azerbaijan,Social Media,0.4713,Medium,133.11
+C04689,0,3,319.73,106.5767,UAE,Paid Search,0.4158,Medium,132.94
+C03378,158,4,345.76,86.44,United States,Email,0.79,High,132.88
+C01962,61,4,321.32,80.33,United Kingdom,Referral,0.4181,Medium,132.86
+C00054,32,5,438.5,87.7,Azerbaijan,Organic Search,0.3024,Low,132.61
+C00356,113,1,217.27,217.27,Turkey,Organic Search,0.7659,High,132.54
+C01791,5,4,724.69,181.1725,United States,Email,0.4428,Medium,132.49
+C05913,102,1,187.65,187.65,Turkey,Paid Search,0.7955,High,131.72
+C00659,37,3,294.25,98.0833,Germany,Email,0.4466,Medium,131.42
+C01472,101,9,793.08,88.12,Azerbaijan,Paid Search,0.6921,Medium,131.38
+C03377,33,3,398.71,132.9033,UAE,Social Media,0.6001,Medium,131.3
+C04684,111,2,262.77,131.385,United States,Organic Search,0.7378,High,131.19
+C04744,169,3,388.01,129.3367,UAE,Organic Search,0.8421,High,130.69
+C00627,80,17,1604.04,94.3553,United States,Social Media,0.69,Medium,130.55
+C03163,35,1,183.38,183.38,United States,Social Media,0.7118,High,130.53
+C02020,149,14,1218.11,87.0079,UAE,Email,0.7429,High,130.52
+C05294,102,4,410.59,102.6475,UAE,Organic Search,0.6471,Medium,129.96
+C03856,164,7,654.03,93.4329,Turkey,Paid Search,0.8383,High,129.85
+C03284,28,1,243.42,243.42,Germany,Referral,0.5335,Medium,129.85
+C00119,79,7,1000.58,142.94,United Kingdom,Organic Search,0.4944,Medium,129.81
+C00688,125,6,651.36,108.56,Turkey,Social Media,0.7608,High,129.66
+C02225,75,10,938.47,93.847,United States,Email,0.3546,Low,129.66
+C02879,21,10,1642.26,164.226,United Kingdom,Referral,0.273,Low,129.31
+C04388,88,3,461.86,153.9533,UAE,Paid Search,0.7402,High,129.28
+C05095,96,2,338.27,169.135,Turkey,Organic Search,0.6955,Medium,129.12
+C02180,55,3,223.29,74.43,UAE,Social Media,0.5775,Medium,128.96
+C05199,23,1,189.2,189.2,United States,Social Media,0.6807,Medium,128.79
+C02428,170,9,1191.29,132.3656,United States,Organic Search,0.8568,High,128.47
+C01154,33,1,188.59,188.59,United Kingdom,Social Media,0.6798,Medium,128.21
+C00564,52,2,238.17,119.085,United Kingdom,Social Media,0.6448,Medium,127.99
+C00153,112,3,472.06,157.3533,Turkey,Referral,0.7408,High,127.94
+C04295,136,13,1011.66,77.82,Germany,Email,0.7495,High,127.32
+C01334,98,2,283.22,141.61,United States,Social Media,0.8078,High,127.1
+C00847,5,8,1129.55,141.1938,United Kingdom,Email,0.1386,Low,126.93
+C00274,144,10,1036.07,103.607,Azerbaijan,Organic Search,0.7212,High,126.89
+C02048,7,1,204.54,204.54,United States,Social Media,0.6199,Medium,126.8
+C03623,40,1,185.62,185.62,United Kingdom,Social Media,0.6828,Medium,126.74
+C01541,66,3,293.85,97.95,Turkey,Social Media,0.642,Medium,126.71
+C03535,135,3,457.62,152.54,United Kingdom,Social Media,0.8427,High,126.66
+C00381,140,7,1046.56,149.5086,United Kingdom,Email,0.7725,High,126.54
+C05899,53,1,179.49,179.49,Turkey,Social Media,0.7045,High,126.46
+C03782,78,1,167.18,167.18,Germany,Paid Search,0.7557,High,126.33
+C05602,31,15,1431.03,95.402,UAE,Paid Search,0.3325,Low,126.32
+C00645,59,4,535.77,133.9425,United Kingdom,Referral,0.4985,Medium,125.85
+C04884,73,1,193.58,193.58,UAE,Referral,0.65,Medium,125.82
+C03788,179,21,2152.33,102.4919,Turkey,Organic Search,0.8571,High,125.68
+C00224,38,2,288.76,144.38,UAE,Social Media,0.6792,Medium,125.19
+C01419,6,1,213.43,213.43,Turkey,Social Media,0.5859,Medium,125.04
+C00366,5,4,330.53,82.6325,Germany,Social Media,0.3772,Low,124.69
+C02948,2,3,378.06,126.02,United States,Paid Search,0.3284,Low,124.16
+C04737,15,3,304.11,101.37,UAE,Paid Search,0.4075,Medium,123.93
+C02901,14,2,265.52,132.76,Germany,Social Media,0.5581,Medium,123.5
+C01392,7,8,992.93,124.1162,Turkey,Paid Search,0.279,Low,123.44
+C02264,49,3,363.27,121.09,United Kingdom,Social Media,0.6249,Medium,123.08
+C05406,173,4,353.93,88.4825,United States,Social Media,0.888,High,122.98
+C03916,168,1,268.01,268.01,United States,Organic Search,0.8551,High,122.77
+C03521,50,19,1615.49,85.0258,United Kingdom,Organic Search,0.3134,Low,122.49
+C02549,18,2,289.85,144.925,United States,Organic Search,0.4226,Medium,122.49
+C04317,120,9,816.55,90.7278,Turkey,Organic Search,0.7029,High,122.41
+C03848,167,7,843.51,120.5014,Germany,Referral,0.7946,High,122.36
+C03992,171,1,254.76,254.76,United States,Social Media,0.9104,High,122.07
+C03160,5,5,774.81,154.962,Turkey,Organic Search,0.3023,Low,121.85
+C05862,140,1,237.73,237.73,United States,Organic Search,0.7969,High,121.78
+C05519,156,2,255.05,127.525,United Kingdom,Paid Search,0.829,High,121.21
+C00309,98,3,247.5,82.5,United States,Social Media,0.7225,High,121.01
+C04577,81,20,1510.08,75.504,Turkey,Organic Search,0.4886,Medium,120.74
+C00959,179,9,641.62,71.2911,UAE,Organic Search,0.8328,High,120.22
+C03703,41,1,197.34,197.34,Turkey,Organic Search,0.609,Medium,120.17
+C04514,21,5,496.77,99.354,UAE,Email,0.2673,Low,119.5
+C01619,141,7,411.37,58.7671,United Kingdom,Paid Search,0.8229,High,119.48
+C05182,173,1,256.64,256.64,United Kingdom,Social Media,0.8934,High,119.28
+C04229,57,6,534.23,89.0383,United States,Email,0.4028,Medium,118.81
+C05944,7,4,326.23,81.5575,United Kingdom,Social Media,0.3634,Low,118.54
+C01855,89,2,192.21,96.105,Azerbaijan,Organic Search,0.6301,Medium,118.48
+C00023,153,2,356.82,178.41,UAE,Referral,0.8067,High,118.29
+C00265,23,1,180.97,180.97,United States,Paid Search,0.653,Medium,118.18
+C00528,48,4,271.81,67.9525,United Kingdom,Paid Search,0.4734,Medium,118.17
+C03920,11,5,639.91,127.982,United States,Organic Search,0.3463,Low,118.01
+C00227,106,2,219.39,109.695,Turkey,Paid Search,0.7823,High,117.92
+C03040,48,1,185.08,185.08,United States,Email,0.6369,Medium,117.88
+C00893,65,4,264.26,66.065,United States,Social Media,0.6182,Medium,117.63
+C01064,21,1,174.63,174.63,United States,Social Media,0.6735,Medium,117.62
+C03134,39,5,652.16,130.432,United States,Paid Search,0.5645,Medium,117.49
+C05758,26,1,177.13,177.13,Turkey,Social Media,0.6606,Medium,117.01
+C03181,140,2,252.2,126.1,Germany,Email,0.7621,High,116.88
+C02698,8,3,435.2,145.0667,UAE,Organic Search,0.2683,Low,116.78
+C01877,12,3,293.16,97.72,United Kingdom,Organic Search,0.3977,Low,116.6
+C02343,42,1,170.56,170.56,UAE,Paid Search,0.683,Medium,116.49
+C00958,11,3,277.61,92.5367,United States,Paid Search,0.4186,Medium,116.2
+C01651,105,2,260.06,130.03,United States,Organic Search,0.6943,Medium,116.07
+C03838,88,3,359.3,119.7667,United States,Organic Search,0.6279,Medium,116.03
+C02083,154,1,247.41,247.41,United Kingdom,Organic Search,0.8017,High,115.92
+C01325,119,4,406.83,101.7075,United States,Referral,0.7055,High,115.84
+C02072,59,1,169.41,169.41,United States,Organic Search,0.682,Medium,115.54
+C03954,2,7,795.02,113.5743,Turkey,Social Media,0.4372,Medium,115.42
+C05838,98,4,440.14,110.035,United States,Paid Search,0.7312,High,115.39
+C04345,52,4,599.06,149.765,Germany,Organic Search,0.5485,Medium,115.07
+C02814,29,1,207.53,207.53,United States,Referral,0.5534,Medium,114.85
+C02721,42,3,455.22,151.74,United States,Social Media,0.7075,High,114.58
+C03846,41,5,439.66,87.932,Azerbaijan,Paid Search,0.4274,Medium,114.28
+C01879,126,6,444.04,74.0067,United States,Social Media,0.8042,High,113.96
+C05091,46,1,180.56,180.56,United States,Email,0.631,Medium,113.94
+C00158,63,5,476.64,95.328,United States,Organic Search,0.4878,Medium,113.72
+C04460,89,18,1005.19,55.8439,United States,Organic Search,0.5083,Medium,113.55
+C02946,49,13,1426.98,109.7677,Germany,Organic Search,0.4676,Medium,113.51
+C05670,10,4,591.93,147.9825,United Kingdom,Referral,0.3426,Low,113.36
+C03907,20,2,269.28,134.64,United States,Social Media,0.6396,Medium,113.15
+C05839,141,6,450.75,75.125,United Kingdom,Organic Search,0.7405,High,112.93
+C04131,8,4,543.44,135.86,Azerbaijan,Organic Search,0.3621,Low,112.8
+C04926,82,2,249.12,124.56,Turkey,Organic Search,0.6238,Medium,112.8
+C05474,139,1,204.09,204.09,United States,Paid Search,0.8527,High,112.68
+C05801,41,2,238.72,119.36,Azerbaijan,Organic Search,0.4717,Medium,112.6
+C05415,136,3,379.58,126.5267,UAE,Organic Search,0.7907,High,112.55
+C04242,82,4,210.2,52.55,Germany,Social Media,0.6181,Medium,112.44
+C05309,45,3,213.23,71.0767,Germany,Paid Search,0.5272,Medium,112.42
+C03148,167,1,246.3,246.3,Turkey,Organic Search,0.8467,High,112.39
+C01939,6,4,362.03,90.5075,Germany,Paid Search,0.3448,Low,112.33
+C01091,43,2,231.88,115.94,United Kingdom,Organic Search,0.484,Medium,112.23
+C01583,112,6,684.42,114.07,Azerbaijan,Organic Search,0.6301,Medium,111.85
+C04980,67,1,171.52,171.52,Germany,Organic Search,0.6513,Medium,111.72
+C00181,108,4,357.41,89.3525,Turkey,Paid Search,0.7229,High,111.26
+C03582,20,3,234.37,78.1233,United States,Paid Search,0.474,Medium,111.1
+C05255,90,1,150.26,150.26,United States,Organic Search,0.7365,High,110.66
+C03058,169,1,234.32,234.32,UAE,Social Media,0.8864,High,110.61
+C00901,97,1,161.0,161.0,UAE,Email,0.7384,High,110.31
+C03757,28,2,183.78,91.89,Turkey,Social Media,0.5991,Medium,110.11
+C05363,28,5,478.25,95.65,UAE,Social Media,0.5345,Medium,110.08
+C03236,118,4,455.61,113.9025,United States,Email,0.7037,High,109.71
+C05660,5,4,600.64,150.16,United Kingdom,Referral,0.2651,Low,109.38
+C05386,71,2,172.45,86.225,United States,Organic Search,0.6412,Medium,109.37
+C05142,99,4,365.74,91.435,Azerbaijan,Social Media,0.7707,High,109.34
+C02509,55,12,1080.74,90.0617,Turkey,Referral,0.37,Low,109.06
+C05688,88,3,235.21,78.4033,United States,Referral,0.5695,Medium,108.6
+C03478,75,12,1028.2,85.6833,Turkey,Organic Search,0.544,Medium,108.49
+C05627,5,2,293.87,146.935,UAE,Organic Search,0.3682,Low,108.19
+C05546,2,5,600.27,120.054,United States,Email,0.272,Low,108.05
+C00452,39,7,809.13,115.59,Turkey,Organic Search,0.4139,Medium,108.04
+C00510,40,2,203.08,101.54,United States,Paid Search,0.626,Medium,107.93
+C03844,42,4,551.91,137.9775,United States,Organic Search,0.567,Medium,107.91
+C00341,62,5,394.65,78.93,United States,Social Media,0.7065,High,107.7
+C00426,33,3,350.61,116.87,United States,Referral,0.453,Medium,107.47
+C05161,89,4,411.67,102.9175,Azerbaijan,Referral,0.5684,Medium,107.44
+C04601,32,6,834.89,139.1483,United States,Paid Search,0.4774,Medium,107.39
+C04838,99,2,190.92,95.46,Germany,Paid Search,0.7286,High,107.0
+C05535,85,6,385.74,64.29,Germany,Social Media,0.607,Medium,106.96
+C03208,6,2,405.24,202.62,Germany,Organic Search,0.5395,Medium,106.94
+C03950,124,5,612.67,122.534,UAE,Paid Search,0.7926,High,106.86
+C05646,22,3,234.6,78.2,United Kingdom,Paid Search,0.4545,Medium,106.62
+C03725,6,8,1243.03,155.3788,Germany,Paid Search,0.5947,Medium,106.45
+C04673,69,2,170.38,85.19,Turkey,Paid Search,0.6245,Medium,106.41
+C02163,178,12,817.66,68.1383,UAE,Organic Search,0.818,High,106.35
+C00673,94,1,156.83,156.83,UAE,Referral,0.7078,High,106.27
+C05179,100,27,2061.9,76.3667,UAE,Organic Search,0.4517,Medium,106.24
+C05373,89,3,377.86,125.9533,Turkey,Organic Search,0.6885,Medium,105.94
+C01319,62,3,309.13,103.0433,Germany,Email,0.5097,Medium,105.82
+C00436,145,5,596.22,119.244,Germany,Organic Search,0.771,High,105.55
+C03391,56,3,304.44,101.48,United States,Social Media,0.7202,High,105.52
+C02703,6,3,348.95,116.3167,Azerbaijan,Organic Search,0.3286,Low,105.32
+C05347,152,4,320.86,80.215,Germany,Paid Search,0.8487,High,105.18
+C03541,62,1,157.22,157.22,UAE,Organic Search,0.6687,Medium,105.14
+C05891,146,1,216.86,216.86,United Kingdom,Referral,0.7863,High,105.11
+C01612,125,8,736.25,92.0312,United States,Referral,0.6059,Medium,105.1
+C05579,120,3,256.75,85.5833,United Kingdom,Paid Search,0.7412,High,105.07
+C01004,74,5,342.44,68.488,UAE,Organic Search,0.5042,Medium,104.99
+C03080,108,1,156.66,156.66,Turkey,Paid Search,0.8031,High,104.84
+C01052,58,13,1559.18,119.9369,United States,Email,0.4874,Medium,104.73
+C03030,5,3,311.68,103.8933,United States,Organic Search,0.3359,Low,104.7
+C04431,64,22,2050.03,93.1832,Germany,Email,0.4736,Medium,104.53
+C00262,39,20,2189.18,109.459,Azerbaijan,Organic Search,0.315,Low,104.48
+C04920,116,1,161.76,161.76,United Kingdom,Social Media,0.8308,High,104.26
+C02347,38,2,240.27,120.135,Azerbaijan,Email,0.5249,Medium,104.14
+C05619,32,4,435.08,108.77,UAE,Social Media,0.5538,Medium,103.77
+C05901,135,7,536.53,76.6471,UAE,Social Media,0.81,High,103.75
+C05324,118,1,163.15,163.15,Germany,Social Media,0.8337,High,103.74
+C02091,91,15,1333.61,88.9073,United Kingdom,Referral,0.5168,Medium,103.72
+C00960,37,8,852.44,106.555,United States,Email,0.4331,Medium,103.5
+C02649,10,18,2109.85,117.2139,Germany,Email,0.1825,Low,103.47
+C02992,130,7,716.53,102.3614,Germany,Paid Search,0.7869,High,103.35
+C04259,127,1,177.01,177.01,UAE,Paid Search,0.8234,High,103.29
+C05388,38,1,179.68,179.68,UAE,Referral,0.5733,Medium,103.01
+C05515,127,5,546.81,109.362,United States,Email,0.724,High,102.98
+C05662,119,2,182.74,91.37,United States,Paid Search,0.7951,High,102.97
+C01217,28,7,802.72,114.6743,Turkey,Organic Search,0.2719,Low,102.83
+C02743,19,4,313.04,78.26,United Kingdom,Social Media,0.3972,Low,102.65
+C05431,109,4,381.4,95.35,United States,Paid Search,0.7792,High,102.48
+C01600,48,2,168.32,84.16,United States,Paid Search,0.6074,Medium,102.24
+C03333,161,4,316.86,79.215,Turkey,Social Media,0.8767,High,102.05
+C00585,67,7,947.01,135.2871,Germany,Social Media,0.7696,High,101.85
+C03328,107,1,159.44,159.44,United States,Organic Search,0.7576,High,101.6
+C03406,42,4,532.62,133.155,Germany,Organic Search,0.4914,Medium,101.54
+C02151,155,2,216.4,108.2,Germany,Social Media,0.8602,High,101.54
+C02486,48,4,300.51,75.1275,United States,Social Media,0.5886,Medium,101.39
+C02183,106,4,520.67,130.1675,United States,Social Media,0.8067,High,101.35
+C04866,79,1,147.04,147.04,UAE,Organic Search,0.6887,Medium,101.27
+C04275,178,4,488.38,122.095,Turkey,Referral,0.815,High,101.19
+C03143,109,9,658.25,73.1389,Turkey,Paid Search,0.6976,Medium,101.04
+C02766,74,12,738.91,61.5758,UAE,Paid Search,0.5086,Medium,100.96
+C03559,169,1,216.48,216.48,Germany,Social Media,0.8737,High,100.72
+C05967,17,8,604.3,75.5375,United States,Social Media,0.4584,Medium,100.54
+C00160,90,3,260.52,86.84,Germany,Organic Search,0.626,Medium,100.53
+C00957,102,3,245.0,81.6667,Turkey,Social Media,0.7202,High,100.5
+C01446,71,9,578.97,64.33,Turkey,Paid Search,0.5705,Medium,100.44
+C01720,23,1,172.1,172.1,Azerbaijan,Paid Search,0.5833,Medium,100.38
+C02782,49,1,139.6,139.6,United Kingdom,Social Media,0.7188,High,100.34
+C02664,28,2,185.02,92.51,United Kingdom,Social Media,0.5905,Medium,100.34
+C04389,14,8,916.1,114.5125,Turkey,Paid Search,0.3732,Low,100.22
+C05275,44,4,595.98,148.995,Azerbaijan,Paid Search,0.6015,Medium,100.19
+C04758,111,11,915.96,83.2691,Germany,Organic Search,0.7085,High,100.18
+C03251,41,1,139.72,139.72,Turkey,Social Media,0.717,High,100.18
+C00479,99,7,720.72,102.96,Azerbaijan,Organic Search,0.6191,Medium,100.14
+C03229,36,2,326.79,163.395,UAE,Organic Search,0.5548,Medium,100.11
+C04927,133,11,962.43,87.4936,United States,Organic Search,0.7783,High,99.58
+C05062,160,2,236.87,118.435,Turkey,Organic Search,0.78,High,99.58
+C03138,127,3,345.4,115.1333,Azerbaijan,Organic Search,0.7494,High,99.55
+C05030,52,5,547.52,109.504,Azerbaijan,Paid Search,0.5325,Medium,99.4
+C05337,140,10,920.67,92.067,Turkey,Email,0.7475,High,99.26
+C01286,6,8,723.77,90.4712,United States,Social Media,0.4514,Medium,99.01
+C00819,55,3,269.41,89.8033,United States,Social Media,0.6607,Medium,98.89
+C03932,54,12,1023.94,85.3283,United States,Referral,0.308,Low,98.89
+C03991,80,13,947.46,72.8815,Germany,Paid Search,0.585,Medium,98.77
+C03769,50,8,942.03,117.7538,United States,Referral,0.4781,Medium,98.63
+C04196,89,8,863.73,107.9662,UAE,Email,0.6681,Medium,98.55
+C02394,1,5,460.76,92.152,Germany,Social Media,0.3302,Low,98.52
+C04625,146,15,1135.36,75.6907,UAE,Referral,0.7427,High,98.43
+C05414,2,3,257.92,85.9733,Germany,Paid Search,0.3808,Low,98.21
+C01058,157,10,1100.15,110.015,Germany,Organic Search,0.8132,High,98.07
+C03370,2,2,323.27,161.635,Azerbaijan,Organic Search,0.3029,Low,97.91
+C00025,144,10,982.06,98.206,United States,Referral,0.7734,High,97.66
+C00594,62,3,222.03,74.01,United Kingdom,Paid Search,0.5863,Medium,97.64
+C00978,71,4,200.37,50.0925,Germany,Paid Search,0.5894,Medium,97.52
+C05326,168,9,638.1,70.9,United States,Email,0.7736,High,97.42
+C00010,95,4,317.15,79.2875,United States,Referral,0.6207,Medium,97.35
+C05712,100,1,139.1,139.1,Azerbaijan,Paid Search,0.7757,High,97.11
+C02359,95,2,155.71,77.855,United Kingdom,Organic Search,0.6646,Medium,97.02
+C00701,13,2,240.05,120.025,UAE,Paid Search,0.5568,Medium,97.0
+C01569,53,6,651.9,108.65,United States,Referral,0.5433,Medium,96.89
+C00939,172,13,884.18,68.0138,UAE,Email,0.8054,High,96.53
+C00487,83,2,363.12,181.56,United States,Paid Search,0.7616,High,96.48
+C02478,162,3,327.89,109.2967,Azerbaijan,Referral,0.7933,High,96.34
+C05845,67,20,1888.2,94.41,United States,Organic Search,0.5496,Medium,96.28
+C00865,91,5,604.98,120.996,Germany,Social Media,0.7796,High,96.25
+C02128,158,18,1670.21,92.7894,Azerbaijan,Organic Search,0.8004,High,96.03
+C00029,33,2,202.05,101.025,United States,Organic Search,0.4746,Medium,95.89
+C02488,72,6,728.76,121.46,United Kingdom,Organic Search,0.5101,Medium,95.86
+C05271,36,12,1170.85,97.5708,UAE,Organic Search,0.3565,Low,95.84
+C00574,140,1,182.72,182.72,UAE,Email,0.8143,High,95.65
+C01027,22,1,139.92,139.92,UAE,Social Media,0.6832,Medium,95.6
+C03809,54,4,186.16,46.54,United States,Paid Search,0.5134,Medium,95.57
+C01689,35,2,171.25,85.625,UAE,Paid Search,0.5578,Medium,95.52
+C04674,43,2,274.01,137.005,United States,Referral,0.5576,Medium,95.5
+C04947,170,2,269.33,134.665,United States,Paid Search,0.8704,High,95.47
+C05322,85,4,250.36,62.59,Turkey,Social Media,0.6337,Medium,95.2
+C01426,17,3,302.61,100.87,Germany,Referral,0.3662,Low,94.98
+C02244,74,2,161.23,80.615,UAE,Organic Search,0.6215,Medium,94.93
+C00455,97,1,130.47,130.47,United States,Paid Search,0.7831,High,94.8
+C00685,16,8,1162.49,145.3112,United States,Organic Search,0.457,Medium,94.49
+C04434,2,1,174.31,174.31,Azerbaijan,Social Media,0.5412,Medium,94.33
+C01580,179,2,325.18,162.59,United Kingdom,Paid Search,0.8759,High,94.25
+C03426,50,3,268.24,89.4133,United States,Social Media,0.6426,Medium,94.03
+C02920,89,3,266.49,88.83,United States,Referral,0.6105,Medium,93.86
+C05439,108,1,140.64,140.64,United Kingdom,Social Media,0.7997,High,93.72
+C03035,67,1,127.24,127.24,UAE,Paid Search,0.7349,High,93.51
+C02864,72,5,429.63,85.926,United States,Paid Search,0.6839,Medium,93.44
+C03530,11,2,259.49,129.745,UAE,Referral,0.3601,Low,93.44
+C00339,35,14,1786.41,127.6007,Azerbaijan,Referral,0.3605,Low,93.19
+C03369,123,3,345.8,115.2667,United States,Organic Search,0.7603,High,93.16
+C04475,32,3,538.68,179.56,Turkey,Organic Search,0.6221,Medium,93.09
+C01496,8,3,232.04,77.3467,Turkey,Social Media,0.4012,Medium,93.09
+C04781,72,1,136.64,136.64,United Kingdom,Organic Search,0.6807,Medium,93.02
+C01611,135,1,179.48,179.48,Azerbaijan,Organic Search,0.777,High,92.97
+C05468,164,2,227.15,113.575,Germany,Social Media,0.8633,High,92.89
+C05499,48,1,150.73,150.73,UAE,Email,0.6163,Medium,92.89
+C02303,2,1,175.1,175.1,Germany,Paid Search,0.5303,Medium,92.86
+C05704,80,12,981.11,81.7592,United States,Organic Search,0.4872,Medium,92.71
+C00910,163,1,208.76,208.76,Turkey,Referral,0.8038,High,92.65
+C05429,117,4,392.11,98.0275,Germany,Organic Search,0.7299,High,92.65
+C01175,102,1,132.45,132.45,Germany,Paid Search,0.7921,High,92.57
+C05094,73,3,310.37,103.4567,United States,Organic Search,0.5728,Medium,92.49
+C05046,122,10,750.6,75.06,United States,Paid Search,0.7731,High,92.27
+C01248,155,5,419.12,83.824,Germany,Referral,0.7461,High,92.27
+C01293,165,3,286.14,95.38,United States,Organic Search,0.816,High,92.16
+C05563,25,2,258.13,129.065,Azerbaijan,Referral,0.357,Low,92.16
+C00058,80,2,152.35,76.175,Turkey,Social Media,0.7249,High,92.03
+C01189,14,2,323.43,161.715,Azerbaijan,Paid Search,0.6301,Medium,91.71
+C01315,7,8,693.16,86.645,UAE,Social Media,0.2939,Low,91.67
+C01744,25,6,460.36,76.7267,Germany,Organic Search,0.2894,Low,91.54
+C05751,44,11,1210.67,110.0609,Azerbaijan,Referral,0.2979,Low,91.44
+C00723,65,2,157.96,78.98,Turkey,Social Media,0.7071,High,91.39
+C01908,135,11,660.16,60.0145,UAE,Organic Search,0.7548,High,91.15
+C04697,107,10,1136.22,113.622,Turkey,Social Media,0.7875,High,90.89
+C04104,19,1,177.24,177.24,Turkey,Referral,0.5115,Medium,90.66
+C01145,145,5,456.86,91.372,Azerbaijan,Email,0.7537,High,90.62
+C03953,121,6,728.26,121.3767,United States,Organic Search,0.7654,High,90.39
+C03135,44,4,360.63,90.1575,Germany,Referral,0.4066,Medium,90.39
+C03099,103,2,365.27,182.635,Germany,Social Media,0.8465,High,90.35
+C05950,137,5,466.55,93.31,United Kingdom,Organic Search,0.7486,High,90.33
+C04210,26,3,468.32,156.1067,Germany,Organic Search,0.5546,Medium,90.26
+C01118,46,4,536.77,134.1925,United States,Organic Search,0.5904,Medium,90.25
+C01598,56,2,169.4,84.7,Azerbaijan,Organic Search,0.532,Medium,90.11
+C02957,92,3,380.57,126.8567,United States,Organic Search,0.697,Medium,90.08
+C05591,42,11,875.64,79.6036,United Kingdom,Paid Search,0.3799,Low,89.9
+C00737,16,2,188.82,94.41,Germany,Social Media,0.4761,Medium,89.9
+C02023,36,16,1298.37,81.1481,Turkey,Paid Search,0.435,Medium,89.65
+C00613,59,10,782.73,78.273,United States,Paid Search,0.6013,Medium,89.36
+C02152,19,7,1073.17,153.31,UAE,Organic Search,0.4803,Medium,89.2
+C04327,80,8,648.47,81.0588,Germany,Referral,0.5056,Medium,89.15
+C02456,27,2,308.02,154.01,United States,Organic Search,0.6203,Medium,89.1
+C03075,121,4,397.99,99.4975,Germany,Social Media,0.8254,High,89.05
+C00902,62,1,117.78,117.78,United States,Social Media,0.7558,High,89.02
+C02352,103,3,178.76,59.5867,Germany,Organic Search,0.6307,Medium,89.01
+C00855,61,4,321.47,80.3675,Germany,Organic Search,0.4796,Medium,88.94
+C03461,54,1,124.08,124.08,United States,Paid Search,0.7166,High,88.92
+C05550,16,3,314.09,104.6967,United States,Organic Search,0.446,Medium,88.8
+C05118,175,1,192.07,192.07,Germany,Social Media,0.8968,High,88.58
+C02054,42,4,395.97,98.9925,United Kingdom,Organic Search,0.4694,Medium,88.52
+C00091,14,3,477.15,159.05,Germany,Referral,0.4946,Medium,88.5
+C02062,59,1,118.49,118.49,Turkey,Social Media,0.7466,High,88.46
+C05580,164,1,194.47,194.47,UAE,Email,0.8285,High,88.41
+C03488,47,8,1007.38,125.9225,Turkey,Organic Search,0.582,Medium,88.39
+C04005,111,4,414.11,103.5275,United States,Social Media,0.7904,High,88.2
+C01246,28,19,1848.2,97.2737,United States,Email,0.3418,Low,88.15
+C00219,5,7,657.24,93.8914,United Kingdom,Social Media,0.3285,Low,87.92
+C02307,150,8,672.81,84.1012,United States,Paid Search,0.8398,High,87.82
+C05378,68,2,164.76,82.38,Turkey,Organic Search,0.6278,Medium,87.82
+C03565,38,3,258.93,86.31,United States,Referral,0.4519,Medium,87.76
+C04301,98,20,1486.94,74.347,Azerbaijan,Organic Search,0.5128,Medium,87.76
+C00494,21,8,732.38,91.5475,United Kingdom,Referral,0.2477,Low,87.76
+C03279,102,1,138.84,138.84,Germany,Organic Search,0.716,High,87.72
+C00552,161,6,604.62,100.77,United Kingdom,Referral,0.7915,High,87.72
+C02118,34,7,612.49,87.4986,Turkey,Paid Search,0.396,Low,87.68
+C03937,11,2,188.57,94.285,Turkey,Organic Search,0.4649,Medium,87.67
+C05852,6,1,182.31,182.31,United States,Email,0.4807,Medium,87.63
+C04007,93,1,119.25,119.25,Turkey,Paid Search,0.7585,High,87.53
+C01460,135,10,786.43,78.643,United Kingdom,Paid Search,0.7255,High,87.48
+C01050,72,1,121.68,121.68,United Kingdom,Paid Search,0.7183,High,87.4
+C04522,39,11,1007.12,91.5564,Turkey,Referral,0.3449,Low,87.32
+C03913,19,2,208.1,104.05,United States,Email,0.4193,Medium,87.25
+C03402,67,29,2478.69,85.4721,United Kingdom,Organic Search,0.3759,Low,87.17
+C05802,24,5,475.34,95.068,Azerbaijan,Social Media,0.5072,Medium,87.13
+C02080,30,7,690.47,98.6386,United States,Organic Search,0.4148,Medium,87.07
+C00307,21,5,299.79,59.958,United States,Social Media,0.4194,Medium,87.06
+C03289,160,1,175.41,175.41,Turkey,Social Media,0.8805,High,86.88
+C04768,65,1,123.92,123.92,Azerbaijan,Paid Search,0.7007,High,86.83
+C03055,10,13,1048.86,80.6815,United States,Social Media,0.4505,Medium,86.79
+C05264,151,4,311.83,77.9575,Germany,Social Media,0.8441,High,86.78
+C00634,152,2,204.43,102.215,United States,Referral,0.7728,High,86.7
+C04274,51,1,126.73,126.73,Germany,Paid Search,0.684,Medium,86.69
+C05813,79,3,422.25,140.75,Azerbaijan,Organic Search,0.6747,Medium,86.62
+C03898,162,12,1061.5,88.4583,United Kingdom,Email,0.7754,High,86.44
+C02726,11,4,498.9,124.725,Turkey,Social Media,0.504,Medium,86.38
+C04065,48,9,698.47,77.6078,Turkey,Organic Search,0.3311,Low,86.35
+C03109,52,1,139.61,139.61,Azerbaijan,Organic Search,0.6184,Medium,86.34
+C03344,23,3,600.39,200.13,United States,Organic Search,0.6294,Medium,86.11
+C01760,5,1,172.31,172.31,United States,Email,0.4994,Medium,86.05
+C05222,74,2,143.51,71.755,Turkey,Social Media,0.7194,High,86.03
+C02999,102,2,230.75,115.375,United Kingdom,Paid Search,0.7701,High,85.98
+C01267,149,1,168.3,168.3,Azerbaijan,Paid Search,0.8458,High,85.98
+C00365,24,4,361.83,90.4575,Turkey,Paid Search,0.4404,Medium,85.87
+C04796,62,1,129.51,129.51,United States,Organic Search,0.6628,Medium,85.85
+C04419,121,7,489.85,69.9786,United States,Organic Search,0.6444,Medium,85.83
+C04235,76,2,183.47,91.735,United States,Paid Search,0.6964,Medium,85.82
+C05448,115,5,429.2,85.84,Germany,Social Media,0.815,High,85.78
+C02914,93,6,407.83,67.9717,UAE,Organic Search,0.6793,Medium,85.68
+C05288,116,8,469.15,58.6438,Turkey,Paid Search,0.6491,Medium,85.65
+C00607,52,1,120.51,120.51,UAE,Social Media,0.7105,High,85.62
+C05993,112,1,135.66,135.66,United Kingdom,Paid Search,0.7852,High,85.59
+C01065,140,1,166.2,166.2,Turkey,Organic Search,0.8,High,85.47
+C05945,81,1,126.01,126.01,UAE,Organic Search,0.6779,Medium,85.42
+C00666,42,1,119.73,119.73,United States,Social Media,0.7132,High,85.39
+C05531,132,3,312.24,104.08,United States,Organic Search,0.8226,High,85.3
+C01233,95,1,130.3,130.3,United Kingdom,Organic Search,0.6909,Medium,85.29
+C02716,40,1,145.48,145.48,United States,Email,0.586,Medium,85.26
+C04254,51,3,167.46,55.82,United States,Email,0.5087,Medium,85.18
+C01536,180,4,253.78,63.445,United Kingdom,Social Media,0.8799,High,85.15
+C05168,16,1,139.96,139.96,United States,Paid Search,0.6081,Medium,85.11
+C04732,90,5,412.69,82.538,United States,Email,0.6137,Medium,85.05
+C04576,32,2,186.27,93.135,Turkey,Paid Search,0.5464,Medium,84.82
+C01447,5,2,152.66,76.33,United States,Social Media,0.5555,Medium,84.8
+C03483,98,13,962.99,74.0762,Azerbaijan,Email,0.5363,Medium,84.67
+C04089,18,2,269.81,134.905,Germany,Organic Search,0.5334,Medium,84.66
+C05536,34,1,149.74,149.74,United States,Referral,0.5645,Medium,84.52
+C03702,56,2,327.75,163.875,Azerbaijan,Social Media,0.7619,High,84.49
+C05969,125,13,658.55,50.6577,United States,Email,0.6822,Medium,84.42
+C03497,34,1,149.72,149.72,UAE,Organic Search,0.5631,Medium,84.3
+C05855,125,7,514.63,73.5186,United Kingdom,Social Media,0.81,High,84.3
+C03110,84,1,118.27,118.27,United Kingdom,Organic Search,0.7116,High,84.16
+C01806,12,9,988.36,109.8178,United States,Referral,0.1722,Low,84.16
+C00675,7,1,144.52,144.52,Turkey,Paid Search,0.5822,Medium,84.14
+C05233,179,4,307.11,76.7775,United States,Paid Search,0.8798,High,84.14
+C00172,128,3,191.53,63.8433,United States,Paid Search,0.7706,High,84.07
+C04924,93,3,150.96,50.32,Germany,Paid Search,0.6802,Medium,84.01
+C04945,3,6,579.63,96.605,UAE,Organic Search,0.1997,Low,84.0
+C00727,110,3,183.03,61.01,United States,Email,0.6627,Medium,83.97
+C01479,54,15,1204.35,80.29,United Kingdom,Email,0.3864,Low,83.94
+C05786,103,10,1255.41,125.541,United Kingdom,Email,0.634,Medium,83.78
+C04481,53,3,273.47,91.1567,Azerbaijan,Social Media,0.6671,Medium,83.77
+C03996,157,7,1033.68,147.6686,United States,Referral,0.8142,High,83.7
+C00355,78,14,1563.04,111.6457,Turkey,Referral,0.6188,Medium,83.54
+C01989,41,2,222.03,111.015,United Kingdom,Email,0.4889,Medium,83.51
+C02409,117,1,142.22,142.22,United States,Organic Search,0.7633,High,83.51
+C01024,7,2,231.67,115.835,Germany,Email,0.3604,Low,83.49
+C04975,97,2,151.08,75.54,UAE,Paid Search,0.7366,High,83.47
+C05803,19,3,348.81,116.27,Turkey,Organic Search,0.4773,Medium,83.25
+C00043,72,13,852.69,65.5915,United Kingdom,Organic Search,0.3832,Low,82.83
+C02271,50,3,287.62,95.8733,United Kingdom,Organic Search,0.5119,Medium,82.82
+C02216,95,17,923.45,54.3206,Azerbaijan,Organic Search,0.4936,Medium,82.54
+C00758,5,10,1223.81,122.381,Azerbaijan,Organic Search,0.1573,Low,82.53
+C00340,1,2,274.6,137.3,United Kingdom,Referral,0.3005,Low,82.52
+C00429,1,7,853.69,121.9557,United Kingdom,Paid Search,0.4012,Medium,82.43
+C05463,48,15,1413.09,94.206,Azerbaijan,Referral,0.3234,Low,82.25
+C04917,129,6,823.9,137.3167,Turkey,Organic Search,0.7726,High,82.2
+C00549,14,20,1985.37,99.2685,United States,Referral,0.3826,Low,82.17
+C05313,156,10,744.62,74.462,United Kingdom,Email,0.766,High,82.14
+C00229,14,5,316.85,63.37,United Kingdom,Paid Search,0.259,Low,82.07
+C04308,114,2,151.62,75.81,Azerbaijan,Organic Search,0.6913,Medium,82.03
+C02926,161,3,286.61,95.5367,Turkey,Social Media,0.8775,High,82.01
+C03606,88,4,345.71,86.4275,United States,Paid Search,0.7054,High,81.89
+C05812,11,5,471.43,94.286,United Kingdom,Referral,0.1736,Low,81.83
+C05260,27,7,560.07,80.01,United States,Paid Search,0.5129,Medium,81.82
+C00880,173,7,575.95,82.2786,Germany,Paid Search,0.8632,High,81.8
+C04949,7,1,139.39,139.39,United Kingdom,Social Media,0.5858,Medium,81.65
+C01940,52,15,1085.01,72.334,United States,Referral,0.1839,Low,81.64
+C00608,100,1,119.21,119.21,United Kingdom,Paid Search,0.7601,High,81.56
+C00374,10,21,1753.14,83.4829,United States,Paid Search,0.3118,Low,81.45
+C00115,47,1,114.15,114.15,United States,Social Media,0.7128,High,81.37
+C04052,108,3,267.98,89.3267,Germany,Email,0.6879,Medium,81.33
+C00568,34,3,210.68,70.2267,UAE,Referral,0.3858,Low,81.29
+C05771,120,1,143.46,143.46,United Kingdom,Organic Search,0.7552,High,81.26
+C00046,40,5,484.67,96.934,United States,Organic Search,0.5563,Medium,81.16
+C02878,174,1,193.98,193.98,United Kingdom,Email,0.8077,High,81.04
+C00751,36,4,294.26,73.565,Azerbaijan,Organic Search,0.3756,Low,80.87
+C02295,97,7,574.52,82.0743,Turkey,Organic Search,0.6521,Medium,80.86
+C05252,128,10,719.71,71.971,Germany,Organic Search,0.6876,Medium,80.83
+C04655,157,2,242.77,121.385,United States,Referral,0.8023,High,80.78
+C04982,23,13,1846.35,142.0269,United States,Referral,0.356,Low,80.7
+C04150,1,8,914.76,114.345,Azerbaijan,Social Media,0.5139,Medium,80.59
+C01348,122,6,541.04,90.1733,United Kingdom,Social Media,0.8124,High,80.57
+C05621,18,11,1209.69,109.9718,United Kingdom,Paid Search,0.2775,Low,80.55
+C02110,129,19,1512.68,79.6147,United States,Referral,0.678,Medium,80.33
+C03298,0,9,748.67,83.1856,United States,Paid Search,0.2691,Low,80.23
+C02427,51,9,580.4,64.4889,Azerbaijan,Social Media,0.3512,Low,80.11
+C02742,29,2,154.09,77.045,Germany,Paid Search,0.5197,Medium,80.08
+C04948,68,5,677.77,135.554,UAE,Referral,0.5488,Medium,80.08
+C02261,63,5,540.65,108.13,Turkey,Organic Search,0.5282,Medium,80.07
+C00821,163,1,168.09,168.09,Germany,Social Media,0.8622,High,80.02
+C04609,29,6,382.88,63.8133,United States,Referral,0.2972,Low,80.02
+C05823,1,2,215.43,107.715,Turkey,Paid Search,0.3705,Low,79.82
+C05266,155,5,398.27,79.654,Turkey,Email,0.7469,High,79.44
+C02799,76,3,339.78,113.26,UAE,Organic Search,0.6488,Medium,79.36
+C01011,160,4,332.84,83.21,United Kingdom,Organic Search,0.7865,High,79.33
+C02168,35,2,203.88,101.94,Turkey,Social Media,0.6435,Medium,79.25
+C02298,104,1,115.33,115.33,UAE,Paid Search,0.7939,High,79.23
+C01786,23,4,263.9,65.975,Germany,Email,0.3,Low,79.18
+C04526,4,11,1093.43,99.4027,UAE,Organic Search,0.2689,Low,78.98
+C01784,11,4,540.17,135.0425,UAE,Referral,0.3666,Low,78.86
+C02382,7,2,164.68,82.34,Germany,Paid Search,0.5052,Medium,78.82
+C03556,110,5,552.08,110.416,UAE,Paid Search,0.7645,High,78.81
+C03773,43,1,134.14,134.14,United Kingdom,Organic Search,0.5872,Medium,78.76
+C00861,27,24,2466.51,102.7712,Germany,Organic Search,0.3046,Low,78.73
+C05671,17,6,471.46,78.5767,Turkey,Social Media,0.4416,Medium,78.73
+C04137,122,1,135.56,135.56,UAE,Organic Search,0.7864,High,78.64
+C02405,40,3,297.9,99.3,United Kingdom,Email,0.4303,Medium,78.48
+C02925,115,4,429.9,107.475,United States,Referral,0.7117,High,78.46
+C02381,156,5,511.94,102.388,UAE,Organic Search,0.8105,High,78.45
+C03509,178,1,174.5,174.5,Azerbaijan,Social Media,0.8887,High,78.41
+C05821,121,15,931.36,62.0907,Azerbaijan,Organic Search,0.681,Medium,78.31
+C05747,22,2,165.76,82.88,United Kingdom,Paid Search,0.4723,Medium,78.29
+C02273,16,2,207.6,103.8,Turkey,Referral,0.4604,Medium,78.2
+C01613,121,4,436.62,109.155,UAE,Organic Search,0.7496,High,77.92
+C04387,18,2,178.96,89.48,United Kingdom,Organic Search,0.4353,Medium,77.9
+C03540,57,3,223.12,74.3733,United States,Email,0.5274,Medium,77.88
+C02973,160,13,1402.75,107.9038,Turkey,Email,0.8253,High,77.81
+C04792,91,2,174.57,87.285,United States,Organic Search,0.6917,Medium,77.63
+C03668,42,11,1012.63,92.0573,United States,Organic Search,0.3914,Low,77.54
+C03571,19,5,597.04,119.408,United States,Organic Search,0.4742,Medium,77.45
+C02990,13,2,150.44,75.22,United States,Social Media,0.5832,Medium,77.41
+C05575,154,4,237.2,59.3,UAE,Social Media,0.859,High,77.38
+C04935,11,1,130.01,130.01,UAE,Paid Search,0.5948,Medium,77.34
+C03770,121,1,125.63,125.63,UAE,Social Media,0.8265,High,77.23
+C04451,143,1,162.41,162.41,United Kingdom,Referral,0.7556,High,77.23
+C00257,31,1,117.83,117.83,United States,Social Media,0.6552,Medium,77.21
+C02154,61,4,443.49,110.8725,UAE,Email,0.5854,Medium,77.11
+C04176,43,4,228.92,57.23,United States,Paid Search,0.4927,Medium,76.9
+C00228,54,7,671.31,95.9014,United Kingdom,Social Media,0.6496,Medium,76.81
+C03438,63,1,99.63,99.63,United States,Social Media,0.7706,High,76.77
+C03790,122,2,132.21,66.105,United States,Social Media,0.819,High,76.73
+C03632,116,4,430.89,107.7225,UAE,Organic Search,0.6722,Medium,76.67
+C02561,68,1,107.34,107.34,United Kingdom,Paid Search,0.7143,High,76.67
+C01251,3,3,274.18,91.3933,United Kingdom,Paid Search,0.444,Medium,76.61
+C02280,109,22,1508.03,68.5468,Germany,Referral,0.4143,Medium,76.61
+C02505,0,2,287.97,143.985,Turkey,Organic Search,0.4963,Medium,76.56
+C03547,43,2,126.32,63.16,Azerbaijan,Social Media,0.6049,Medium,76.41
+C02653,153,1,167.14,167.14,United Kingdom,Referral,0.7764,High,76.33
+C00527,31,4,466.4,116.6,United Kingdom,Organic Search,0.4827,Medium,76.17
+C02562,122,8,535.16,66.895,Turkey,Organic Search,0.6877,Medium,76.14
+C01088,20,1,125.95,125.95,Germany,Paid Search,0.6045,Medium,76.13
+C05893,41,5,501.62,100.324,United Kingdom,Social Media,0.5935,Medium,76.12
+C01706,141,1,138.68,138.68,Azerbaijan,Social Media,0.8562,High,75.79
+C05506,98,15,1162.91,77.5273,United States,Referral,0.6345,Medium,75.72
+C00261,78,6,385.31,64.2183,United Kingdom,Organic Search,0.5497,Medium,75.64
+C05875,15,4,546.06,136.515,United States,Social Media,0.6754,Medium,75.61
+C00143,16,3,412.55,137.5167,United States,Organic Search,0.5762,Medium,75.6
+C00940,18,10,1295.82,129.582,UAE,Organic Search,0.4888,Medium,75.6
+C04407,66,1,99.87,99.87,Turkey,Social Media,0.7555,High,75.45
+C03546,63,5,515.78,103.156,Turkey,Referral,0.5859,Medium,75.34
+C03591,92,9,774.16,86.0178,Turkey,Email,0.5609,Medium,75.29
+C01926,141,1,136.67,136.67,UAE,Social Media,0.8628,High,75.26
+C01932,27,6,595.19,99.1983,United Kingdom,Paid Search,0.4817,Medium,75.23
+C01708,161,7,521.93,74.5614,United States,Social Media,0.8722,High,75.18
+C04502,56,5,345.95,69.19,United Kingdom,Paid Search,0.5043,Medium,75.12
+C00192,146,1,154.46,154.46,Turkey,Email,0.789,High,75.12
+C04112,33,4,261.18,65.295,United Kingdom,Social Media,0.5014,Medium,75.07
+C02800,6,5,509.42,101.884,UAE,Paid Search,0.4486,Medium,75.07
+C05042,60,1,110.72,110.72,UAE,Organic Search,0.6774,Medium,75.0
+C04592,40,15,1695.76,113.0507,United States,Referral,0.4831,Medium,74.93
+C05625,82,8,747.85,93.4812,United States,Referral,0.5273,Medium,74.88
+C01209,59,1,115.14,115.14,Germany,Organic Search,0.65,Medium,74.84
+C05900,3,3,224.95,74.9833,Germany,Social Media,0.3326,Low,74.81
+C03398,142,3,287.72,95.9067,United States,Email,0.768,High,74.77
+C03895,87,12,898.18,74.8483,Azerbaijan,Organic Search,0.5084,Medium,74.72
+C02293,24,3,411.13,137.0433,Turkey,Organic Search,0.5375,Medium,74.49
+C05960,135,1,138.75,138.75,United States,Email,0.8034,High,74.31
+C05401,26,1,114.27,114.27,Germany,Paid Search,0.6502,Medium,74.3
+C01105,107,2,137.6,68.8,United Kingdom,Paid Search,0.731,High,74.21
+C00694,102,5,410.61,82.122,Germany,Organic Search,0.6431,Medium,74.03
+C04038,39,2,125.15,62.575,United Kingdom,Paid Search,0.5915,Medium,74.03
+C00789,63,8,801.81,100.2262,United States,Organic Search,0.5802,Medium,73.72
+C04967,74,16,1139.63,71.2269,Germany,Organic Search,0.5247,Medium,73.62
+C04435,57,2,127.65,63.825,United States,Organic Search,0.5764,Medium,73.58
+C02299,87,2,255.44,127.72,United Kingdom,Social Media,0.8124,High,73.53
+C01910,161,4,187.88,46.97,Germany,Organic Search,0.8212,High,73.47
+C02018,87,5,418.37,83.674,Azerbaijan,Referral,0.591,Medium,73.44
+C01530,69,13,1149.73,88.4408,United States,Email,0.5417,Medium,73.37
+C03830,12,1,123.01,123.01,Turkey,Social Media,0.5962,Medium,73.34
+C05949,178,1,173.85,173.85,United States,Referral,0.8333,High,73.25
+C05021,8,8,556.59,69.5738,Turkey,Social Media,0.2266,Low,73.22
+C03140,162,2,197.74,98.87,Turkey,Paid Search,0.8632,High,73.16
+C01587,148,3,265.22,88.4067,Azerbaijan,Social Media,0.8368,High,73.16
+C01041,85,1,106.1,106.1,Germany,Organic Search,0.6894,Medium,73.15
+C03708,65,4,229.3,57.325,UAE,Organic Search,0.4819,Medium,73.12
+C04906,84,4,240.17,60.0425,United States,Organic Search,0.602,Medium,73.11
+C05342,95,1,94.97,94.97,United States,Social Media,0.8113,High,72.99
+C03418,122,2,190.21,95.105,United Kingdom,Social Media,0.826,High,72.89
+C00900,16,43,4098.58,95.3158,United States,Organic Search,0.1884,Low,72.84
+C04127,176,6,487.38,81.23,Germany,Paid Search,0.8669,High,72.84
+C04739,15,3,277.71,92.57,Germany,Social Media,0.5767,Medium,72.79
+C03165,9,1,139.02,139.02,UAE,Organic Search,0.5233,Medium,72.75
+C00370,107,21,1544.84,73.5638,Turkey,Email,0.6006,Medium,72.74
+C00642,102,3,217.45,72.4833,United States,Organic Search,0.6978,Medium,72.63
+C04902,5,4,318.04,79.51,Azerbaijan,Social Media,0.408,Medium,72.53
+C05018,41,1,126.41,126.41,United States,Referral,0.5737,Medium,72.52
+C01210,130,8,542.03,67.7538,UAE,Paid Search,0.7744,High,72.51
+C02464,2,4,309.72,77.43,United States,Referral,0.2911,Low,72.45
+C01037,34,1,123.14,123.14,Turkey,Organic Search,0.5873,Medium,72.31
+C05006,81,8,478.12,59.765,United States,Organic Search,0.5678,Medium,72.07
+C00325,1,1,137.07,137.07,United States,Paid Search,0.5246,Medium,71.9
+C02084,104,3,310.96,103.6533,Turkey,Organic Search,0.6833,Medium,71.89
+C03691,15,10,1063.92,106.392,Germany,Social Media,0.5096,Medium,71.86
+C03427,19,3,343.53,114.51,Germany,Email,0.4437,Medium,71.82
+C05776,57,17,1410.66,82.98,United States,Referral,0.4138,Medium,71.58
+C00485,153,6,639.85,106.6417,United States,Organic Search,0.8175,High,71.55
+C00362,169,5,528.09,105.618,United States,Organic Search,0.8275,High,71.51
+C03961,44,2,115.82,57.91,UAE,Social Media,0.6173,Medium,71.5
+C05595,145,20,1241.44,62.072,United States,Organic Search,0.6764,Medium,71.5
+C00674,0,5,648.8,129.76,United Kingdom,Referral,0.2851,Low,71.44
+C03761,73,1,114.72,114.72,Azerbaijan,Referral,0.6225,Medium,71.42
+C01785,1,2,306.87,153.435,Azerbaijan,Email,0.2326,Low,71.39
+C04551,30,3,181.45,60.4833,UAE,Organic Search,0.4326,Medium,71.35
+C05742,11,7,487.9,69.7,United Kingdom,Social Media,0.4153,Medium,71.23
+C00388,72,5,436.19,87.238,UAE,Referral,0.5235,Medium,71.11
+C05193,30,1,126.48,126.48,UAE,Email,0.5616,Medium,71.03
+C04650,77,10,875.21,87.521,Azerbaijan,Email,0.5003,Medium,71.0
+C05019,139,7,624.46,89.2086,UAE,Organic Search,0.7748,High,70.92
+C02230,81,2,146.63,73.315,United States,Organic Search,0.6654,Medium,70.82
+C01180,39,13,1176.56,90.5046,United States,Email,0.3637,Low,70.66
+C03291,177,1,158.49,158.49,United Kingdom,Social Media,0.8757,High,70.57
+C00716,178,7,343.9,49.1286,UAE,Organic Search,0.8342,High,70.54
+C05443,164,1,146.13,146.13,Azerbaijan,Social Media,0.8784,High,70.45
+C01679,171,1,153.35,153.35,Germany,Paid Search,0.8703,High,70.24
+C01709,17,1,109.74,109.74,Germany,Social Media,0.64,Medium,70.24
+C00514,157,3,257.72,85.9067,Azerbaijan,Referral,0.7631,High,70.24
+C04569,81,3,258.14,86.0467,United States,Paid Search,0.7064,High,70.13
+C04200,150,8,816.8,102.1,Germany,Paid Search,0.8325,High,70.1
+C03676,26,3,192.87,64.29,Turkey,Referral,0.363,Low,70.02
+C05262,46,11,709.02,64.4564,United Kingdom,Organic Search,0.3049,Low,69.98
+C03998,42,1,117.74,117.74,United States,Email,0.5927,Medium,69.79
+C00891,51,27,1788.41,66.2374,United States,Paid Search,0.4348,Medium,69.78
+C05188,44,6,428.11,71.3517,Azerbaijan,Organic Search,0.422,Medium,69.78
+C03608,139,6,389.38,64.8967,UAE,Paid Search,0.8044,High,69.77
+C04000,107,1,101.29,101.29,Azerbaijan,Social Media,0.8187,High,69.75
+C01275,175,1,169.03,169.03,Azerbaijan,Organic Search,0.8014,High,69.66
+C00544,39,1,106.8,106.8,Azerbaijan,Paid Search,0.6519,Medium,69.63
+C01030,91,3,156.72,52.24,Azerbaijan,Referral,0.5576,Medium,69.6
+C02511,20,6,533.39,88.8983,United States,Organic Search,0.3421,Low,69.58
+C01558,28,11,1025.6,93.2364,UAE,Organic Search,0.4447,Medium,69.57
+C05663,11,7,703.89,100.5557,Azerbaijan,Referral,0.247,Low,69.55
+C03158,65,5,495.76,99.152,Azerbaijan,Social Media,0.6778,Medium,69.52
+C00548,103,1,114.76,114.76,Germany,Organic Search,0.6924,Medium,69.43
+C03539,9,1,140.4,140.4,UAE,Email,0.4944,Medium,69.41
+C02367,89,2,142.3,71.15,Turkey,Organic Search,0.6665,Medium,69.4
+C02980,93,3,163.51,54.5033,United States,Organic Search,0.6451,Medium,69.3
+C03255,29,10,764.96,76.496,Turkey,Social Media,0.5202,Medium,69.28
+C05038,1,7,638.34,91.1914,United States,Organic Search,0.2446,Low,69.22
+C05012,21,3,305.88,101.96,Azerbaijan,Organic Search,0.4148,Medium,69.21
+C05868,24,23,2050.3,89.1435,Azerbaijan,Organic Search,0.3911,Low,69.19
+C05494,104,5,342.47,68.494,United Kingdom,Referral,0.6407,Medium,69.05
+C05672,44,1,114.18,114.18,Germany,Organic Search,0.6036,Medium,68.92
+C00197,77,19,1503.13,79.1121,United Kingdom,Organic Search,0.5443,Medium,68.89
+C00745,66,14,1411.39,100.8136,Germany,Email,0.4421,Medium,68.82
+C03411,52,3,158.92,52.9733,Turkey,Organic Search,0.4328,Medium,68.78
+C03845,103,9,515.95,57.3278,UAE,Paid Search,0.6694,Medium,68.77
+C01640,83,6,429.27,71.545,UAE,Referral,0.5232,Medium,68.76
+C02120,64,9,525.72,58.4133,United States,Paid Search,0.589,Medium,68.65
+C01747,17,2,141.38,70.69,United States,Organic Search,0.4853,Medium,68.61
+C05346,13,3,241.73,80.5767,Germany,Organic Search,0.4,Low,68.52
+C03747,180,10,850.02,85.002,UAE,Referral,0.8334,High,68.48
+C00238,19,4,551.88,137.97,United Kingdom,Organic Search,0.4962,Medium,68.47
+C01909,45,3,152.61,50.87,United States,Email,0.4484,Medium,68.43
+C04856,107,7,618.89,88.4129,United States,Organic Search,0.7001,High,68.41
+C04213,7,1,130.95,130.95,Azerbaijan,Paid Search,0.5222,Medium,68.38
+C03781,10,3,336.8,112.2667,United Kingdom,Organic Search,0.4149,Medium,68.35
+C02374,7,7,502.8,71.8286,United States,Paid Search,0.2628,Low,68.33
+C05345,67,6,635.79,105.965,UAE,Organic Search,0.5681,Medium,68.29
+C01848,168,1,149.38,149.38,Azerbaijan,Paid Search,0.8527,High,68.24
+C02944,80,5,350.61,70.122,United States,Referral,0.5728,Medium,68.21
+C00363,4,1,146.75,146.75,Turkey,Organic Search,0.464,Medium,68.09
+C04346,130,1,126.65,126.65,United States,Organic Search,0.7765,High,68.08
+C02033,77,2,145.26,72.63,Germany,Paid Search,0.7184,High,68.05
+C05727,172,1,149.34,149.34,Germany,Social Media,0.8706,High,68.03
+C04908,25,2,159.24,79.62,Germany,Organic Search,0.5125,Medium,68.01
+C01694,64,3,236.65,78.8833,Azerbaijan,Paid Search,0.6223,Medium,67.97
+C00279,40,3,234.46,78.1533,Germany,Social Media,0.6117,Medium,67.94
+C02414,58,2,118.39,59.195,Germany,Organic Search,0.573,Medium,67.84
+C05711,175,1,152.6,152.6,Azerbaijan,Paid Search,0.8642,High,67.82
+C02595,7,8,856.67,107.0838,Turkey,Organic Search,0.1495,Low,67.79
+C01138,159,13,1170.22,90.0169,Azerbaijan,Email,0.8068,High,67.76
+C00020,74,6,406.21,67.7017,United States,Organic Search,0.5873,Medium,67.73
+C05099,106,4,182.76,45.69,United Kingdom,Email,0.5844,Medium,67.69
+C05965,42,1,109.74,109.74,Germany,Organic Search,0.6162,Medium,67.63
+C00252,69,7,497.01,71.0014,United Kingdom,Paid Search,0.5624,Medium,67.45
+C02701,64,2,132.11,66.055,Turkey,Referral,0.5103,Medium,67.42
+C03774,150,2,171.05,85.525,UAE,Organic Search,0.8054,High,67.39
+C03712,57,3,272.13,90.71,United Kingdom,Referral,0.5032,Medium,67.35
+C00344,90,1,97.58,97.58,Germany,Organic Search,0.6899,Medium,67.32
+C02213,154,4,343.24,85.81,Germany,Paid Search,0.8193,High,67.31
+C04666,24,5,513.28,102.656,Turkey,Organic Search,0.3759,Low,67.3
+C03100,99,3,220.37,73.4567,Germany,Social Media,0.7667,High,67.28
+C05723,70,1,89.61,89.61,Turkey,Social Media,0.7507,High,67.27
+C02746,14,3,245.35,81.7833,Azerbaijan,Organic Search,0.2741,Low,67.26
+C03601,108,1,97.51,97.51,United States,Social Media,0.8274,High,67.23
+C05516,31,7,525.8,75.1143,Germany,Email,0.355,Low,67.19
+C01817,56,2,124.65,62.325,United States,Paid Search,0.6404,Medium,67.15
+C02421,11,5,285.09,57.018,United States,Social Media,0.3733,Low,66.97
+C01224,34,8,841.51,105.1888,United States,Referral,0.3815,Low,66.73
+C01047,91,4,205.71,51.4275,United States,Referral,0.537,Medium,66.73
+C04394,156,11,876.57,79.6882,Turkey,Email,0.7771,High,66.71
+C03590,76,2,351.1,175.55,Germany,Organic Search,0.7221,High,66.71
+C00195,77,2,165.78,82.89,United States,Referral,0.6391,Medium,66.68
+C04646,152,13,719.57,55.3515,Turkey,Organic Search,0.7349,High,66.65
+C03827,66,3,250.53,83.51,UAE,Organic Search,0.5674,Medium,66.63
+C03971,53,2,186.16,93.08,United Kingdom,Referral,0.5248,Medium,66.61
+C04457,14,2,190.7,95.35,United States,Social Media,0.6596,Medium,66.59
+C03339,162,6,671.7,111.95,UAE,Referral,0.7983,High,66.57
+C03914,1,6,503.39,83.8983,UAE,Referral,0.1425,Low,66.55
+C02101,2,18,1625.66,90.3144,Turkey,Organic Search,0.19,Low,66.51
+C01943,21,1,130.81,130.81,UAE,Email,0.5081,Medium,66.46
+C00194,38,11,732.09,66.5536,Germany,Organic Search,0.4536,Medium,66.41
+C03517,42,1,114.17,114.17,Turkey,Organic Search,0.5805,Medium,66.27
+C05201,104,5,354.84,70.968,Germany,Organic Search,0.6581,Medium,66.1
+C00767,13,1,127.76,127.76,United States,Email,0.5173,Medium,66.09
+C02847,140,4,315.63,78.9075,Germany,Paid Search,0.7933,High,66.09
+C05979,48,2,160.69,80.345,United Kingdom,Social Media,0.635,Medium,66.06
+C01574,93,9,810.38,90.0422,Germany,Paid Search,0.7224,High,65.94
+C04304,140,3,168.02,56.0067,Azerbaijan,Paid Search,0.7934,High,65.92
+C03939,77,1,99.52,99.52,Germany,Referral,0.6617,Medium,65.85
+C02770,143,3,268.63,89.5433,UAE,Social Media,0.8519,High,65.81
+C04599,147,7,387.67,55.3814,UAE,Referral,0.7578,High,65.77
+C01353,12,3,193.61,64.5367,Azerbaijan,Organic Search,0.3395,Low,65.73
+C05609,31,17,1336.95,78.6441,Turkey,Email,0.2507,Low,65.43
+C04702,15,1,119.96,119.96,United States,Organic Search,0.5438,Medium,65.24
+C04632,76,1,85.13,85.13,UAE,Social Media,0.766,High,65.21
+C01867,9,2,156.91,78.455,United Kingdom,Organic Search,0.4154,Medium,65.18
+C03791,44,6,365.64,60.94,United States,Paid Search,0.5443,Medium,65.13
+C04415,67,1,99.58,99.58,United Kingdom,Organic Search,0.6532,Medium,65.05
+C01406,13,2,214.94,107.47,United States,Email,0.484,Medium,65.02
+C00775,36,6,425.44,70.9067,United Kingdom,Referral,0.258,Low,64.98
+C04410,8,1,117.8,117.8,Germany,Paid Search,0.551,Medium,64.9
+C02102,150,5,399.26,79.852,Turkey,Email,0.746,High,64.9
+C00410,60,1,110.72,110.72,United Kingdom,Referral,0.5846,Medium,64.73
+C04631,22,3,210.47,70.1567,UAE,Social Media,0.5876,Medium,64.71
+C04488,156,1,134.12,134.12,Germany,Organic Search,0.836,High,64.68
+C05000,37,4,340.06,85.015,Germany,Organic Search,0.4944,Medium,64.67
+C01532,20,14,1061.83,75.845,United Kingdom,Referral,0.2997,Low,64.66
+C03764,13,2,219.33,109.665,Germany,Organic Search,0.5074,Medium,64.62
+C03883,19,1,99.94,99.94,United States,Social Media,0.6464,Medium,64.6
+C01310,8,3,271.1,90.3667,Germany,Email,0.3676,Low,64.53
+C00709,78,1,99.52,99.52,United States,Referral,0.6477,Medium,64.46
+C02632,67,2,113.08,56.54,Turkey,Social Media,0.7029,High,64.44
+C03667,99,8,514.73,64.3412,Germany,Referral,0.6087,Medium,64.38
+C03829,16,2,422.63,211.315,Turkey,Organic Search,0.6478,Medium,64.34
+C05231,134,1,115.6,115.6,Turkey,Social Media,0.8284,High,64.32
+C05629,8,8,779.18,97.3975,Turkey,Organic Search,0.2097,Low,64.23
+C00111,119,3,190.47,63.49,Azerbaijan,Paid Search,0.7491,High,64.21
+C00875,94,1,83.92,83.92,Turkey,Social Media,0.7989,High,64.19
+C05745,169,9,336.0,37.3333,United Kingdom,Organic Search,0.8062,High,64.15
+C02195,144,8,655.4,81.925,Turkey,Paid Search,0.8013,High,64.13
+C05940,27,1,126.52,126.52,Azerbaijan,Email,0.5067,Medium,64.1
+C01484,31,1,94.07,94.07,United States,Social Media,0.6805,Medium,64.02
+C01287,11,1,139.32,139.32,Azerbaijan,Organic Search,0.4594,Medium,64.01
+C03534,35,2,137.59,68.795,United Kingdom,Organic Search,0.4642,Medium,63.86
+C04084,28,2,102.41,51.205,United States,Social Media,0.6231,Medium,63.81
+C01284,14,3,180.12,60.04,Azerbaijan,Social Media,0.4837,Medium,63.75
+C00209,46,16,1228.28,76.7675,United States,Referral,0.4665,Medium,63.74
+C02146,34,3,166.12,55.3733,UAE,Referral,0.3836,Low,63.73
+C01339,162,5,427.45,85.49,Germany,Paid Search,0.8491,High,63.55
+C01511,146,10,812.3,81.23,Germany,Email,0.7631,High,63.54
+C04177,99,2,242.61,121.305,Germany,Referral,0.7245,High,63.53
+C03574,120,1,101.42,101.42,Azerbaijan,Social Media,0.8336,High,63.41
+C02961,163,6,328.12,54.6867,Turkey,Paid Search,0.85,High,63.39
+C03256,61,10,936.65,93.665,United States,Paid Search,0.6977,Medium,63.37
+C04443,20,15,1252.23,83.482,Turkey,Referral,0.298,Low,63.37
+C05113,144,2,156.14,78.07,Azerbaijan,Paid Search,0.8207,High,63.37
+C02744,72,1,82.95,82.95,Turkey,Social Media,0.7636,High,63.34
+C04548,53,11,856.64,77.8764,Azerbaijan,Referral,0.4466,Medium,63.29
+C02166,142,14,1111.47,79.3907,Turkey,Referral,0.7305,High,63.16
+C03633,17,29,2750.5,94.8448,United States,Organic Search,0.3001,Low,63.16
+C00049,160,1,138.85,138.85,United States,Email,0.8081,High,63.12
+C04786,4,8,1015.32,126.915,United States,Referral,0.3169,Low,63.09
+C04850,90,8,787.3,98.4125,United States,Organic Search,0.6515,Medium,63.07
+C02124,122,1,110.19,110.19,United States,Email,0.7757,High,63.06
+C05686,28,25,1996.59,79.8636,UAE,Organic Search,0.463,Medium,63.02
+C01655,1,2,169.55,84.775,Turkey,Organic Search,0.3717,Low,63.02
+C05703,39,7,518.88,74.1257,UAE,Paid Search,0.5518,Medium,63.01
+C03198,56,10,732.05,73.205,United States,Organic Search,0.5306,Medium,62.99
+C01531,37,10,1075.04,107.504,Azerbaijan,Referral,0.3,Low,62.96
+C00828,43,6,370.51,61.7517,United States,Organic Search,0.4377,Medium,62.91
+C01355,29,12,882.89,73.5742,United States,Social Media,0.5708,Medium,62.91
+C05256,7,3,183.55,61.1833,United States,Referral,0.3424,Low,62.84
+C04801,40,2,125.25,62.625,United States,Organic Search,0.5182,Medium,62.81
+C03363,104,2,123.11,61.555,UAE,Email,0.6631,Medium,62.79
+C03635,118,7,468.04,66.8629,Turkey,Referral,0.625,Medium,62.69
+C00095,46,4,379.39,94.8475,United Kingdom,Email,0.4606,Medium,62.66
+C01920,47,9,784.07,87.1189,Azerbaijan,Organic Search,0.4517,Medium,62.62
+C02325,172,5,570.47,114.094,Germany,Referral,0.795,High,62.61
+C03885,51,7,317.29,45.3271,United States,Paid Search,0.55,Medium,62.57
+C00066,67,2,108.17,54.085,UAE,Referral,0.5776,Medium,62.48
+C03639,26,18,1485.43,82.5239,Turkey,Email,0.4316,Medium,62.18
+C02206,40,1,92.04,92.04,Azerbaijan,Social Media,0.6752,Medium,62.14
+C05230,114,3,290.35,96.7833,United States,Organic Search,0.7355,High,62.0
+C01077,71,7,862.92,123.2743,Germany,Email,0.5618,Medium,61.97
+C03149,19,3,170.7,56.9,Turkey,Organic Search,0.3831,Low,61.96
+C02572,66,2,279.0,139.5,Germany,Email,0.6808,Medium,61.94
+C04378,27,12,1428.79,119.0658,United Kingdom,Referral,0.3567,Low,61.9
+C00696,81,6,380.96,63.4933,Turkey,Organic Search,0.5867,Medium,61.89
+C02004,123,2,135.77,67.885,Azerbaijan,Referral,0.653,Medium,61.85
+C00926,37,9,662.79,73.6433,United States,Organic Search,0.4282,Medium,61.85
+C02265,168,4,409.53,102.3825,United Kingdom,Social Media,0.8853,High,61.8
+C02487,81,4,278.24,69.56,UAE,Paid Search,0.7492,High,61.71
+C01029,37,5,304.67,60.934,United States,Organic Search,0.4402,Medium,61.58
+C03202,82,2,140.29,70.145,Turkey,Organic Search,0.638,Medium,61.49
+C04811,12,10,982.33,98.233,UAE,Organic Search,0.4011,Medium,61.46
+C05405,18,4,269.1,67.275,UAE,Social Media,0.5682,Medium,61.44
+C00206,80,1,94.52,94.52,Germany,Organic Search,0.65,Medium,61.44
+C02581,85,7,652.85,93.2643,Germany,Paid Search,0.7332,High,61.37
+C05784,80,5,384.78,76.956,United States,Organic Search,0.6232,Medium,61.31
+C04280,142,5,630.36,126.072,Germany,Organic Search,0.8103,High,61.21
+C04727,10,2,212.05,106.025,United Kingdom,Referral,0.2886,Low,61.2
+C00441,4,5,459.98,91.996,Azerbaijan,Email,0.269,Low,61.19
+C04584,6,7,751.91,107.4157,United States,Email,0.3271,Low,61.16
+C01430,154,7,524.99,74.9986,Azerbaijan,Referral,0.757,High,61.04
+C00428,112,2,116.85,58.425,United States,Paid Search,0.7717,High,61.02
+C00720,169,2,234.0,117.0,Azerbaijan,Referral,0.8168,High,61.0
+C00612,15,13,1032.46,79.42,Azerbaijan,Referral,0.3148,Low,60.94
+C01930,170,8,774.86,96.8575,United States,Email,0.8142,High,60.86
+C01159,145,5,239.08,47.816,United States,Referral,0.6987,Medium,60.86
+C05032,86,2,154.19,77.095,Germany,Organic Search,0.6697,Medium,60.74
+C05377,164,2,146.66,73.33,United States,Organic Search,0.8413,High,60.68
+C00945,109,6,468.2,78.0333,Turkey,Email,0.6492,Medium,60.65
+C04315,180,7,464.97,66.4243,United States,Referral,0.8375,High,60.64
+C03384,83,1,80.86,80.86,Germany,Paid Search,0.7492,High,60.58
+C05822,68,3,282.96,94.32,Azerbaijan,Social Media,0.6873,Medium,60.56
+C00509,1,5,474.52,94.904,United States,Organic Search,0.3553,Low,60.45
+C04923,35,1,90.96,90.96,United States,Paid Search,0.6639,Medium,60.38
+C01383,45,1,86.34,86.34,Turkey,Social Media,0.6981,Medium,60.27
+C02736,41,5,349.6,69.92,Azerbaijan,Organic Search,0.3889,Low,60.27
+C02155,43,1,96.45,96.45,Germany,Organic Search,0.6243,Medium,60.21
+C05087,152,2,199.24,99.62,United Kingdom,Paid Search,0.8451,High,60.13
+C05475,102,3,256.8,85.6,United Kingdom,Email,0.6864,Medium,60.09
+C02185,49,9,498.15,55.35,Germany,Organic Search,0.3952,Low,60.06
+C02016,100,1,88.29,88.29,Germany,Paid Search,0.7558,High,60.05
+C03580,154,1,124.69,124.69,Turkey,Organic Search,0.8236,High,60.01
+C03682,81,1,77.38,77.38,Germany,Social Media,0.7752,High,59.99
+C03127,38,5,512.84,102.568,Germany,Paid Search,0.5872,Medium,59.96
+C04436,13,10,895.74,89.574,United States,Organic Search,0.3087,Low,59.96
+C04596,14,1,101.99,101.99,UAE,Paid Search,0.5878,Medium,59.95
+C01200,46,4,292.38,73.095,United Kingdom,Organic Search,0.5263,Medium,59.95
+C04216,19,2,220.41,110.205,Germany,Organic Search,0.5166,Medium,59.93
+C01473,62,1,80.96,80.96,UAE,Social Media,0.7403,High,59.93
+C03835,21,4,430.73,107.6825,Germany,Organic Search,0.4445,Medium,59.83
+C02330,86,2,141.12,70.56,Turkey,Social Media,0.7725,High,59.82
+C01301,79,1,79.6,79.6,United States,Paid Search,0.7505,High,59.74
+C02688,62,5,353.24,70.648,United States,Organic Search,0.5223,Medium,59.73
+C01318,28,4,207.55,51.8875,United Kingdom,Paid Search,0.4251,Medium,59.71
+C05681,65,1,83.01,83.01,Germany,Paid Search,0.719,High,59.69
+C04255,7,2,188.0,94.0,United States,Referral,0.3174,Low,59.66
+C00918,175,1,135.59,135.59,Germany,Organic Search,0.8547,High,59.6
+C00557,35,1,88.71,88.71,United States,Paid Search,0.6684,Medium,59.3
+C03089,29,17,1484.17,87.3041,United Kingdom,Organic Search,0.3341,Low,59.1
+C04691,102,1,80.58,80.58,United States,Social Media,0.8312,High,59.1
+C05933,29,2,223.97,111.985,United States,Organic Search,0.6272,Medium,59.07
+C03951,176,5,347.63,69.526,United States,Social Media,0.8958,High,59.0
+C05157,15,3,210.02,70.0067,United Kingdom,Referral,0.3432,Low,58.97
+C03760,100,4,255.43,63.8575,Turkey,Referral,0.655,Medium,58.82
+C03250,9,2,128.8,64.4,United Kingdom,Paid Search,0.5275,Medium,58.8
+C00525,0,3,238.12,79.3733,United States,Paid Search,0.2469,Low,58.79
+C03131,58,1,82.82,82.82,United States,Paid Search,0.7098,High,58.79
+C05369,7,4,269.62,67.405,Germany,Paid Search,0.3775,Low,58.72
+C01144,46,6,332.9,55.4833,Azerbaijan,Referral,0.2722,Low,58.67
+C05045,16,1,94.41,94.41,Germany,Social Media,0.6208,Medium,58.61
+C01561,88,3,164.23,54.7433,Germany,Paid Search,0.7209,High,58.55
+C05623,9,12,1301.13,108.4275,Azerbaijan,Email,0.3345,Low,58.46
+C02148,98,4,399.2,99.8,Turkey,Social Media,0.794,High,58.22
+C03249,52,2,127.03,63.515,United States,Organic Search,0.5802,Medium,58.19
+C02107,12,6,691.01,115.1683,Azerbaijan,Organic Search,0.3458,Low,58.13
+C04799,92,1,89.46,89.46,Azerbaijan,Organic Search,0.664,Medium,58.11
+C01412,67,1,84.11,84.11,United Kingdom,Social Media,0.69,Medium,58.04
+C05581,107,1,83.83,83.83,Turkey,Social Media,0.8221,High,57.97
+C02189,166,2,159.65,79.825,United Kingdom,Organic Search,0.8187,High,57.95
+C03276,147,1,126.46,126.46,Azerbaijan,Email,0.7476,High,57.88
+C02978,137,1,103.48,103.48,United Kingdom,Social Media,0.8513,High,57.87
+C05298,16,9,1135.28,126.1422,United States,Organic Search,0.5182,Medium,57.86
+C02181,5,3,259.93,86.6433,United States,Email,0.3807,Low,57.83
+C04314,72,1,76.33,76.33,UAE,Social Media,0.7575,High,57.82
+C03871,21,1,112.84,112.84,Turkey,Organic Search,0.5122,Medium,57.8
+C00230,42,8,612.95,76.6188,UAE,Email,0.4316,Medium,57.79
+C03356,40,7,547.01,78.1443,Azerbaijan,Organic Search,0.3531,Low,57.75
+C02883,125,6,511.58,85.2633,Turkey,Organic Search,0.7438,High,57.55
+C04218,137,4,270.41,67.6025,Turkey,Paid Search,0.7728,High,57.51
+C00937,64,1,96.73,96.73,UAE,Referral,0.5945,Medium,57.51
+C05333,118,1,91.48,91.48,UAE,Paid Search,0.8229,High,57.42
+C03472,143,1,117.75,117.75,Turkey,Referral,0.7749,High,57.42
+C04675,32,3,166.26,55.42,United States,Referral,0.4103,Medium,57.38
+C00256,92,2,228.0,114.0,United States,Organic Search,0.7353,High,57.37
+C02593,3,3,303.25,101.0833,Germany,Organic Search,0.1889,Low,57.3
+C02365,76,16,1058.89,66.1806,UAE,Email,0.5281,Medium,57.19
+C02658,131,3,161.97,53.99,United States,Social Media,0.8232,High,57.14
+C00001,53,5,436.39,87.278,UAE,Paid Search,0.595,Medium,57.14
+C02579,110,5,289.58,57.916,Germany,Email,0.6653,Medium,57.04
+C05738,35,4,283.97,70.9925,United States,Email,0.4077,Medium,56.94
+C02862,66,27,2242.2,83.0444,Azerbaijan,Email,0.3272,Low,56.92
+C03947,34,3,225.55,75.1833,United Kingdom,Organic Search,0.4845,Medium,56.86
+C05196,179,2,290.64,145.32,United Kingdom,Email,0.8651,High,56.85
+C04540,31,10,752.23,75.223,UAE,Email,0.2449,Low,56.79
+C05016,52,2,89.67,44.835,United States,Paid Search,0.6328,Medium,56.75
+C04772,165,4,366.9,91.725,Azerbaijan,Social Media,0.876,High,56.72
+C02251,24,2,108.64,54.32,Germany,Paid Search,0.5215,Medium,56.66
+C01332,167,7,386.91,55.2729,United States,Referral,0.789,High,56.65
+C05676,109,1,92.22,92.22,Turkey,Organic Search,0.7426,High,56.54
+C04844,52,9,581.25,64.5833,Germany,Organic Search,0.3294,Low,56.5
+C01146,18,4,321.25,80.3125,United Kingdom,Organic Search,0.3906,Low,56.46
+C04941,18,10,928.0,92.8,United Kingdom,Paid Search,0.5317,Medium,56.35
+C05185,8,4,578.76,144.69,United States,Organic Search,0.5355,Medium,56.35
+C02429,6,15,1072.39,71.4927,Azerbaijan,Paid Search,0.182,Low,56.3
+C00032,18,5,331.19,66.238,United States,Paid Search,0.4793,Medium,56.24
+C01907,19,2,112.16,56.08,UAE,Social Media,0.5008,Medium,56.17
+C02039,6,2,201.98,100.99,Germany,Referral,0.2779,Low,56.14
+C05343,96,7,451.42,64.4886,United States,Organic Search,0.6381,Medium,56.12
+C01141,92,1,80.64,80.64,Germany,Organic Search,0.7109,High,56.08
+C01510,17,17,1387.96,81.6447,United Kingdom,Organic Search,0.3673,Low,56.03
+C00700,25,6,354.21,59.035,Turkey,Paid Search,0.3601,Low,56.0
+C04164,26,8,710.55,88.8188,United States,Email,0.4369,Medium,55.99
+C02300,18,5,335.54,67.108,Azerbaijan,Organic Search,0.3412,Low,55.99
+C05789,35,1,87.62,87.62,United Kingdom,Paid Search,0.6381,Medium,55.91
+C01278,25,9,682.28,75.8089,Turkey,Organic Search,0.2167,Low,55.91
+C02088,7,3,207.61,69.2033,Azerbaijan,Email,0.2693,Low,55.91
+C04338,8,6,744.48,124.08,Azerbaijan,Social Media,0.6056,Medium,55.89
+C04766,23,2,113.14,56.57,Azerbaijan,Paid Search,0.4936,Medium,55.84
+C01897,28,10,1224.53,122.453,United Kingdom,Referral,0.3393,Low,55.82
+C01256,22,5,258.3,51.66,United States,Social Media,0.4058,Medium,55.81
+C03515,37,9,586.7,65.1889,United Kingdom,Organic Search,0.3305,Low,55.75
+C03713,27,1,108.74,108.74,Germany,Referral,0.5124,Medium,55.72
+C01467,117,2,120.0,60.0,Germany,Social Media,0.7936,High,55.66
+C02177,0,5,294.71,58.942,UAE,Organic Search,0.1887,Low,55.6
+C01816,152,6,482.15,80.3583,Turkey,Organic Search,0.7891,High,55.59
+C02000,0,2,185.1,92.55,UAE,Organic Search,0.4939,Medium,55.59
+C02931,46,11,876.03,79.6391,Azerbaijan,Paid Search,0.5362,Medium,55.55
+C01752,52,15,1136.96,75.7973,Germany,Referral,0.4875,Medium,55.54
+C04773,124,3,314.7,104.9,United Kingdom,Referral,0.7288,High,55.49
+C00617,10,2,150.01,75.005,Germany,Organic Search,0.3694,Low,55.42
+C05605,76,11,696.03,63.2755,United States,Organic Search,0.5066,Medium,55.38
+C04139,174,2,151.94,75.97,Turkey,Organic Search,0.8373,High,55.05
+C05123,163,3,255.1,85.0333,UAE,Paid Search,0.8594,High,54.96
+C00790,32,7,656.22,93.7457,United States,Organic Search,0.5748,Medium,54.93
+C02408,119,3,168.3,56.1,Azerbaijan,Organic Search,0.6667,Medium,54.88
+C04343,12,25,2353.24,94.1296,United States,Referral,0.1435,Low,54.85
+C04661,56,4,269.56,67.39,Turkey,Paid Search,0.6413,Medium,54.78
+C02182,63,5,376.61,75.322,United States,Organic Search,0.5848,Medium,54.76
+C00131,68,2,293.79,146.895,UAE,Organic Search,0.7383,High,54.68
+C03316,0,9,743.48,82.6089,Turkey,Email,0.251,Low,54.52
+C03555,7,4,276.21,69.0525,Azerbaijan,Social Media,0.4495,Medium,54.5
+C03923,0,1,100.08,100.08,UAE,Social Media,0.5445,Medium,54.49
+C02851,175,11,772.17,70.1973,United States,Organic Search,0.8178,High,54.49
+C02755,33,1,85.43,85.43,Azerbaijan,Paid Search,0.6374,Medium,54.45
+C02425,6,2,112.15,56.075,Germany,Social Media,0.534,Medium,54.45
+C05734,59,20,1685.38,84.269,Turkey,Referral,0.4634,Medium,54.44
+C01657,150,7,834.97,119.2814,United States,Email,0.81,High,54.39
+C05331,1,4,312.25,78.0625,Turkey,Paid Search,0.4412,Medium,54.38
+C01212,78,2,120.52,60.26,Turkey,Referral,0.5962,Medium,54.34
+C03074,54,14,903.24,64.5171,United States,Organic Search,0.4913,Medium,54.34
+C04925,158,1,120.91,120.91,United Kingdom,Referral,0.789,High,54.34
+C00222,56,8,652.81,81.6012,Germany,Referral,0.434,Medium,54.25
+C05592,146,1,103.95,103.95,Azerbaijan,Social Media,0.8455,High,54.18
+C03082,56,4,227.94,56.985,Azerbaijan,Email,0.4251,Medium,54.16
+C03193,0,4,276.7,69.175,United Kingdom,Referral,0.2152,Low,54.14
+C02651,15,1,121.06,121.06,United Kingdom,Referral,0.4469,Medium,54.1
+C00269,50,2,199.06,99.53,Germany,Paid Search,0.7023,High,54.0
+C03386,18,6,554.09,92.3483,Turkey,Organic Search,0.4554,Medium,53.94
+C04711,18,27,2645.45,97.9796,United Kingdom,Referral,0.0889,Low,53.86
+C04260,105,12,835.39,69.6158,United States,Referral,0.6654,Medium,53.79
+C03310,51,7,749.0,107.0,Azerbaijan,Organic Search,0.4987,Medium,53.7
+C00298,126,1,96.18,96.18,UAE,Organic Search,0.7814,High,53.68
+C00792,70,4,314.91,78.7275,Azerbaijan,Organic Search,0.6002,Medium,53.67
+C00797,140,7,519.88,74.2686,United Kingdom,Referral,0.7212,High,53.65
+C00670,137,1,104.57,104.57,United Kingdom,Organic Search,0.7791,High,53.52
+C04149,2,13,968.18,74.4754,Turkey,Paid Search,0.3335,Low,53.51
+C02759,51,15,1047.12,69.808,Germany,Organic Search,0.4259,Medium,53.51
+C03803,60,11,859.47,78.1336,United States,Paid Search,0.6058,Medium,53.49
+C01491,19,4,315.18,78.795,Germany,Email,0.4034,Medium,53.48
+C01555,63,2,148.49,74.245,Turkey,Referral,0.5475,Medium,53.41
+C04780,35,12,1132.91,94.4092,Turkey,Organic Search,0.4917,Medium,53.39
+C01231,2,1,118.99,118.99,Azerbaijan,Organic Search,0.4482,Medium,53.33
+C03219,29,2,144.38,72.19,Turkey,Organic Search,0.5084,Medium,53.28
+C04231,161,4,380.91,95.2275,Germany,Organic Search,0.8215,High,53.14
+C02077,77,3,78.57,26.19,United States,Paid Search,0.6762,Medium,53.13
+C00786,124,3,184.5,61.5,Germany,Paid Search,0.8246,High,53.07
+C04971,7,14,914.78,65.3414,United Kingdom,Social Media,0.4142,Medium,53.04
+C01424,1,3,302.77,100.9233,United Kingdom,Organic Search,0.4079,Medium,52.93
+C00999,65,11,707.91,64.3555,Azerbaijan,Paid Search,0.5109,Medium,52.85
+C03327,7,3,212.13,70.71,United States,Paid Search,0.5314,Medium,52.84
+C00635,64,6,348.06,58.01,Azerbaijan,Organic Search,0.4113,Medium,52.81
+C02294,50,7,359.53,51.3614,Turkey,Referral,0.3669,Low,52.77
+C00268,67,5,275.72,55.144,Azerbaijan,Organic Search,0.5294,Medium,52.76
+C03796,6,12,1208.09,100.6742,UAE,Organic Search,0.3276,Low,52.76
+C03915,159,12,621.52,51.7933,UAE,Organic Search,0.776,High,52.75
+C02353,18,3,325.37,108.4567,UAE,Organic Search,0.5319,Medium,52.62
+C02953,37,3,127.46,42.4867,United States,Email,0.4126,Medium,52.59
+C01044,9,4,251.16,62.79,Azerbaijan,Organic Search,0.3418,Low,52.55
+C00755,144,2,128.61,64.305,United Kingdom,Social Media,0.8475,High,52.46
+C05641,27,2,132.63,66.315,Turkey,Referral,0.3955,Low,52.46
+C02119,45,2,147.1,73.55,United States,Paid Search,0.6221,Medium,52.46
+C00221,176,12,477.38,39.7817,UAE,Social Media,0.8521,High,52.45
+C00896,37,31,2252.13,72.6494,United States,Email,0.3213,Low,52.34
+C05678,116,1,80.5,80.5,UAE,Social Media,0.8372,High,52.29
+C05184,141,1,104.0,104.0,Azerbaijan,Organic Search,0.7876,High,52.28
+C00908,131,1,96.92,96.92,United States,Organic Search,0.7846,High,52.25
+C04123,9,6,329.74,54.9567,United Kingdom,Organic Search,0.1584,Low,52.24
+C00055,108,3,158.21,52.7367,Turkey,Organic Search,0.7408,High,52.22
+C04341,45,2,119.75,59.875,Germany,Paid Search,0.6298,Medium,52.21
+C00713,39,2,117.5,58.75,United Kingdom,Organic Search,0.4441,Medium,52.18
+C05767,117,7,474.41,67.7729,United States,Social Media,0.7759,High,52.17
+C02188,28,11,715.69,65.0627,Turkey,Organic Search,0.3335,Low,52.14
+C03554,2,4,223.81,55.9525,United Kingdom,Organic Search,0.2687,Low,52.04
+C02656,136,2,180.41,90.205,Azerbaijan,Organic Search,0.7563,High,52.04
+C04009,26,2,110.7,55.35,Azerbaijan,Paid Search,0.4688,Medium,51.9
+C03352,6,20,1872.24,93.612,United States,Organic Search,0.1881,Low,51.87
+C03034,120,1,83.78,83.78,United States,Paid Search,0.8255,High,51.87
+C05320,11,3,156.73,52.2433,Germany,Referral,0.3488,Low,51.79
+C00968,22,11,754.44,68.5855,United Kingdom,Organic Search,0.2347,Low,51.74
+C00523,33,3,208.61,69.5367,UAE,Social Media,0.6614,Medium,51.74
+C04347,105,12,631.73,52.6442,Azerbaijan,Email,0.5933,Medium,51.73
+C01101,33,3,321.42,107.14,UAE,Paid Search,0.6539,Medium,51.69
+C01400,3,12,989.11,82.4258,United Kingdom,Social Media,0.27,Low,51.69
+C02601,19,2,115.92,57.96,Azerbaijan,Paid Search,0.4458,Medium,51.68
+C00059,68,12,897.12,74.76,Germany,Referral,0.525,Medium,51.63
+C05303,101,1,73.95,73.95,United States,Paid Search,0.7831,High,51.6
+C04516,103,3,162.85,54.2833,United States,Organic Search,0.7241,High,51.52
+C05210,104,7,618.35,88.3357,UAE,Referral,0.6926,Medium,51.46
+C00844,147,4,463.58,115.895,UAE,Organic Search,0.8141,High,51.38
+C01431,87,9,620.81,68.9789,United States,Organic Search,0.6693,Medium,51.37
+C03323,2,14,1393.66,99.5471,Azerbaijan,Organic Search,0.2894,Low,51.34
+C01527,82,1,66.15,66.15,Germany,Social Media,0.7754,High,51.29
+C04485,134,3,206.02,68.6733,United States,Paid Search,0.8433,High,51.27
+C03335,65,17,913.21,53.7182,United States,Referral,0.3827,Low,51.23
+C01666,14,7,716.13,102.3043,UAE,Paid Search,0.4726,Medium,51.2
+C03966,17,5,372.73,74.546,UAE,Referral,0.2472,Low,51.19
+C01475,77,5,430.52,86.104,United Kingdom,Paid Search,0.6374,Medium,51.14
+C00063,163,4,227.49,56.8725,Turkey,Organic Search,0.8091,High,51.13
+C05517,142,1,97.22,97.22,UAE,Paid Search,0.8276,High,51.0
+C02834,173,12,634.33,52.8608,Azerbaijan,Organic Search,0.7726,High,50.99
+C00282,2,5,260.81,52.162,Turkey,Social Media,0.3905,Low,50.92
+C04342,53,7,383.81,54.83,Turkey,Referral,0.3781,Low,50.82
+C04456,127,2,374.4,187.2,Turkey,Organic Search,0.855,High,50.81
+C05942,96,1,73.94,73.94,Azerbaijan,Paid Search,0.7309,High,50.67
+C00027,110,11,835.07,75.9155,United States,Organic Search,0.6997,Medium,50.66
+C01833,102,2,152.16,76.08,Germany,Organic Search,0.7359,High,50.64
+C01886,12,2,96.13,48.065,United States,Social Media,0.5248,Medium,50.45
+C01149,12,3,150.32,50.1067,United States,Paid Search,0.4736,Medium,50.45
+C05879,45,11,677.99,61.6355,United States,Organic Search,0.4437,Medium,50.41
+C04664,5,21,2141.51,101.9767,United States,Referral,0.1253,Low,50.4
+C01507,111,2,108.98,54.49,United States,Organic Search,0.6983,Medium,50.36
+C02950,148,6,392.57,65.4283,United States,Referral,0.7436,High,50.33
+C01453,6,11,934.69,84.9718,United Kingdom,Organic Search,0.2315,Low,50.32
+C03364,7,5,319.37,63.874,United Kingdom,Paid Search,0.3955,Low,50.3
+C00838,160,1,101.12,101.12,United States,Paid Search,0.8835,High,50.25
+C02857,28,2,95.23,47.615,United States,Organic Search,0.527,Medium,50.18
+C05651,5,2,175.46,87.73,Azerbaijan,Email,0.3875,Low,50.16
+C02902,14,12,1016.68,84.7233,United States,Email,0.3026,Low,50.16
+C02139,68,4,204.08,51.02,United States,Referral,0.5781,Medium,50.08
+C03811,13,7,683.0,97.5714,UAE,Paid Search,0.4748,Medium,50.06
+C01481,61,2,90.96,45.48,United Kingdom,Email,0.55,Medium,50.03
+C04860,25,2,86.1,43.05,United States,Social Media,0.5807,Medium,50.0
+C00565,87,1,64.8,64.8,United Kingdom,Social Media,0.7712,High,49.98
+C04591,7,5,455.24,91.048,Azerbaijan,Paid Search,0.4378,Medium,49.97
+C00078,120,2,134.85,67.425,United States,Organic Search,0.753,High,49.94
+C02178,19,28,2347.03,83.8225,Turkey,Email,0.2488,Low,49.91
+C02696,8,6,587.19,97.865,Germany,Social Media,0.5545,Medium,49.84
+C00529,3,10,1002.85,100.285,Azerbaijan,Organic Search,0.3499,Low,49.82
+C00505,127,1,81.52,81.52,United States,Social Media,0.8621,High,49.81
+C03215,2,6,319.94,53.3233,Turkey,Organic Search,0.1557,Low,49.81
+C04735,152,6,435.1,72.5167,United Kingdom,Organic Search,0.7961,High,49.8
+C04412,1,4,335.45,83.8625,Azerbaijan,Referral,0.1482,Low,49.71
+C00319,21,6,356.22,59.37,United States,Email,0.2743,Low,49.69
+C03715,40,10,1009.61,100.961,Germany,Email,0.5625,Medium,49.62
+C01900,109,4,295.31,73.8275,United Kingdom,Organic Search,0.6868,Medium,49.61
+C05596,14,2,177.04,88.52,United States,Organic Search,0.5195,Medium,49.56
+C04145,2,1,118.31,118.31,Germany,Referral,0.4186,Medium,49.53
+C04556,106,1,77.22,77.22,Azerbaijan,Paid Search,0.7547,High,49.48
+C02707,4,11,969.31,88.1191,Azerbaijan,Email,0.2148,Low,49.45
+C00368,168,10,663.21,66.321,United States,Email,0.818,High,49.42
+C03926,124,1,85.82,85.82,Turkey,Paid Search,0.7923,High,49.35
+C02291,50,3,147.97,49.3233,United Kingdom,Social Media,0.5963,Medium,49.32
+C03218,101,2,124.81,62.405,Azerbaijan,Social Media,0.7503,High,49.29
+C01358,11,1,88.88,88.88,Azerbaijan,Paid Search,0.5539,Medium,49.23
+C02924,19,7,672.24,96.0343,Azerbaijan,Email,0.3285,Low,49.2
+C05217,56,1,81.01,81.01,Turkey,Organic Search,0.607,Medium,49.17
+C03122,28,1,85.46,85.46,United States,Organic Search,0.5752,Medium,49.16
+C02969,23,6,406.97,67.8283,Turkey,Referral,0.3298,Low,49.1
+C01204,35,13,730.26,56.1738,Azerbaijan,Social Media,0.4461,Medium,49.03
+C05482,15,6,385.04,64.1733,United Kingdom,Organic Search,0.2716,Low,49.02
+C04161,149,3,157.83,52.61,Germany,Organic Search,0.7792,High,48.98
+C00193,7,1,117.2,117.2,United Kingdom,Referral,0.4175,Medium,48.93
+C02089,148,4,266.55,66.6375,United States,Paid Search,0.8411,High,48.86
+C01809,11,31,2881.75,92.9597,Azerbaijan,Referral,0.2176,Low,48.85
+C05870,20,8,409.25,51.1562,United States,Paid Search,0.3778,Low,48.82
+C04787,113,1,81.62,81.62,United States,Email,0.7506,High,48.8
+C02014,15,12,1232.4,102.7,United States,Referral,0.55,Medium,48.8
+C04568,57,2,162.81,81.405,United Kingdom,Referral,0.5593,Medium,48.78
+C03605,46,1,78.7,78.7,Germany,Email,0.619,Medium,48.72
+C04693,11,14,1479.8,105.7,Germany,Referral,0.3258,Low,48.7
+C02694,8,4,220.53,55.1325,Azerbaijan,Organic Search,0.2207,Low,48.67
+C05755,138,1,89.17,89.17,United States,Paid Search,0.8368,High,48.66
+C03890,116,1,83.79,83.79,Germany,Organic Search,0.7483,High,48.64
+C01792,31,5,228.47,45.694,Azerbaijan,Paid Search,0.3332,Low,48.59
+C05219,136,2,204.71,102.355,United States,Paid Search,0.8641,High,48.54
+C03423,50,1,67.59,67.59,UAE,Paid Search,0.7165,High,48.43
+C04718,52,5,470.79,94.158,United Kingdom,Paid Search,0.5746,Medium,48.4
+C01740,23,23,1665.24,72.4017,United States,Organic Search,0.2341,Low,48.39
+C00474,89,7,372.06,53.1514,United States,Referral,0.585,Medium,48.37
+C05372,80,19,1366.08,71.8989,United Kingdom,Referral,0.4522,Medium,48.35
+C05645,32,1,89.85,89.85,Turkey,Referral,0.5379,Medium,48.33
+C02629,115,4,272.33,68.0825,United Kingdom,Organic Search,0.6567,Medium,48.19
+C01972,70,1,67.47,67.47,Germany,Paid Search,0.7132,High,48.12
+C00179,26,2,95.25,47.625,Turkey,Paid Search,0.5045,Medium,48.05
+C05402,8,3,198.91,66.3033,United Kingdom,Email,0.2415,Low,48.03
+C03815,124,1,82.62,82.62,Turkey,Paid Search,0.8007,High,48.01
+C03973,158,1,106.5,106.5,Azerbaijan,Email,0.7912,High,48.0
+C00506,14,3,110.59,36.8633,United States,Paid Search,0.4337,Medium,47.96
+C04256,3,4,389.71,97.4275,United States,Email,0.4618,Medium,47.92
+C05067,14,7,459.54,65.6486,Turkey,Referral,0.2983,Low,47.82
+C00787,17,1,79.97,79.97,United States,Paid Search,0.5979,Medium,47.82
+C00237,8,3,132.85,44.2833,Turkey,Paid Search,0.3599,Low,47.81
+C01357,129,4,352.74,88.185,United States,Paid Search,0.8327,High,47.8
+C00432,89,2,97.37,48.685,Azerbaijan,Social Media,0.7035,High,47.79
+C03311,38,2,118.56,59.28,Turkey,Referral,0.4686,Medium,47.62
+C02274,33,1,67.68,67.68,Germany,Social Media,0.7036,High,47.62
+C02306,8,6,419.45,69.9083,Turkey,Organic Search,0.3014,Low,47.61
+C00816,147,10,683.06,68.306,United States,Email,0.7889,High,47.59
+C00294,54,3,182.73,60.91,Germany,Email,0.5233,Medium,47.55
+C00109,16,1,83.06,83.06,United States,Paid Search,0.5722,Medium,47.52
+C04224,110,1,73.48,73.48,Turkey,Paid Search,0.7901,High,47.5
+C02921,13,2,127.5,63.75,United States,Referral,0.3721,Low,47.44
+C01953,44,1,67.83,67.83,UAE,Social Media,0.6988,Medium,47.4
+C01887,169,3,152.19,50.73,United States,Referral,0.8058,High,47.37
+C03925,161,2,107.0,53.5,United States,Social Media,0.8706,High,47.37
+C04227,0,4,254.75,63.6875,UAE,Email,0.2763,Low,47.28
+C04606,16,1,97.75,97.75,Azerbaijan,Email,0.4818,Medium,47.1
+C01407,57,12,784.72,65.3933,United Kingdom,Paid Search,0.4825,Medium,47.06
+C03833,68,6,283.36,47.2267,UAE,Referral,0.476,Medium,46.87
+C02452,118,2,136.1,68.05,Turkey,Paid Search,0.8148,High,46.86
+C05031,178,4,489.91,122.4775,Turkey,Social Media,0.9104,High,46.84
+C01607,82,1,67.43,67.43,UAE,Email,0.694,Medium,46.8
+C01696,60,1,67.54,67.54,Azerbaijan,Paid Search,0.6921,Medium,46.75
+C04602,65,2,214.56,107.28,United States,Organic Search,0.7117,High,46.74
+C01808,128,1,88.14,88.14,Azerbaijan,Referral,0.7499,High,46.47
+C04700,153,1,95.66,95.66,Azerbaijan,Paid Search,0.8257,High,46.46
+C02781,37,3,268.83,89.61,United States,Organic Search,0.5694,Medium,46.39
+C00686,81,1,66.32,66.32,United States,Organic Search,0.6985,Medium,46.33
+C04571,70,1,69.69,69.69,United States,Email,0.6646,Medium,46.32
+C03244,17,16,1298.7,81.1688,United States,Organic Search,0.2982,Low,46.28
+C00082,1,4,280.31,70.0775,United Kingdom,Organic Search,0.337,Low,46.2
+C05190,31,4,360.69,90.1725,United States,Organic Search,0.551,Medium,45.98
+C00712,3,5,314.86,62.972,Germany,Paid Search,0.4639,Medium,45.97
+C00498,20,1,91.92,91.92,Germany,Organic Search,0.4998,Medium,45.94
+C04752,122,1,77.14,77.14,UAE,Paid Search,0.8072,High,45.94
+C01247,151,1,89.08,89.08,Azerbaijan,Social Media,0.8644,High,45.9
+C03981,143,1,87.92,87.92,United States,Paid Search,0.8293,High,45.89
+C02248,77,1,70.37,70.37,Turkey,Email,0.6516,Medium,45.86
+C05744,136,14,772.13,55.1521,Turkey,Organic Search,0.736,High,45.83
+C04542,0,1,106.77,106.77,Azerbaijan,Organic Search,0.4292,Medium,45.82
+C00251,12,1,86.67,86.67,Turkey,Organic Search,0.5282,Medium,45.78
+C04748,9,7,590.79,84.3986,Azerbaijan,Email,0.3849,Low,45.69
+C01870,62,1,60.86,60.86,Turkey,Social Media,0.7489,High,45.58
+C01173,17,26,2054.57,79.0219,Turkey,Organic Search,0.2,Low,45.55
+C05571,94,2,91.5,45.75,Germany,Referral,0.6413,Medium,45.53
+C04616,173,5,500.98,100.196,UAE,Social Media,0.8954,High,45.52
+C04349,29,12,702.39,58.5325,United States,Paid Search,0.4693,Medium,45.51
+C03817,120,2,220.99,110.495,United States,Organic Search,0.8031,High,45.51
+C04125,0,6,591.52,98.5867,United States,Email,0.2915,Low,45.5
+C04061,111,1,69.48,69.48,Azerbaijan,Social Media,0.806,High,45.4
+C00726,20,2,81.98,40.99,United States,Social Media,0.5526,Medium,45.3
+C02627,47,13,760.92,58.5323,United States,Organic Search,0.3385,Low,45.28
+C04106,2,8,493.21,61.6512,Germany,Organic Search,0.3364,Low,45.25
+C05395,21,7,384.51,54.93,United States,Referral,0.2537,Low,45.25
+C04248,16,1,79.14,79.14,United Kingdom,Paid Search,0.5708,Medium,45.17
+C04704,100,6,420.76,70.1267,United States,Paid Search,0.7383,High,45.16
+C05529,3,4,454.66,113.665,United States,Email,0.4304,Medium,45.15
+C03462,80,3,141.93,47.31,United States,Email,0.6455,Medium,45.06
+C03383,53,1,72.51,72.51,United Kingdom,Organic Search,0.62,Medium,44.96
+C02907,44,12,1217.09,101.4242,United States,Email,0.5264,Medium,44.94
+C05277,177,6,774.55,129.0917,UAE,Email,0.8658,High,44.94
+C02446,9,2,148.88,74.44,Azerbaijan,Email,0.3014,Low,44.87
+C04086,35,13,770.08,59.2369,UAE,Paid Search,0.4465,Medium,44.85
+C00761,0,1,92.29,92.29,Azerbaijan,Paid Search,0.4853,Medium,44.79
+C00979,2,14,1264.54,90.3243,UAE,Referral,0.2714,Low,44.77
+C03372,42,11,685.44,62.3127,Turkey,Organic Search,0.3987,Low,44.72
+C02544,16,1,73.3,73.3,United Kingdom,Social Media,0.6101,Medium,44.72
+C02317,23,3,424.86,141.62,United States,Organic Search,0.6177,Medium,44.65
+C02833,52,1,67.79,67.79,Germany,Paid Search,0.6586,Medium,44.65
+C01354,13,1,74.44,74.44,United Kingdom,Social Media,0.5986,Medium,44.56
+C02618,85,4,347.14,86.785,Turkey,Organic Search,0.6602,Medium,44.55
+C03852,163,6,678.56,113.0933,United Kingdom,Email,0.8366,High,44.54
+C02665,6,5,383.08,76.616,Azerbaijan,Referral,0.2842,Low,44.54
+C05858,83,3,199.94,66.6467,United Kingdom,Social Media,0.767,High,44.52
+C00156,90,4,377.76,94.44,UAE,Referral,0.6705,Medium,44.52
+C04887,43,8,391.09,48.8863,Germany,Email,0.3452,Low,44.51
+C00096,73,14,917.92,65.5657,United States,Email,0.524,Medium,44.45
+C01104,94,4,252.15,63.0375,Turkey,Paid Search,0.738,High,44.42
+C01385,7,6,342.74,57.1233,United Kingdom,Paid Search,0.3335,Low,44.15
+C04954,48,6,408.56,68.0933,United Kingdom,Referral,0.4597,Medium,44.13
+C03513,25,15,1018.96,67.9307,United Kingdom,Organic Search,0.2155,Low,44.12
+C00402,59,3,109.1,36.3667,United Kingdom,Social Media,0.6423,Medium,44.11
+C04939,27,8,482.24,60.28,Germany,Referral,0.2022,Low,44.11
+C02232,63,1,67.51,67.51,United States,Organic Search,0.6529,Medium,44.08
+C05673,18,1,82.95,82.95,UAE,Organic Search,0.531,Medium,44.05
+C05268,26,13,1107.81,85.2162,Turkey,Organic Search,0.4051,Medium,44.04
+C03204,17,7,535.23,76.4614,United Kingdom,Organic Search,0.4139,Medium,44.01
+C03192,77,8,619.22,77.4025,UAE,Organic Search,0.6267,Medium,43.99
+C04788,6,9,824.99,91.6656,UAE,Referral,0.3067,Low,43.96
+C00728,137,9,491.83,54.6478,Azerbaijan,Paid Search,0.755,High,43.8
+C02132,48,1,71.6,71.6,Germany,Email,0.6114,Medium,43.78
+C03086,174,7,495.42,70.7743,Azerbaijan,Paid Search,0.8658,High,43.77
+C03884,4,34,2831.34,83.2747,Azerbaijan,Email,0.2216,Low,43.7
+C04395,17,9,626.15,69.5722,UAE,Organic Search,0.1566,Low,43.7
+C00587,31,6,242.38,40.3967,UAE,Social Media,0.4224,Medium,43.67
+C02633,131,3,217.52,72.5067,United States,Social Media,0.8492,High,43.64
+C02874,5,3,182.49,60.83,Turkey,Paid Search,0.459,Medium,43.58
+C05860,45,6,589.63,98.2717,UAE,Paid Search,0.668,Medium,43.55
+C05089,152,1,87.95,87.95,Germany,Paid Search,0.836,High,43.53
+C02451,17,4,340.98,85.245,Azerbaijan,Organic Search,0.4329,Medium,43.42
+C00815,159,1,87.92,87.92,Azerbaijan,Social Media,0.8719,High,43.39
+C03974,173,8,254.64,31.83,Turkey,Social Media,0.8633,High,43.39
+C05068,5,9,743.23,82.5811,United Kingdom,Email,0.3613,Low,43.39
+C02288,114,2,335.49,167.745,Turkey,Paid Search,0.876,High,43.22
+C04626,11,5,171.15,34.23,United States,Paid Search,0.3115,Low,43.22
+C00486,15,11,811.0,73.7273,United States,Referral,0.1828,Low,43.19
+C03598,103,1,65.01,65.01,United States,Organic Search,0.759,High,43.12
+C00604,139,8,575.03,71.8788,United States,Referral,0.732,High,43.1
+C04581,2,4,337.69,84.4225,United States,Referral,0.3785,Low,43.09
+C04956,21,11,1045.21,95.0191,Germany,Email,0.3409,Low,43.04
+C05051,175,5,174.37,34.874,Azerbaijan,Organic Search,0.8171,High,43.03
+C05908,20,4,162.55,40.6375,United Kingdom,Referral,0.2646,Low,43.02
+C02881,39,7,442.05,63.15,United States,Email,0.3308,Low,43.01
+C04027,152,1,83.56,83.56,Turkey,Social Media,0.8686,High,42.97
+C02586,8,2,116.04,58.02,United States,Referral,0.4279,Medium,42.97
+C01565,82,1,59.66,59.66,Azerbaijan,Paid Search,0.7201,High,42.96
+C01871,20,2,90.36,45.18,Turkey,Paid Search,0.4752,Medium,42.93
+C01515,8,1,92.57,92.57,United Kingdom,Organic Search,0.4633,Medium,42.88
+C03119,15,2,103.29,51.645,UAE,Organic Search,0.4925,Medium,42.79
+C00654,102,6,413.01,68.835,Turkey,Referral,0.6582,Medium,42.77
+C02570,94,2,95.36,47.68,United States,Organic Search,0.6527,Medium,42.76
+C02567,147,6,329.29,54.8817,United States,Paid Search,0.8286,High,42.71
+C04498,171,5,445.44,89.088,United States,Referral,0.8486,High,42.69
+C03467,81,10,568.54,56.854,United States,Referral,0.509,Medium,42.69
+C03780,48,8,539.27,67.4088,United Kingdom,Referral,0.4783,Medium,42.67
+C01735,31,4,289.11,72.2775,United Kingdom,Organic Search,0.5037,Medium,42.55
+C01396,33,1,79.87,79.87,Turkey,Referral,0.5326,Medium,42.54
+C01061,116,1,66.51,66.51,United States,Social Media,0.8232,High,42.48
+C05834,127,7,330.32,47.1886,United Kingdom,Email,0.6901,Medium,42.39
+C03395,128,1,72.69,72.69,Azerbaijan,Social Media,0.8284,High,42.34
+C00631,10,10,570.07,57.007,United States,Email,0.3942,Low,42.31
+C00216,9,7,603.71,86.2443,UAE,Referral,0.2754,Low,42.27
+C00009,23,3,189.72,63.24,UAE,Paid Search,0.5418,Medium,42.24
+C00243,7,2,101.01,50.505,Turkey,Organic Search,0.4175,Medium,42.17
+C01718,58,1,66.44,66.44,Germany,Organic Search,0.633,Medium,42.06
+C03806,68,6,402.65,67.1083,Germany,Paid Search,0.6406,Medium,42.06
+C03375,132,1,77.08,77.08,Azerbaijan,Paid Search,0.7999,High,42.04
+C00734,74,1,65.69,65.69,United Kingdom,Email,0.6389,Medium,41.97
+C04582,3,24,1997.46,83.2275,United States,Paid Search,0.1911,Low,41.89
+C05611,128,4,204.63,51.1575,Azerbaijan,Email,0.7236,High,41.77
+C00591,89,1,61.05,61.05,Azerbaijan,Organic Search,0.6829,Medium,41.69
+C04427,55,15,1166.67,77.778,Germany,Organic Search,0.5365,Medium,41.67
+C00347,80,1,57.68,57.68,Germany,Paid Search,0.722,High,41.65
+C03128,11,10,849.69,84.969,Germany,Referral,0.331,Low,41.64
+C04313,11,12,826.34,68.8617,United States,Organic Search,0.1673,Low,41.61
+C00853,161,5,240.41,48.082,Azerbaijan,Paid Search,0.8366,High,41.61
+C05242,120,3,234.97,78.3233,United States,Organic Search,0.7504,High,41.54
+C02556,0,1,82.75,82.75,United Kingdom,Paid Search,0.5018,Medium,41.53
+C00730,145,6,332.85,55.475,Azerbaijan,Referral,0.733,High,41.51
+C05354,49,23,1524.15,66.2674,UAE,Email,0.3498,Low,41.5
+C02481,8,4,257.66,64.415,United Kingdom,Organic Search,0.3075,Low,41.46
+C02491,28,7,614.09,87.7271,Germany,Organic Search,0.5183,Medium,41.45
+C03897,6,7,375.89,53.6986,United States,Paid Search,0.3284,Low,41.45
+C00348,110,4,325.9,81.475,Azerbaijan,Organic Search,0.6779,Medium,41.42
+C00372,39,1,62.19,62.19,United States,Paid Search,0.665,Medium,41.36
+C01906,7,21,1546.37,73.6367,United States,Email,0.1225,Low,41.27
+C02612,73,1,58.8,58.8,United Kingdom,Social Media,0.7018,High,41.26
+C05205,16,13,727.31,55.9469,United Kingdom,Social Media,0.4542,Medium,41.23
+C02140,180,1,99.04,99.04,Azerbaijan,Organic Search,0.8324,High,41.22
+C05085,49,6,283.92,47.32,United States,Social Media,0.5349,Medium,41.17
+C03854,177,1,96.96,96.96,Germany,Email,0.835,High,41.17
+C01007,7,2,104.66,52.33,Azerbaijan,Paid Search,0.4806,Medium,41.15
+C03952,161,4,179.16,44.79,United Kingdom,Referral,0.7577,High,41.14
+C04379,127,1,69.4,69.4,UAE,Social Media,0.8364,High,41.13
+C01216,80,1,56.72,56.72,United Kingdom,Paid Search,0.7244,High,41.09
+C04253,3,8,362.1,45.2625,United Kingdom,Social Media,0.4678,Medium,41.09
+C04984,38,3,231.78,77.26,United Kingdom,Referral,0.4726,Medium,41.08
+C01123,21,2,93.46,46.73,Turkey,Organic Search,0.4394,Medium,41.07
+C01213,0,1,100.07,100.07,United States,Referral,0.4102,Medium,41.05
+C04831,24,14,1003.91,71.7079,Azerbaijan,Referral,0.2326,Low,41.04
+C00135,129,3,242.48,80.8267,United States,Referral,0.7703,High,40.9
+C05450,80,1,55.67,55.67,United Kingdom,Paid Search,0.734,High,40.86
+C01499,24,11,745.21,67.7464,Azerbaijan,Paid Search,0.461,Medium,40.79
+C00519,46,2,83.87,41.935,United States,Paid Search,0.6376,Medium,40.78
+C01830,161,1,83.52,83.52,Azerbaijan,Social Media,0.8726,High,40.74
+C04241,52,4,283.41,70.8525,Azerbaijan,Organic Search,0.5553,Medium,40.7
+C00899,61,8,406.04,50.755,UAE,Referral,0.4274,Medium,40.67
+C00376,33,1,73.77,73.77,UAE,Organic Search,0.5508,Medium,40.63
+C03470,45,14,909.16,64.94,United Kingdom,Organic Search,0.4115,Medium,40.56
+C04392,8,5,391.19,78.238,Azerbaijan,Paid Search,0.4063,Medium,40.52
+C02304,115,7,412.8,58.9714,United States,Referral,0.6782,Medium,40.44
+C01985,5,10,723.26,72.326,United States,Organic Search,0.0969,Low,40.43
+C04207,2,22,1732.9,78.7682,Azerbaijan,Email,0.2277,Low,40.41
+C02923,34,1,72.06,72.06,United Kingdom,Organic Search,0.5607,Medium,40.41
+C04134,67,5,294.61,58.922,Azerbaijan,Organic Search,0.5394,Medium,40.4
+C04120,72,4,242.99,60.7475,UAE,Organic Search,0.6074,Medium,40.37
+C03211,179,3,184.24,61.4133,United States,Social Media,0.8983,High,40.37
+C04352,60,2,146.97,73.485,UAE,Email,0.6305,Medium,40.29
+C01759,103,4,183.91,45.9775,Azerbaijan,Organic Search,0.6613,Medium,40.24
+C05508,21,2,126.64,63.32,United Kingdom,Paid Search,0.5715,Medium,40.21
+C04549,10,19,1405.03,73.9489,Azerbaijan,Organic Search,0.2937,Low,40.15
+C00240,6,21,2071.86,98.66,Germany,Referral,0.1588,Low,40.13
+C05840,140,7,491.44,70.2057,Germany,Organic Search,0.7767,High,40.13
+C01068,146,3,109.8,36.6,United Kingdom,Email,0.7607,High,39.98
+C03686,40,6,401.85,66.975,United Kingdom,Organic Search,0.5074,Medium,39.98
+C04803,30,3,308.09,102.6967,Azerbaijan,Organic Search,0.4755,Medium,39.95
+C04471,67,9,386.35,42.9278,UAE,Organic Search,0.538,Medium,39.89
+C05466,74,3,198.11,66.0367,United Kingdom,Referral,0.5971,Medium,39.87
+C01729,19,1,73.29,73.29,United States,Organic Search,0.5429,Medium,39.79
+C00255,69,2,68.18,34.09,UAE,Organic Search,0.5829,Medium,39.74
+C05710,17,9,657.67,73.0744,United Kingdom,Referral,0.2887,Low,39.73
+C05885,166,2,91.83,45.915,Azerbaijan,Organic Search,0.7977,High,39.72
+C02331,60,3,186.48,62.16,United States,Email,0.5646,Medium,39.65
+C03025,130,1,67.19,67.19,UAE,Social Media,0.8513,High,39.6
+C03325,20,5,714.85,142.97,Turkey,Referral,0.494,Medium,39.53
+C01271,5,1,67.82,67.82,United States,Social Media,0.582,Medium,39.47
+C01500,9,3,297.09,99.03,United States,Organic Search,0.5147,Medium,39.43
+C01103,177,2,97.89,48.945,United Kingdom,Organic Search,0.8143,High,39.42
+C04797,117,6,446.62,74.4367,Turkey,Organic Search,0.736,High,39.39
+C02825,136,5,159.81,31.962,United Kingdom,Organic Search,0.75,High,39.37
+C01796,137,2,97.8,48.9,Azerbaijan,Paid Search,0.791,High,39.34
+C02411,125,4,172.0,43.0,United States,Paid Search,0.8006,High,39.34
+C03836,150,2,271.16,135.58,United States,Organic Search,0.8636,High,39.25
+C02737,17,4,228.41,57.1025,United Kingdom,Organic Search,0.4248,Medium,39.16
+C01300,6,4,190.09,47.5225,Azerbaijan,Paid Search,0.423,Medium,39.12
+C02310,167,3,223.4,74.4667,United Kingdom,Paid Search,0.8494,High,39.08
+C02789,142,1,73.7,73.7,United States,Paid Search,0.8363,High,39.07
+C02564,52,7,548.31,78.33,United Kingdom,Paid Search,0.6154,Medium,38.89
+C03214,41,6,384.45,64.075,UAE,Organic Search,0.5764,Medium,38.88
+C02614,25,1,64.38,64.38,United States,Paid Search,0.6038,Medium,38.87
+C02322,32,18,1135.54,63.0856,United States,Referral,0.2124,Low,38.76
+C01371,111,4,201.26,50.315,Turkey,Email,0.7037,High,38.74
+C01078,135,13,420.8,32.3692,United Kingdom,Organic Search,0.677,Medium,38.73
+C05930,82,4,195.99,48.9975,Turkey,Social Media,0.735,High,38.7
+C05513,28,6,473.78,78.9633,Azerbaijan,Referral,0.3591,Low,38.67
+C04885,45,7,508.57,72.6529,Azerbaijan,Organic Search,0.5418,Medium,38.63
+C04482,17,2,78.65,39.325,Turkey,Paid Search,0.4912,Medium,38.63
+C02106,15,10,590.4,59.04,Germany,Referral,0.1388,Low,38.62
+C03825,2,1,93.4,93.4,United Kingdom,Referral,0.4118,Medium,38.46
+C03609,9,1,81.3,81.3,Turkey,Email,0.4723,Medium,38.4
+C01308,78,6,444.05,74.0083,United States,Email,0.6225,Medium,38.39
+C05647,25,8,504.82,63.1025,United States,Organic Search,0.3639,Low,38.36
+C04999,167,1,80.19,80.19,Turkey,Social Media,0.8871,High,38.34
+C02708,120,7,352.87,50.41,Azerbaijan,Referral,0.631,Medium,38.31
+C04508,42,1,65.84,65.84,United Kingdom,Organic Search,0.5819,Medium,38.31
+C03740,70,5,267.89,53.578,United States,Email,0.5962,Medium,38.23
+C00258,47,3,163.14,54.38,Azerbaijan,Organic Search,0.5177,Medium,38.2
+C01648,132,2,114.79,57.395,United States,Paid Search,0.843,High,38.2
+C03368,13,4,157.78,39.445,United Kingdom,Paid Search,0.4112,Medium,38.17
+C03837,31,2,75.21,37.605,United States,Organic Search,0.5068,Medium,38.12
+C00073,119,3,183.78,61.26,United Kingdom,Paid Search,0.7672,High,38.11
+C03133,21,14,940.71,67.1936,United States,Referral,0.2667,Low,38.08
+C05465,28,7,371.34,53.0486,Germany,Referral,0.3519,Low,38.06
+C04049,96,10,648.42,64.842,United Kingdom,Organic Search,0.6514,Medium,38.05
+C04907,70,3,151.95,50.65,Turkey,Paid Search,0.6449,Medium,38.01
+C01525,11,1,79.1,79.1,UAE,Organic Search,0.4797,Medium,37.95
+C02687,10,1,70.0,70.0,Azerbaijan,Paid Search,0.542,Medium,37.94
+C01717,111,2,321.18,160.59,United Kingdom,Referral,0.809,High,37.9
+C05599,19,18,1360.19,75.5661,United Kingdom,Organic Search,0.3824,Low,37.78
+C02272,49,2,54.92,27.46,United States,Social Media,0.6878,Medium,37.77
+C05128,42,9,768.88,85.4311,Turkey,Organic Search,0.5964,Medium,37.76
+C04190,37,3,112.23,37.41,UAE,Email,0.4519,Medium,37.73
+C01963,1,1,85.04,85.04,United States,Referral,0.4436,Medium,37.72
+C01452,76,6,284.86,47.4767,Turkey,Organic Search,0.5457,Medium,37.71
+C03072,107,2,82.44,41.22,United States,Referral,0.6845,Medium,37.62
+C05548,21,5,234.93,46.986,UAE,Organic Search,0.3644,Low,37.58
+C01902,40,10,619.63,61.963,United Kingdom,Organic Search,0.4901,Medium,37.49
+C02540,30,2,69.5,34.75,Azerbaijan,Social Media,0.5394,Medium,37.49
+C04776,4,5,403.55,80.71,UAE,Organic Search,0.4632,Medium,37.47
+C02827,75,3,221.2,73.7333,United States,Referral,0.5814,Medium,37.46
+C05116,28,2,128.97,64.485,United States,Organic Search,0.5841,Medium,37.46
+C01838,59,12,772.16,64.3467,United States,Referral,0.546,Medium,37.34
+C00008,100,5,277.67,55.534,United Kingdom,Paid Search,0.7289,High,37.33
+C03999,80,4,127.52,31.88,United Kingdom,Social Media,0.7089,High,37.32
+C01828,18,14,999.7,71.4071,Germany,Referral,0.1814,Low,37.27
+C00884,147,2,203.4,101.7,Germany,Organic Search,0.8378,High,37.22
+C02109,149,3,175.64,58.5467,United States,Referral,0.7574,High,37.18
+C03088,66,5,273.85,54.77,United Kingdom,Social Media,0.6648,Medium,37.15
+C00117,109,2,205.93,102.965,Azerbaijan,Social Media,0.8453,High,37.12
+C02880,2,39,3613.3,92.6487,Azerbaijan,Email,0.1109,Low,37.11
+C02666,4,5,368.73,73.746,Azerbaijan,Organic Search,0.3195,Low,37.08
+C01405,46,1,64.2,64.2,UAE,Referral,0.5768,Medium,37.03
+C04265,27,6,319.33,53.2217,United States,Referral,0.402,Medium,37.03
+C05859,108,5,352.14,70.428,Azerbaijan,Paid Search,0.7675,High,37.02
+C02263,99,1,56.28,56.28,United States,Organic Search,0.7236,High,37.02
+C01120,59,12,737.58,61.465,Turkey,Organic Search,0.5084,Medium,37.0
+C04645,50,3,174.14,58.0467,Turkey,Social Media,0.663,Medium,36.98
+C05258,2,22,1725.15,78.4159,Germany,Organic Search,0.1064,Low,36.95
+C05664,126,3,161.65,53.8833,Azerbaijan,Organic Search,0.7158,High,36.93
+C03777,0,1,86.63,86.63,Turkey,Organic Search,0.4258,Medium,36.88
+C04751,52,2,114.21,57.105,Azerbaijan,Organic Search,0.5629,Medium,36.85
+C03924,170,4,280.54,70.135,UAE,Referral,0.7964,High,36.83
+C04989,7,6,331.38,55.23,UAE,Organic Search,0.3592,Low,36.81
+C02705,8,9,687.87,76.43,Germany,Referral,0.2033,Low,36.8
+C02305,26,2,142.53,71.265,United Kingdom,Referral,0.4812,Medium,36.74
+C01328,54,1,49.83,49.83,UAE,Social Media,0.7359,High,36.67
+C02545,6,8,498.64,62.33,United States,Email,0.3072,Low,36.66
+C04377,27,25,1761.74,70.4696,Azerbaijan,Referral,0.28,Low,36.63
+C00744,113,4,177.47,44.3675,Turkey,Social Media,0.792,High,36.56
+C00997,12,1,62.22,62.22,United States,Paid Search,0.5873,Medium,36.54
+C05756,148,1,71.06,71.06,United Kingdom,Social Media,0.8446,High,36.49
+C01644,55,4,247.36,61.84,United States,Referral,0.511,Medium,36.46
+C04437,25,1,71.04,71.04,Germany,Referral,0.5126,Medium,36.41
+C01055,27,1,63.93,63.93,United Kingdom,Paid Search,0.5692,Medium,36.39
+C03150,179,2,106.85,53.425,United Kingdom,Organic Search,0.8473,High,36.38
+C00072,78,1,46.76,46.76,United States,Social Media,0.7779,High,36.37
+C00148,13,12,687.45,57.2875,UAE,Organic Search,0.269,Low,36.27
+C02259,74,5,248.29,49.658,United States,Organic Search,0.6168,Medium,36.27
+C03297,27,42,3256.57,77.5374,Azerbaijan,Referral,0.1545,Low,36.26
+C01821,2,16,1308.74,81.7962,Germany,Organic Search,0.2189,Low,36.22
+C01647,77,7,368.19,52.5986,United Kingdom,Organic Search,0.5995,Medium,36.19
+C04953,13,6,331.36,55.2267,United States,Paid Search,0.547,Medium,36.17
+C03772,31,11,598.94,54.4491,Azerbaijan,Paid Search,0.3616,Low,36.09
+C00457,3,42,3927.74,93.5176,Turkey,Referral,0.1122,Low,36.05
+C01130,3,1,77.81,77.81,Turkey,Organic Search,0.4612,Medium,35.89
+C01142,0,5,439.29,87.858,UAE,Organic Search,0.4998,Medium,35.86
+C04121,4,1,68.99,68.99,United Kingdom,Paid Search,0.5195,Medium,35.84
+C00077,51,6,303.95,50.6583,United States,Organic Search,0.5091,Medium,35.8
+C04262,20,1,74.95,74.95,Azerbaijan,Email,0.4769,Medium,35.74
+C03318,164,3,236.98,78.9933,Azerbaijan,Email,0.8228,High,35.67
+C04497,12,12,794.04,66.17,Azerbaijan,Organic Search,0.3279,Low,35.67
+C03720,12,7,415.17,59.31,Azerbaijan,Referral,0.2768,Low,35.67
+C05004,90,2,119.2,59.6,Germany,Paid Search,0.7697,High,35.59
+C04812,58,9,604.57,67.1744,Germany,Organic Search,0.5193,Medium,35.49
+C03753,24,18,1015.43,56.4128,Turkey,Referral,0.3122,Low,35.48
+C03108,154,2,98.03,49.015,UAE,Organic Search,0.8043,High,35.48
+C00515,113,2,100.74,50.37,United States,Organic Search,0.7743,High,35.45
+C02160,13,2,85.5,42.75,United States,Organic Search,0.4142,Medium,35.41
+C05541,142,1,73.3,73.3,Azerbaijan,Email,0.7615,High,35.38
+C05441,85,5,151.09,30.218,Azerbaijan,Email,0.442,Medium,35.36
+C01999,121,1,56.21,56.21,United States,Social Media,0.8442,High,35.3
+C00547,15,9,500.01,55.5567,Turkey,Organic Search,0.1796,Low,35.29
+C04818,40,2,139.05,69.525,Turkey,Social Media,0.7074,High,35.27
+C04103,142,1,68.22,68.22,Azerbaijan,Paid Search,0.8132,High,35.16
+C01839,164,1,75.15,75.15,United Kingdom,Paid Search,0.8521,High,35.14
+C04851,9,8,436.05,54.5062,United Kingdom,Organic Search,0.2049,Low,35.11
+C05617,24,7,386.66,55.2371,United Kingdom,Organic Search,0.2926,Low,35.11
+C01977,16,9,812.4,90.2667,Germany,Referral,0.411,Medium,35.1
+C05946,4,1,66.52,66.52,United Kingdom,Social Media,0.5274,Medium,35.08
+C01961,4,5,350.3,70.06,United Kingdom,Paid Search,0.4438,Medium,35.07
+C02453,0,1,80.07,80.07,United States,Organic Search,0.4377,Medium,35.04
+C01508,0,1,81.19,81.19,Germany,Email,0.4313,Medium,35.01
+C02714,51,6,442.61,73.7683,UAE,Referral,0.5219,Medium,35.0
+C02341,17,13,897.89,69.0685,Azerbaijan,Organic Search,0.3757,Low,34.98
+C00563,11,4,209.51,52.3775,Germany,Email,0.3133,Low,34.95
+C00277,19,1,68.82,68.82,UAE,Organic Search,0.5073,Medium,34.91
+C01978,9,1,70.01,70.01,Turkey,Organic Search,0.4978,Medium,34.85
+C05359,85,1,44.2,44.2,Germany,Social Media,0.7873,High,34.8
+C00019,18,5,178.06,35.612,UAE,Paid Search,0.4512,Medium,34.76
+C02143,33,1,65.06,65.06,Azerbaijan,Organic Search,0.534,Medium,34.74
+C00987,4,2,79.0,39.5,Germany,Paid Search,0.4398,Medium,34.74
+C00695,3,4,269.93,67.4825,United States,Organic Search,0.4799,Medium,34.7
+C03366,8,3,198.39,66.13,Turkey,Email,0.441,Medium,34.69
+C05127,117,4,165.67,41.4175,Germany,Organic Search,0.7114,High,34.67
+C05279,56,3,173.42,57.8067,United Kingdom,Organic Search,0.5518,Medium,34.59
+C02011,0,2,133.3,66.65,United States,Referral,0.2595,Low,34.59
+C01819,93,1,44.72,44.72,Germany,Social Media,0.7968,High,34.48
+C03174,119,1,55.51,55.51,Turkey,Social Media,0.8173,High,34.31
+C04008,159,3,131.13,43.71,United Kingdom,Social Media,0.8585,High,34.23
+C02886,139,7,570.8,81.5429,Germany,Referral,0.7657,High,34.21
+C03863,30,2,145.26,72.63,Turkey,Organic Search,0.6045,Medium,34.21
+C02318,176,1,75.73,75.73,Germany,Social Media,0.8831,High,34.2
+C02482,21,9,354.36,39.3733,UAE,Referral,0.2649,Low,34.2
+C01097,30,25,1491.65,59.666,United Kingdom,Organic Search,0.2472,Low,34.18
+C00992,11,9,689.94,76.66,United States,Referral,0.3776,Low,34.18
+C03643,15,1,66.09,66.09,United States,Organic Search,0.5172,Medium,34.18
+C01919,35,2,168.65,84.325,Azerbaijan,Referral,0.5194,Medium,34.13
+C03390,24,4,216.16,54.04,UAE,Organic Search,0.4534,Medium,34.06
+C03152,61,3,90.58,30.1933,United States,Organic Search,0.5506,Medium,34.01
+C03083,145,3,198.72,66.24,Azerbaijan,Paid Search,0.8408,High,33.95
+C01005,7,20,1489.85,74.4925,Turkey,Referral,0.2076,Low,33.9
+C01480,42,11,450.47,40.9518,Turkey,Organic Search,0.4313,Medium,33.82
+C01280,112,13,619.15,47.6269,United Kingdom,Referral,0.5963,Medium,33.8
+C04430,76,12,683.8,56.9833,United Kingdom,Paid Search,0.6518,Medium,33.76
+C04816,105,6,338.8,56.4667,United States,Referral,0.6964,Medium,33.76
+C01380,118,1,57.32,57.32,Turkey,Organic Search,0.7715,High,33.73
+C00210,44,4,344.13,86.0325,United Kingdom,Organic Search,0.5773,Medium,33.73
+C04012,171,3,105.37,35.1233,UAE,Social Media,0.8602,High,33.57
+C04446,37,1,60.89,60.89,Germany,Referral,0.551,Medium,33.55
+C04222,27,4,308.73,77.1825,United States,Referral,0.5152,Medium,33.53
+C01633,125,1,57.12,57.12,Germany,Paid Search,0.8141,High,33.48
+C05975,120,1,58.41,58.41,Azerbaijan,Organic Search,0.7638,High,33.46
+C04321,20,2,82.78,41.39,Germany,Organic Search,0.4983,Medium,33.44
+C04566,49,1,48.74,48.74,Azerbaijan,Social Media,0.6857,Medium,33.42
+C01754,57,14,766.57,54.755,United States,Organic Search,0.5273,Medium,33.37
+C01043,12,3,121.41,40.47,Azerbaijan,Organic Search,0.2745,Low,33.32
+C05995,107,1,53.85,53.85,United States,Organic Search,0.7346,High,33.27
+C02357,55,4,174.88,43.72,United States,Paid Search,0.5792,Medium,33.27
+C04559,39,2,60.51,30.255,United Kingdom,Social Media,0.641,Medium,33.25
+C02673,11,12,712.34,59.3617,Azerbaijan,Paid Search,0.3274,Low,33.21
+C01193,23,4,170.41,42.6025,United States,Referral,0.3482,Low,33.17
+C02468,34,3,238.68,79.56,Germany,Paid Search,0.6895,Medium,33.13
+C04943,79,5,421.62,84.324,Turkey,Email,0.6549,Medium,33.13
+C00164,141,1,65.36,65.36,United States,Organic Search,0.7902,High,32.97
+C00099,15,1,53.98,53.98,Turkey,Social Media,0.6107,Medium,32.96
+C05557,6,16,1009.54,63.0962,Azerbaijan,Organic Search,0.2048,Low,32.93
+C05138,74,1,46.0,46.0,United States,Paid Search,0.7137,High,32.83
+C03560,1,2,89.72,44.86,United States,Email,0.431,Medium,32.83
+C03955,0,1,61.06,61.06,United Kingdom,Social Media,0.5374,Medium,32.81
+C00173,50,2,91.15,45.575,United Kingdom,Referral,0.5198,Medium,32.8
+C05384,101,1,46.34,46.34,United States,Paid Search,0.7913,High,32.68
+C01966,25,9,662.32,73.5911,Germany,Paid Search,0.5461,Medium,32.68
+C01167,94,1,43.06,43.06,United States,Social Media,0.7916,High,32.64
+C05612,6,14,1227.14,87.6529,Turkey,Organic Search,0.2323,Low,32.64
+C05376,99,1,47.46,47.46,United Kingdom,Paid Search,0.7563,High,32.63
+C03281,127,3,171.75,57.25,Turkey,Referral,0.7366,High,32.53
+C04087,6,6,384.13,64.0217,United States,Organic Search,0.3998,Low,32.45
+C04353,19,1,71.96,71.96,United Kingdom,Email,0.4506,Medium,32.42
+C04535,2,9,584.84,64.9822,Turkey,Email,0.2426,Low,32.41
+C01927,117,1,57.32,57.32,United Kingdom,Organic Search,0.7347,High,32.39
+C03261,80,6,516.4,86.0667,United States,Referral,0.6728,Medium,32.37
+C01307,49,1,52.08,52.08,United Kingdom,Organic Search,0.6207,Medium,32.32
+C04886,10,27,2013.55,74.5759,Azerbaijan,Email,0.1146,Low,32.31
+C03360,43,4,207.97,51.9925,UAE,Referral,0.5467,Medium,32.28
+C04438,10,5,174.52,34.904,Germany,Referral,0.2425,Low,32.27
+C03728,43,6,414.0,69.0,Germany,Email,0.5533,Medium,32.21
+C00777,62,4,341.48,85.37,UAE,Organic Search,0.6458,Medium,32.17
+C00779,149,4,223.29,55.8225,Turkey,Paid Search,0.8259,High,32.17
+C03085,12,1,53.33,53.33,UAE,Social Media,0.6022,Medium,32.12
+C01222,150,5,251.06,50.212,Azerbaijan,Referral,0.7467,High,32.08
+C01904,175,2,88.36,44.18,United States,Organic Search,0.8472,High,32.08
+C02349,131,2,75.91,37.955,United States,Organic Search,0.7623,High,31.95
+C03272,31,1,47.71,47.71,United Kingdom,Social Media,0.6691,Medium,31.92
+C02245,160,3,158.42,52.8067,Azerbaijan,Referral,0.7582,High,31.89
+C03798,153,4,370.26,92.565,United States,Referral,0.8332,High,31.88
+C01072,21,1,61.07,61.07,Germany,Organic Search,0.5218,Medium,31.87
+C03894,66,4,103.77,25.9425,UAE,Organic Search,0.5341,Medium,31.77
+C05918,147,1,64.9,64.9,Turkey,Organic Search,0.7996,High,31.77
+C03047,6,2,156.46,78.23,United States,Email,0.5525,Medium,31.76
+C02270,125,1,52.89,52.89,Turkey,Social Media,0.8331,High,31.72
+C05175,15,11,653.22,59.3836,Turkey,Referral,0.3272,Low,31.59
+C03220,5,9,627.48,69.72,Germany,Email,0.3002,Low,31.51
+C02483,161,5,399.82,79.964,United Kingdom,Organic Search,0.8098,High,31.47
+C02725,169,1,66.28,66.28,United States,Social Media,0.8915,High,31.47
+C04319,174,1,73.54,73.54,Turkey,Organic Search,0.827,High,31.46
+C00183,30,5,209.76,41.952,United States,Organic Search,0.4948,Medium,31.34
+C00102,115,3,177.53,59.1767,United Kingdom,Email,0.7409,High,31.32
+C03112,75,3,115.94,38.6467,Germany,Referral,0.5699,Medium,31.3
+C05394,31,3,196.33,65.4433,Turkey,Paid Search,0.6194,Medium,31.18
+C03217,22,1,49.92,49.92,Germany,Social Media,0.6244,Medium,31.17
+C03596,3,4,238.37,59.5925,Turkey,Social Media,0.564,Medium,31.1
+C02234,148,1,61.58,61.58,United Kingdom,Paid Search,0.8302,High,31.09
+C03435,56,1,43.18,43.18,Germany,Social Media,0.7182,High,31.01
+C05883,80,1,42.77,42.77,United States,Paid Search,0.7236,High,30.95
+C01572,41,1,47.67,47.67,UAE,Paid Search,0.6479,Medium,30.88
+C05820,95,4,287.9,71.975,Turkey,Referral,0.6762,Medium,30.85
+C03642,2,1,57.79,57.79,Germany,Paid Search,0.5333,Medium,30.82
+C04750,35,6,235.08,39.18,Germany,Social Media,0.5062,Medium,30.69
+C02226,22,3,100.15,33.3833,United States,Paid Search,0.5342,Medium,30.67
+C03750,49,4,222.76,55.69,United States,Referral,0.5661,Medium,30.67
+C01322,119,1,49.66,49.66,Turkey,Paid Search,0.815,High,30.61
+C01051,16,19,1388.79,73.0942,Turkey,Referral,0.107,Low,30.6
+C04966,145,2,146.65,73.325,UAE,Organic Search,0.8232,High,30.6
+C01075,4,24,1713.57,71.3987,UAE,Organic Search,0.1139,Low,30.59
+C02895,69,1,47.28,47.28,United States,Organic Search,0.6452,Medium,30.5
+C00080,135,1,55.02,55.02,UAE,Paid Search,0.8293,High,30.42
+C04892,129,2,176.29,88.145,United States,Organic Search,0.8395,High,30.41
+C03709,147,3,315.69,105.23,UAE,Organic Search,0.8661,High,30.38
+C00795,153,1,63.73,63.73,United States,Email,0.8103,High,30.38
+C05097,31,1,54.8,54.8,Azerbaijan,Organic Search,0.5507,Medium,30.18
+C03081,67,1,39.95,39.95,United States,Social Media,0.7549,High,30.16
+C02623,45,17,778.62,45.8012,Azerbaijan,Referral,0.2393,Low,30.16
+C03970,34,3,117.35,39.1167,Germany,Paid Search,0.5597,Medium,30.16
+C01302,145,2,70.24,35.12,Germany,Social Media,0.8609,High,30.07
+C00951,9,5,253.68,50.736,Germany,Referral,0.3419,Low,30.02
+C00697,129,7,567.37,81.0529,UAE,Referral,0.7762,High,30.0
+C03156,0,7,383.27,54.7529,UAE,Organic Search,0.2998,Low,29.98
+C03439,32,1,49.54,49.54,UAE,Organic Search,0.605,Medium,29.97
+C04620,29,10,589.66,58.966,United Kingdom,Referral,0.4336,Medium,29.88
+C03162,0,10,846.94,84.694,United Kingdom,Organic Search,0.3261,Low,29.88
+C03223,135,3,99.98,33.3267,United States,Organic Search,0.7364,High,29.85
+C01303,23,12,789.37,65.7808,Azerbaijan,Email,0.3562,Low,29.77
+C05989,2,19,1520.66,80.0347,United Kingdom,Organic Search,0.1333,Low,29.75
+C00871,25,4,235.45,58.8625,Turkey,Organic Search,0.4338,Medium,29.75
+C01652,50,5,330.54,66.108,Germany,Referral,0.493,Medium,29.75
+C03117,81,3,128.35,42.7833,Azerbaijan,Referral,0.6008,Medium,29.66
+C01438,141,1,60.53,60.53,Turkey,Referral,0.7676,High,29.66
+C00060,3,3,118.4,39.4667,United States,Organic Search,0.4089,Medium,29.64
+C02727,35,2,67.51,33.755,Germany,Email,0.4372,Medium,29.51
+C00477,146,1,56.1,56.1,Turkey,Social Media,0.8514,High,29.44
+C02156,155,1,58.35,58.35,UAE,Social Media,0.8679,High,29.41
+C00796,46,3,110.75,36.9167,Azerbaijan,Organic Search,0.4801,Medium,29.36
+C05077,59,1,46.49,46.49,UAE,Organic Search,0.6293,Medium,29.26
+C02854,67,1,48.78,48.78,United Kingdom,Referral,0.5998,Medium,29.26
+C05570,164,2,77.12,38.56,United Kingdom,Social Media,0.863,High,29.22
+C02133,76,5,263.47,52.694,Azerbaijan,Organic Search,0.6312,Medium,29.18
+C02386,66,7,422.18,60.3114,Azerbaijan,Paid Search,0.5709,Medium,29.12
+C01410,5,2,85.83,42.915,United Kingdom,Organic Search,0.3393,Low,29.12
+C05952,28,1,51.93,51.93,United States,Organic Search,0.5569,Medium,28.92
+C01152,40,4,211.2,52.8,Turkey,Organic Search,0.4973,Medium,28.91
+C03118,48,4,126.56,31.64,United States,Organic Search,0.4841,Medium,28.87
+C05543,29,1,46.37,46.37,United States,Paid Search,0.6222,Medium,28.85
+C00846,0,2,77.61,38.805,United Kingdom,Paid Search,0.3716,Low,28.84
+C01494,7,19,1255.6,66.0842,Germany,Organic Search,0.1105,Low,28.77
+C02573,0,1,53.38,53.38,Germany,Paid Search,0.5387,Medium,28.75
+C00406,155,2,203.21,101.605,United States,Referral,0.856,High,28.72
+C05695,22,4,178.66,44.665,Germany,Referral,0.364,Low,28.69
+C03911,36,1,46.56,46.56,Azerbaijan,Paid Search,0.6159,Medium,28.68
+C01317,73,1,44.24,44.24,Azerbaijan,Organic Search,0.6471,Medium,28.63
+C03982,52,2,53.38,26.69,United States,Referral,0.5363,Medium,28.63
+C05824,15,14,834.0,59.5714,Azerbaijan,Email,0.2351,Low,28.61
+C02839,36,2,134.44,67.22,United States,Email,0.6118,Medium,28.58
+C03141,5,7,641.81,91.6871,United Kingdom,Referral,0.4678,Medium,28.47
+C03404,31,8,409.12,51.14,Azerbaijan,Referral,0.3417,Low,28.46
+C00600,28,2,67.97,33.985,Germany,Social Media,0.6184,Medium,28.23
+C05831,14,8,490.29,61.2862,Azerbaijan,Paid Search,0.4426,Medium,28.22
+C05564,125,9,512.15,56.9056,Turkey,Referral,0.6864,Medium,28.15
+C00589,5,3,122.47,40.8233,United Kingdom,Referral,0.2296,Low,28.12
+C01795,2,9,453.78,50.42,Turkey,Organic Search,0.1494,Low,28.12
+C03241,53,2,100.88,50.44,United States,Email,0.6283,Medium,27.96
+C02740,7,10,614.95,61.495,Azerbaijan,Email,0.2921,Low,27.93
+C00984,4,11,733.86,66.7145,Germany,Referral,0.2207,Low,27.93
+C05121,10,16,1496.11,93.5069,Azerbaijan,Email,0.1027,Low,27.89
+C01800,2,2,99.37,49.685,UAE,Organic Search,0.2806,Low,27.88
+C00971,8,4,166.26,41.565,Azerbaijan,Paid Search,0.4447,Medium,27.84
+C04825,1,2,112.32,56.16,United Kingdom,Email,0.4076,Medium,27.84
+C02199,26,1,54.35,54.35,Germany,Email,0.5117,Medium,27.81
+C03314,78,1,42.02,42.02,Germany,Email,0.6617,Medium,27.8
+C02276,60,1,38.58,38.58,Azerbaijan,Social Media,0.7203,High,27.79
+C04864,60,20,797.5,39.875,Azerbaijan,Email,0.3416,Low,27.74
+C00532,29,6,334.01,55.6683,United Kingdom,Organic Search,0.3874,Low,27.72
+C02667,21,7,569.13,81.3043,United Kingdom,Referral,0.4495,Medium,27.71
+C03613,0,6,442.2,73.7,Azerbaijan,Paid Search,0.5389,Medium,27.71
+C02563,72,3,121.51,40.5033,United States,Paid Search,0.7161,High,27.67
+C04641,68,1,43.08,43.08,Germany,Organic Search,0.6404,Medium,27.59
+C04847,45,2,49.45,24.725,United States,Social Media,0.6448,Medium,27.59
+C04096,77,1,36.49,36.49,Azerbaijan,Social Media,0.7545,High,27.53
+C05433,1,1,61.15,61.15,United States,Organic Search,0.4491,Medium,27.46
+C04335,13,6,273.99,45.665,United Kingdom,Email,0.2469,Low,27.43
+C02965,44,4,266.57,66.6425,United Kingdom,Organic Search,0.5245,Medium,27.42
+C03388,20,1,44.42,44.42,Azerbaijan,Social Media,0.6173,Medium,27.42
+C01245,42,1,47.89,47.89,Turkey,Email,0.572,Medium,27.39
+C02910,57,4,369.3,92.325,United States,Referral,0.6456,Medium,27.37
+C00395,122,1,50.25,50.25,United States,Organic Search,0.7349,High,27.24
+C03450,20,2,118.57,59.285,Turkey,Organic Search,0.5203,Medium,27.22
+C05935,110,6,293.27,48.8783,UAE,Referral,0.6849,Medium,27.18
+C04677,66,3,160.06,53.3533,United States,Organic Search,0.6696,Medium,27.17
+C01624,18,2,84.42,42.21,United Kingdom,Organic Search,0.3205,Low,27.06
+C01374,108,7,401.28,57.3257,United States,Referral,0.6941,Medium,26.98
+C04384,10,2,59.79,29.895,Germany,Organic Search,0.4509,Medium,26.96
+C01336,19,8,525.13,65.6412,Turkey,Referral,0.4667,Medium,26.96
+C01107,43,16,725.2,45.325,United States,Referral,0.2986,Low,26.84
+C02391,37,2,142.39,71.195,United Kingdom,Email,0.5854,Medium,26.79
+C00840,7,1,46.68,46.68,United States,Paid Search,0.5735,Medium,26.77
+C01324,15,4,233.96,58.49,UAE,Organic Search,0.4756,Medium,26.77
+C04128,31,6,298.75,49.7917,Azerbaijan,Organic Search,0.3332,Low,26.74
+C01517,150,4,131.08,32.77,United States,Email,0.7998,High,26.73
+C01411,83,1,35.8,35.8,United States,Paid Search,0.7465,High,26.72
+C00969,25,3,228.28,76.0933,United Kingdom,Referral,0.4558,Medium,26.68
+C05397,31,2,136.93,68.465,Germany,Paid Search,0.6665,Medium,26.67
+C05131,43,2,195.53,97.765,Germany,Email,0.6512,Medium,26.65
+C05328,84,1,38.68,38.68,United Kingdom,Organic Search,0.6873,Medium,26.59
+C05393,16,3,121.8,40.6,United States,Social Media,0.6419,Medium,26.55
+C05916,15,3,163.18,54.3933,Germany,Organic Search,0.5111,Medium,26.52
+C00180,3,1,53.35,53.35,United States,Organic Search,0.4967,Medium,26.5
+C01854,52,1,43.19,43.19,UAE,Referral,0.6123,Medium,26.45
+C05416,57,1,44.3,44.3,United Kingdom,Organic Search,0.5969,Medium,26.44
+C03562,12,7,306.61,43.8014,United Kingdom,Referral,0.155,Low,26.4
+C02441,57,1,39.86,39.86,Germany,Paid Search,0.6622,Medium,26.39
+C01208,31,3,137.12,45.7067,United States,Referral,0.47,Medium,26.36
+C02147,23,2,49.13,24.565,United States,Social Media,0.6133,Medium,26.33
+C01842,50,2,51.81,25.905,Azerbaijan,Email,0.508,Medium,26.32
+C00469,106,1,37.5,37.5,UAE,Social Media,0.8264,High,26.31
+C00249,56,3,137.73,45.91,UAE,Organic Search,0.596,Medium,26.29
+C02287,108,3,187.56,62.52,United States,Organic Search,0.7665,High,26.25
+C05489,111,1,38.6,38.6,United States,Social Media,0.8378,High,26.22
+C01602,65,1,44.27,44.27,United Kingdom,Referral,0.5914,Medium,26.18
+C04705,126,4,175.54,43.885,Turkey,Referral,0.735,High,26.15
+C01645,152,3,252.06,84.02,Germany,Organic Search,0.85,High,26.13
+C05421,36,6,367.69,61.2817,United States,Organic Search,0.5667,Medium,26.12
+C05817,97,1,43.05,43.05,United Kingdom,Organic Search,0.6532,Medium,26.09
+C00802,93,1,33.12,33.12,United States,Social Media,0.8138,High,26.08
+C03302,127,1,44.07,44.07,United States,Paid Search,0.8345,High,26.06
+C03754,8,5,256.67,51.334,Germany,Email,0.3734,Low,26.06
+C05705,134,1,49.51,49.51,UAE,Organic Search,0.7807,High,25.96
+C03400,51,4,74.01,18.5025,Turkey,Referral,0.421,Medium,25.96
+C00439,170,1,58.19,58.19,Turkey,Paid Search,0.8392,High,25.85
+C04088,138,2,154.97,77.485,Turkey,Referral,0.8045,High,25.79
+C02840,120,1,41.88,41.88,Azerbaijan,Social Media,0.8198,High,25.75
+C00118,7,8,448.3,56.0375,Azerbaijan,Referral,0.1837,Low,25.73
+C03987,29,2,82.79,41.395,Azerbaijan,Organic Search,0.4887,Medium,25.64
+C05775,3,3,172.71,57.57,Germany,Organic Search,0.4943,Medium,25.61
+C03690,68,2,54.35,27.175,United Kingdom,Social Media,0.7088,High,25.49
+C03527,0,1,57.66,57.66,UAE,Organic Search,0.4419,Medium,25.48
+C02724,29,1,39.94,39.94,UAE,Paid Search,0.6376,Medium,25.46
+C04453,8,4,158.47,39.6175,Germany,Organic Search,0.4606,Medium,25.46
+C03529,89,7,553.69,79.0986,UAE,Email,0.6966,Medium,25.45
+C00567,12,1,48.88,48.88,United States,Email,0.5206,Medium,25.45
+C05999,39,1,44.36,44.36,Turkey,Organic Search,0.5731,Medium,25.42
+C01228,5,17,1357.94,79.8788,Azerbaijan,Referral,0.1902,Low,25.29
+C05809,6,17,1083.98,63.7635,Azerbaijan,Email,0.1498,Low,25.2
+C01692,7,14,1019.93,72.8521,United Kingdom,Email,0.0606,Low,25.18
+C02523,157,3,118.76,39.5867,Germany,Social Media,0.8778,High,25.15
+C03776,105,6,274.71,45.785,United States,Organic Search,0.6794,Medium,25.07
+C02327,80,5,188.61,37.722,UAE,Organic Search,0.6155,Medium,25.06
+C01262,66,6,331.27,55.2117,United Kingdom,Referral,0.5081,Medium,25.04
+C03168,52,2,97.55,48.775,United States,Referral,0.6444,Medium,25.04
+C00566,13,1,39.98,39.98,UAE,Social Media,0.626,Medium,25.03
+C04233,178,2,105.39,52.695,Azerbaijan,Email,0.8123,High,25.01
+C04333,48,1,36.57,36.57,United States,Paid Search,0.6833,Medium,24.99
+C05132,0,1,56.72,56.72,Turkey,Email,0.4406,Medium,24.99
+C05835,131,3,68.58,22.86,Germany,Referral,0.6923,Medium,24.99
+C00329,75,1,33.16,33.16,United States,Paid Search,0.7531,High,24.97
+C01139,14,1,54.41,54.41,United Kingdom,Organic Search,0.4571,Medium,24.87
+C01755,105,2,70.93,35.465,UAE,Email,0.6882,Medium,24.82
+C05229,2,2,74.85,37.425,Azerbaijan,Paid Search,0.3312,Low,24.79
+C00437,10,1,42.66,42.66,Germany,Social Media,0.5807,Medium,24.77
+C05503,4,1,53.36,53.36,Germany,Organic Search,0.4627,Medium,24.69
+C00782,3,1,44.47,44.47,United States,Paid Search,0.5547,Medium,24.67
+C03523,174,5,222.37,44.474,United States,Organic Search,0.8541,High,24.63
+C04995,61,2,50.53,25.265,United States,Paid Search,0.6312,Medium,24.53
+C01681,3,14,768.87,54.9193,Turkey,Referral,0.138,Low,24.48
+C03042,3,5,411.17,82.234,United States,Organic Search,0.56,Medium,24.47
+C05937,146,1,47.29,47.29,Azerbaijan,Social Media,0.8359,High,24.37
+C05892,10,3,203.02,67.6733,United States,Email,0.5798,Medium,24.3
+C00990,48,3,164.16,54.72,Azerbaijan,Paid Search,0.6605,Medium,24.27
+C05227,24,10,582.99,58.299,Germany,Email,0.3503,Low,24.25
+C00284,8,2,92.2,46.1,Turkey,Organic Search,0.4694,Medium,24.19
+C03649,13,6,535.27,89.2117,UAE,Paid Search,0.5813,Medium,24.16
+C00283,64,1,33.18,33.18,United Kingdom,Social Media,0.7278,High,24.15
+C04595,86,2,134.48,67.24,United States,Paid Search,0.8015,High,24.13
+C05270,148,1,48.38,48.38,United States,Organic Search,0.8202,High,24.13
+C05022,16,8,474.31,59.2888,United States,Email,0.4363,Medium,24.09
+C03688,6,23,1696.34,73.7539,Azerbaijan,Referral,0.1042,Low,24.08
+C04633,78,1,33.17,33.17,Azerbaijan,Paid Search,0.7235,High,24.0
+C00818,123,1,39.78,39.78,Turkey,Paid Search,0.8238,High,23.98
+C00350,75,4,179.23,44.8075,Azerbaijan,Organic Search,0.6034,Medium,23.97
+C04158,4,6,443.88,73.98,Azerbaijan,Email,0.3904,Low,23.88
+C03157,93,4,92.19,23.0475,United States,Social Media,0.7712,High,23.88
+C04940,11,4,242.45,60.6125,Turkey,Referral,0.4926,Medium,23.88
+C01111,47,1,38.94,38.94,Germany,Organic Search,0.6117,Medium,23.82
+C01314,69,5,171.25,34.25,Germany,Referral,0.5467,Medium,23.8
+C00962,45,1,36.57,36.57,United Kingdom,Paid Search,0.6508,Medium,23.8
+C01492,128,2,80.06,40.03,Germany,Paid Search,0.8248,High,23.77
+C04698,0,1,53.38,53.38,UAE,Email,0.4453,Medium,23.77
+C03922,166,2,72.39,36.195,Azerbaijan,Organic Search,0.824,High,23.76
+C02903,23,1,44.41,44.41,Azerbaijan,Organic Search,0.5345,Medium,23.74
+C00502,30,1,44.38,44.38,Turkey,Referral,0.5341,Medium,23.7
+C00535,57,1,34.71,34.71,United Kingdom,Paid Search,0.6792,Medium,23.58
+C02692,82,2,130.33,65.165,Azerbaijan,Organic Search,0.7162,High,23.53
+C03315,97,1,35.3,35.3,UAE,Organic Search,0.7181,High,23.52
+C04044,73,5,123.93,24.786,UAE,Referral,0.4658,Medium,23.51
+C05321,21,4,160.19,40.0475,Germany,Paid Search,0.543,Medium,23.51
+C01597,158,1,47.26,47.26,United States,Social Media,0.8725,High,23.49
+C04002,72,1,37.61,37.61,United Kingdom,Email,0.6243,Medium,23.48
+C02022,17,3,226.97,75.6567,UAE,Organic Search,0.5661,Medium,23.46
+C00972,134,1,42.11,42.11,United States,Paid Search,0.829,High,23.45
+C00833,146,2,74.15,37.075,Germany,Organic Search,0.8115,High,23.44
+C04204,177,3,95.91,31.97,Turkey,Organic Search,0.8244,High,23.33
+C05490,8,8,398.94,49.8675,Germany,Referral,0.3249,Low,23.29
+C01035,33,7,246.41,35.2014,United States,Referral,0.4967,Medium,23.24
+C03886,74,3,93.72,31.24,United Kingdom,Organic Search,0.5752,Medium,23.21
+C01031,157,2,106.41,53.205,Azerbaijan,Paid Search,0.8672,High,23.13
+C05357,84,3,177.15,59.05,Azerbaijan,Organic Search,0.6814,Medium,23.07
+C03054,150,1,44.86,44.86,United Kingdom,Social Media,0.8524,High,22.94
+C01106,42,1,33.24,33.24,Germany,Social Media,0.6895,Medium,22.92
+C02735,95,3,115.78,38.5933,United Kingdom,Organic Search,0.6643,Medium,22.92
+C00988,115,2,51.26,25.63,United Kingdom,Referral,0.6384,Medium,22.83
+C00468,89,1,33.14,33.14,United Kingdom,Organic Search,0.6881,Medium,22.8
+C02560,13,56,4692.52,83.795,United States,Email,0.0667,Low,22.76
+C00086,146,1,47.68,47.68,UAE,Referral,0.7739,High,22.75
+C00931,118,1,36.65,36.65,United Kingdom,Social Media,0.8132,High,22.73
+C05718,115,1,36.36,36.36,Turkey,Paid Search,0.7985,High,22.72
+C02472,67,1,37.84,37.84,United Kingdom,Referral,0.5992,Medium,22.67
+C03234,116,3,64.74,21.58,United States,Organic Search,0.7358,High,22.57
+C02994,141,2,52.14,26.07,UAE,Organic Search,0.7762,High,22.48
+C02443,27,2,85.87,42.935,Azerbaijan,Referral,0.4308,Medium,22.34
+C03881,11,6,276.34,46.0567,United States,Organic Search,0.4028,Medium,22.31
+C02679,18,15,597.25,39.8167,United States,Email,0.3526,Low,22.27
+C05365,14,1,43.99,43.99,UAE,Organic Search,0.5056,Medium,22.24
+C05509,27,4,197.23,49.3075,Turkey,Organic Search,0.5246,Medium,22.17
+C04959,0,1,55.59,55.59,United Kingdom,Organic Search,0.3977,Low,22.11
+C01606,25,1,42.18,42.18,Azerbaijan,Organic Search,0.5243,Medium,22.11
+C02787,87,2,87.83,43.915,Germany,Organic Search,0.7346,High,22.08
+C01803,20,4,149.51,37.3775,United States,Paid Search,0.5454,Medium,22.04
+C01713,46,2,33.52,16.76,United States,Social Media,0.6565,Medium,22.01
+C01799,92,10,435.91,43.591,United Kingdom,Organic Search,0.6506,Medium,22.0
+C05909,51,3,114.54,38.18,Germany,Social Media,0.7242,High,21.96
+C03721,78,1,33.16,33.16,United Kingdom,Organic Search,0.6623,Medium,21.96
+C01875,51,5,248.88,49.776,Azerbaijan,Paid Search,0.6156,Medium,21.96
+C03012,6,4,191.73,47.9325,United Kingdom,Organic Search,0.4109,Medium,21.95
+C03266,96,1,32.0,32.0,United States,Organic Search,0.7307,High,21.92
+C00923,24,1,48.84,48.84,United Kingdom,Referral,0.448,Medium,21.88
+C05080,161,2,49.44,24.72,United States,Organic Search,0.8139,High,21.82
+C00196,8,1,38.9,38.9,Germany,Paid Search,0.5604,Medium,21.8
+C02420,136,2,99.33,49.665,Germany,Referral,0.7608,High,21.8
+C05903,151,1,43.99,43.99,United States,Organic Search,0.8293,High,21.74
+C00349,7,7,203.64,29.0914,Turkey,Paid Search,0.2854,Low,21.7
+C05100,15,17,848.42,49.9071,United Kingdom,Organic Search,0.2049,Low,21.7
+C01635,134,1,44.04,44.04,Azerbaijan,Referral,0.7314,High,21.63
+C02889,40,1,33.26,33.26,Turkey,Paid Search,0.6485,Medium,21.57
+C03166,22,1,43.29,43.29,United Kingdom,Email,0.4977,Medium,21.55
+C02976,180,1,47.57,47.57,United States,Social Media,0.9026,High,21.47
+C00746,2,11,641.68,58.3345,Azerbaijan,Email,0.3213,Low,21.45
+C04929,164,3,120.49,40.1633,UAE,Organic Search,0.8351,High,21.41
+C04116,24,1,32.18,32.18,United States,Social Media,0.665,Medium,21.4
+C03245,161,2,55.97,27.985,Germany,Referral,0.7461,High,21.35
+C01617,97,2,80.11,40.055,Azerbaijan,Organic Search,0.7222,High,21.34
+C05167,129,6,350.71,58.4517,Turkey,Organic Search,0.7623,High,21.33
+C02508,52,1,35.44,35.44,Turkey,Organic Search,0.6011,Medium,21.3
+C04717,69,1,32.85,32.85,UAE,Organic Search,0.6479,Medium,21.28
+C00465,3,1,40.02,40.02,United States,Paid Search,0.5311,Medium,21.25
+C05460,49,3,67.27,22.4233,Azerbaijan,Paid Search,0.543,Medium,21.21
+C01835,147,1,41.58,41.58,Germany,Paid Search,0.8324,High,21.19
+C02798,82,2,103.75,51.875,United States,Social Media,0.7952,High,21.16
+C02313,32,2,64.2,32.1,Turkey,Organic Search,0.5308,Medium,21.15
+C01377,166,3,153.36,51.12,Azerbaijan,Referral,0.8039,High,21.14
+C03057,97,2,32.52,16.26,Germany,Social Media,0.7723,High,21.13
+C03103,21,2,123.55,61.775,United Kingdom,Referral,0.5549,Medium,21.06
+C05994,81,1,33.14,33.14,Azerbaijan,Referral,0.6343,Medium,21.02
+C03752,81,1,29.84,29.84,UAE,Organic Search,0.7,Medium,20.89
+C03828,11,6,206.96,34.4933,Azerbaijan,Social Media,0.5047,Medium,20.85
+C00932,149,1,39.7,39.7,Germany,Social Media,0.8662,High,20.77
+C00476,44,4,133.31,33.3275,Turkey,Organic Search,0.5626,Medium,20.77
+C03576,68,1,31.87,31.87,Turkey,Organic Search,0.6509,Medium,20.74
+C02252,7,3,65.21,21.7367,Azerbaijan,Paid Search,0.3177,Low,20.72
+C01638,63,1,33.2,33.2,United Kingdom,Organic Search,0.6234,Medium,20.7
+C00916,43,1,36.85,36.85,United Kingdom,Organic Search,0.5599,Medium,20.63
+C01344,76,1,28.75,28.75,Turkey,Paid Search,0.715,High,20.56
+C01026,176,1,48.27,48.27,Turkey,Email,0.8306,High,20.5
+C05187,144,1,41.81,41.81,United States,Organic Search,0.7814,High,20.42
+C04921,70,1,32.07,32.07,Azerbaijan,Organic Search,0.6332,Medium,20.31
+C04882,107,5,280.34,56.068,Azerbaijan,Email,0.7235,High,20.28
+C03678,45,1,33.24,33.24,UAE,Organic Search,0.6085,Medium,20.23
+C03941,1,1,36.97,36.97,United States,Paid Search,0.5454,Medium,20.17
+C00007,127,7,170.28,24.3257,United States,Organic Search,0.7404,High,20.15
+C05070,33,1,31.61,31.61,Azerbaijan,Paid Search,0.6368,Medium,20.13
+C04538,138,1,38.74,38.74,United States,Organic Search,0.7968,High,20.13
+C04757,157,1,43.97,43.97,United States,Referral,0.7967,High,20.08
+C02187,35,1,28.84,28.84,UAE,Social Media,0.6961,Medium,20.08
+C01238,50,1,29.89,29.89,UAE,Paid Search,0.6715,Medium,20.07
+C03891,101,6,140.4,23.4,United States,Paid Search,0.7477,High,19.98
+C02447,138,1,36.32,36.32,United Kingdom,Social Media,0.8431,High,19.97
+C05312,63,2,80.82,40.41,United States,Referral,0.6498,Medium,19.94
+C02514,16,3,164.24,54.7467,Turkey,Paid Search,0.6582,Medium,19.94
+C02082,92,2,62.95,31.475,Turkey,Social Media,0.7943,High,19.83
+C02848,10,7,363.21,51.8871,Azerbaijan,Organic Search,0.4054,Medium,19.81
+C00560,32,11,532.76,48.4327,Turkey,Email,0.4649,Medium,19.73
+C00040,41,1,34.35,34.35,Germany,Organic Search,0.5734,Medium,19.7
+C05238,25,2,48.28,24.14,UAE,Referral,0.408,Medium,19.7
+C03248,0,1,38.92,38.92,United States,Paid Search,0.5062,Medium,19.7
+C01526,12,1,39.05,39.05,UAE,Organic Search,0.5034,Medium,19.66
+C05650,39,2,56.5,28.25,Germany,Paid Search,0.6389,Medium,19.57
+C03196,161,5,225.96,45.192,Germany,Social Media,0.8777,High,19.44
+C02852,3,2,42.66,21.33,Germany,Paid Search,0.4552,Medium,19.42
+C03367,131,1,36.34,36.34,Turkey,Organic Search,0.7767,High,19.39
+C03379,23,2,46.59,23.295,United Kingdom,Organic Search,0.4156,Medium,19.36
+C00417,71,1,26.52,26.52,Germany,Paid Search,0.7293,High,19.34
+C02093,0,1,44.48,44.48,United States,Email,0.4336,Medium,19.29
+C04865,31,1,30.18,30.18,Germany,Paid Search,0.6389,Medium,19.28
+C04195,5,1,42.24,42.24,United Kingdom,Organic Search,0.4557,Medium,19.25
+C02418,46,1,29.91,29.91,Azerbaijan,Paid Search,0.6438,Medium,19.25
+C03413,10,1,42.23,42.23,United Kingdom,Referral,0.4551,Medium,19.22
+C03340,39,1,36.59,36.59,United Kingdom,Referral,0.525,Medium,19.21
+C05351,0,3,80.85,26.95,Turkey,Email,0.3402,Low,19.19
+C00215,125,2,41.84,20.92,Azerbaijan,Organic Search,0.7171,High,19.15
+C02410,70,2,85.29,42.645,UAE,Organic Search,0.7108,High,19.08
+C00003,141,3,104.13,34.71,Azerbaijan,Email,0.7734,High,19.07
+C01063,14,2,68.31,34.155,Azerbaijan,Email,0.4776,Medium,19.07
+C03045,19,1,32.19,32.19,Azerbaijan,Social Media,0.5914,Medium,19.04
+C04504,157,2,61.98,30.99,Germany,Paid Search,0.8615,High,18.99
+C03850,102,1,26.48,26.48,United States,Social Media,0.809,High,18.9
+C05689,61,2,28.75,14.375,Germany,Paid Search,0.6563,Medium,18.87
+C01259,29,1,33.28,33.28,United States,Email,0.565,Medium,18.8
+C05364,45,6,192.16,32.0267,Germany,Organic Search,0.4919,Medium,18.74
+C05957,123,3,69.44,23.1467,Azerbaijan,Social Media,0.7791,High,18.73
+C05208,108,1,28.68,28.68,United States,Paid Search,0.7814,High,18.68
+C03604,33,1,33.28,33.28,United States,Referral,0.5594,Medium,18.62
+C01372,155,1,38.48,38.48,United States,Paid Search,0.8284,High,18.51
+C02393,4,9,499.8,55.5333,Turkey,Organic Search,0.4769,Medium,18.45
+C01641,11,1,33.32,33.32,Azerbaijan,Social Media,0.5522,Medium,18.4
+C01157,173,1,39.63,39.63,United States,Social Media,0.8917,High,18.38
+C05553,1,3,85.56,28.52,Germany,Organic Search,0.3555,Low,18.37
+C05484,4,42,2868.93,68.3079,United States,Organic Search,0.0567,Low,18.29
+C05149,31,1,32.17,32.17,UAE,Organic Search,0.5683,Medium,18.28
+C02753,41,1,28.92,28.92,Turkey,Paid Search,0.6319,Medium,18.27
+C02729,44,8,295.52,36.94,Germany,Email,0.5076,Medium,18.27
+C01949,57,2,68.26,34.13,United States,Social Media,0.7619,High,18.21
+C00912,2,1,40.03,40.03,UAE,Organic Search,0.4514,Medium,18.07
+C05753,30,2,145.51,72.755,United Kingdom,Organic Search,0.6238,Medium,18.0
+C04848,3,1,33.34,33.34,Azerbaijan,Social Media,0.5384,Medium,17.95
+C05963,42,8,362.62,45.3275,United States,Referral,0.5719,Medium,17.91
+C05997,26,20,830.64,41.532,Turkey,Email,0.1957,Low,17.82
+C04132,7,1,42.24,42.24,United Kingdom,Referral,0.4212,Medium,17.79
+C02826,11,1,38.89,38.89,Azerbaijan,Organic Search,0.4568,Medium,17.77
+C03102,160,1,36.52,36.52,United States,Paid Search,0.8647,High,17.76
+C05462,58,2,70.09,35.045,Azerbaijan,Email,0.6415,Medium,17.75
+C05759,16,1,27.97,27.97,United States,Social Media,0.6306,Medium,17.64
+C03641,8,1,32.22,32.22,United States,Paid Search,0.5429,Medium,17.49
+C04813,7,1,36.68,36.68,Azerbaijan,Organic Search,0.4749,Medium,17.42
+C01422,155,1,35.18,35.18,United Kingdom,Social Media,0.8502,High,17.37
+C03656,116,2,192.83,96.415,United States,Organic Search,0.8932,High,17.34
+C02413,133,3,81.31,27.1033,United Kingdom,Social Media,0.8028,High,17.33
+C02855,73,1,23.22,23.22,Turkey,Paid Search,0.7455,High,17.31
+C05652,164,1,36.24,36.24,United Kingdom,Social Media,0.8665,High,17.23
+C01361,111,1,26.46,26.46,UAE,Paid Search,0.8003,High,17.17
+C03203,123,1,31.73,31.73,Turkey,Referral,0.7345,High,17.05
+C03865,20,4,182.7,45.675,United States,Organic Search,0.5979,Medium,16.89
+C03444,4,4,264.04,66.01,UAE,Organic Search,0.5383,Medium,16.81
+C03145,127,1,31.94,31.94,UAE,Referral,0.7406,High,16.76
+C02628,165,1,38.6,38.6,Azerbaijan,Organic Search,0.7956,High,16.75
+C02308,63,1,25.23,25.23,United States,Organic Search,0.6626,Medium,16.72
+C01253,23,2,43.03,21.515,Turkey,Referral,0.388,Low,16.7
+C05214,3,7,280.59,40.0843,Azerbaijan,Social Media,0.4634,Medium,16.67
+C01801,58,2,62.64,31.32,Turkey,Email,0.626,Medium,16.65
+C00684,6,6,183.93,30.655,United Kingdom,Organic Search,0.2648,Low,16.6
+C05267,155,2,82.44,41.22,United Kingdom,Referral,0.8179,High,16.58
+C00304,93,1,25.17,25.17,Azerbaijan,Referral,0.6792,Medium,16.55
+C00364,19,3,111.93,37.31,United States,Referral,0.514,Medium,16.54
+C03878,114,1,25.8,25.8,United Kingdom,Social Media,0.8086,High,16.47
+C02975,10,3,103.06,34.3533,United Kingdom,Organic Search,0.493,Medium,16.45
+C00766,57,1,22.14,22.14,United States,Social Media,0.742,High,16.43
+C03129,158,1,34.06,34.06,United Kingdom,Social Media,0.846,High,16.41
+C04747,3,1,36.68,36.68,Azerbaijan,Organic Search,0.447,Medium,16.4
+C01768,62,1,27.44,27.44,United States,Referral,0.5968,Medium,16.38
+C05381,81,1,21.0,21.0,UAE,Social Media,0.7795,High,16.37
+C02316,11,7,337.74,48.2486,Germany,Referral,0.4735,Medium,16.26
+C02356,170,1,35.46,35.46,United States,Paid Search,0.8641,High,16.22
+C02112,14,3,129.72,43.24,United Kingdom,Social Media,0.671,Medium,16.15
+C02372,47,3,124.88,41.6267,United Kingdom,Organic Search,0.638,Medium,16.04
+C00994,172,1,36.23,36.23,United States,Organic Search,0.8405,High,15.93
+C05107,59,1,25.46,25.46,United States,Email,0.6258,Medium,15.93
+C00881,53,1,24.37,24.37,United States,Organic Search,0.65,Medium,15.84
+C05818,31,2,91.15,45.575,United States,Organic Search,0.6475,Medium,15.81
+C04165,107,1,26.47,26.47,United Kingdom,Organic Search,0.7072,High,15.74
+C05583,6,1,38.0,38.0,United Kingdom,Email,0.4128,Medium,15.69
+C02964,55,1,22.14,22.14,Azerbaijan,Social Media,0.6985,Medium,15.47
+C03683,1,4,142.83,35.7075,UAE,Social Media,0.6083,Medium,15.45
+C05696,0,1,33.33,33.33,United States,Organic Search,0.4616,Medium,15.39
+C01260,129,2,143.43,71.715,UAE,Organic Search,0.8792,High,15.3
+C04777,68,2,112.59,56.295,United Kingdom,Referral,0.6834,Medium,15.29
+C02336,15,6,202.9,33.8167,Turkey,Referral,0.3485,Low,15.23
+C02813,14,1,25.99,25.99,United States,Paid Search,0.5835,Medium,15.16
+C01059,29,1,28.28,28.28,United States,Referral,0.5357,Medium,15.15
+C00275,9,1,33.32,33.32,Azerbaijan,Organic Search,0.4528,Medium,15.09
+C01756,43,2,22.15,11.075,UAE,Social Media,0.6674,Medium,14.78
+C05504,122,1,26.78,26.78,Turkey,Organic Search,0.7469,High,14.76
+C03484,179,3,73.7,24.5667,United Kingdom,Organic Search,0.8256,High,14.76
+C02363,21,1,22.2,22.2,United States,Social Media,0.6622,Medium,14.7
+C05434,4,1,24.45,24.45,UAE,Social Media,0.6004,Medium,14.68
+C02599,25,4,194.95,48.7375,United States,Organic Search,0.6377,Medium,14.68
+C01586,142,2,37.09,18.545,Germany,Organic Search,0.7576,High,14.62
+C04900,7,4,234.46,58.615,United States,Paid Search,0.6632,Medium,14.61
+C02640,129,2,92.82,46.41,United Kingdom,Referral,0.8008,High,14.57
+C03969,57,1,21.03,21.03,Turkey,Paid Search,0.6901,Medium,14.51
+C04212,10,2,78.54,39.27,United States,Email,0.5758,Medium,14.49
+C01147,3,21,917.76,43.7029,Turkey,Referral,0.1069,Low,14.41
+C03451,150,3,120.81,40.27,United States,Organic Search,0.827,High,14.3
+C01682,175,2,71.54,35.77,Azerbaijan,Social Media,0.8974,High,14.27
+C04557,169,2,50.9,25.45,United States,Organic Search,0.8522,High,14.2
+C00392,172,4,114.99,28.7475,Turkey,Paid Search,0.8613,High,14.19
+C02801,125,1,24.78,24.78,United Kingdom,Paid Search,0.7895,High,14.09
+C04878,65,2,121.87,60.935,United Kingdom,Organic Search,0.753,High,13.9
+C03739,35,4,113.08,28.27,United Kingdom,Social Media,0.6356,Medium,13.76
+C02066,82,2,96.78,48.39,Azerbaijan,Organic Search,0.7427,High,13.73
+C02530,34,4,137.58,34.395,Germany,Social Media,0.7195,High,13.73
+C05907,76,1,20.67,20.67,Azerbaijan,Organic Search,0.6554,Medium,13.55
+C04937,19,5,270.18,54.036,UAE,Referral,0.5352,Medium,13.54
+C04179,37,2,65.75,32.875,United States,Referral,0.5989,Medium,13.53
+C00266,12,1,27.0,27.0,Turkey,Organic Search,0.4898,Medium,13.22
+C02445,11,2,55.62,27.81,UAE,Paid Search,0.6403,Medium,13.19
+C03200,0,1,25.57,25.57,United Kingdom,Social Media,0.5159,Medium,13.19
+C04037,141,1,26.41,26.41,Germany,Email,0.7803,High,13.15
+C01083,61,1,20.7,20.7,UAE,Email,0.6326,Medium,13.09
+C05456,177,3,76.06,25.3533,Turkey,Email,0.8367,High,13.02
+C01723,125,1,22.02,22.02,Turkey,Paid Search,0.8198,High,13.0
+C02222,3,1,28.9,28.9,UAE,Email,0.4423,Medium,12.78
+C04852,56,2,90.21,45.105,UAE,Organic Search,0.7321,High,12.76
+C01726,129,1,22.02,22.02,Germany,Paid Search,0.8273,High,12.71
+C00756,80,2,32.15,16.075,Turkey,Organic Search,0.6237,Medium,12.62
+C05728,175,4,87.34,21.835,Azerbaijan,Referral,0.7852,High,12.6
+C01347,118,3,57.66,19.22,United States,Organic Search,0.7502,High,12.56
+C03680,124,2,57.98,28.99,UAE,Organic Search,0.7843,High,12.52
+C05440,170,1,27.11,27.11,United States,Paid Search,0.8703,High,12.49
+C03775,101,1,19.86,19.86,United States,Organic Search,0.7051,High,12.48
+C03073,124,1,23.12,23.12,Turkey,Organic Search,0.7416,High,12.45
+C00034,55,1,22.14,22.14,United Kingdom,Referral,0.5614,Medium,12.43
+C03381,36,2,53.04,26.52,UAE,Social Media,0.7153,High,12.42
+C03469,4,34,2472.96,72.7341,Germany,Organic Search,0.0334,Low,12.16
+C00736,141,1,24.2,24.2,Turkey,Organic Search,0.7859,High,12.14
+C00062,0,1,29.01,29.01,Germany,Organic Search,0.4179,Medium,12.12
+C05057,58,3,84.63,28.21,United Kingdom,Social Media,0.7095,High,11.9
+C05761,80,2,108.73,54.365,Germany,Paid Search,0.8472,High,11.88
+C05635,157,1,24.18,24.18,UAE,Paid Search,0.8563,High,11.87
+C04707,166,1,25.26,25.26,Germany,Paid Search,0.8612,High,11.79
+C04366,87,1,16.57,16.57,Germany,Organic Search,0.7081,High,11.73
+C02747,21,5,148.52,29.704,Germany,Organic Search,0.4891,Medium,11.63
+C00839,37,4,150.59,37.6475,United States,Organic Search,0.5573,Medium,11.59
+C04263,121,1,20.94,20.94,United Kingdom,Organic Search,0.7387,High,11.51
+C01936,174,2,41.05,20.525,Turkey,Paid Search,0.8712,High,11.45
+C01191,167,1,25.26,25.26,United States,Organic Search,0.836,High,11.38
+C05677,145,1,21.93,21.93,Azerbaijan,Social Media,0.8328,High,11.34
+C02346,9,1,22.0,22.0,United States,Organic Search,0.5152,Medium,11.33
+C02370,5,1,23.99,23.99,Azerbaijan,Organic Search,0.4589,Medium,11.01
+C04782,20,1,20.98,20.98,United States,Email,0.5227,Medium,10.97
+C02029,112,1,17.63,17.63,United Kingdom,Social Media,0.7735,High,10.96
+C05396,92,1,15.46,15.46,UAE,Organic Search,0.7173,High,10.85
+C01673,25,2,64.62,32.31,Turkey,Organic Search,0.6254,Medium,10.79
+C05687,5,1,21.12,21.12,United Kingdom,Paid Search,0.5079,Medium,10.73
+C01863,0,1,21.73,21.73,Azerbaijan,Paid Search,0.4886,Medium,10.62
+C02928,44,2,35.59,17.795,UAE,Organic Search,0.5377,Medium,10.57
+C00864,157,1,23.74,23.74,United Kingdom,Email,0.7751,High,10.55
+C02296,121,1,17.63,17.63,Turkey,Paid Search,0.801,High,10.5
+C00083,60,1,15.05,15.05,United States,Paid Search,0.6934,Medium,10.44
+C00155,69,1,13.66,13.66,United States,Social Media,0.7589,High,10.37
+C04505,177,1,22.72,22.72,United States,Social Media,0.8805,High,10.17
+C01608,23,1,15.82,15.82,Turkey,Social Media,0.6371,Medium,10.08
+C03707,156,1,21.96,21.96,United Kingdom,Email,0.7873,High,9.97
+C01913,180,2,35.02,17.51,Germany,Paid Search,0.8997,High,9.91
+C05213,60,1,15.77,15.77,United States,Email,0.6262,Medium,9.88
+C02345,111,1,16.54,16.54,Turkey,Organic Search,0.7328,High,9.83
+C02702,17,4,143.25,35.8125,UAE,Paid Search,0.6709,Medium,9.82
+C05146,47,4,127.76,31.94,United States,Organic Search,0.6414,Medium,9.7
+C01844,108,2,61.28,30.64,Azerbaijan,Referral,0.7473,High,9.37
+C00735,65,1,15.49,15.49,United Kingdom,Email,0.6019,Medium,9.32
+C02762,53,1,14.12,14.12,Azerbaijan,Paid Search,0.6574,Medium,9.28
+C05828,6,1,16.67,16.67,United States,Paid Search,0.5561,Medium,9.27
+C01522,149,1,17.59,17.59,UAE,Social Media,0.8717,High,9.26
+C02476,38,1,12.97,12.97,UAE,Social Media,0.7113,High,9.23
+C04762,1,2,27.66,13.83,Germany,Paid Search,0.5488,Medium,9.17
+C02013,151,1,18.68,18.68,United States,Organic Search,0.8171,High,9.1
+C00651,4,1,23.23,23.23,Azerbaijan,Referral,0.3902,Low,9.07
+C04793,48,2,52.63,26.315,Azerbaijan,Paid Search,0.7086,High,9.05
+C00938,57,1,14.94,14.94,Turkey,Referral,0.6011,Medium,8.98
+C03502,159,3,96.4,32.1333,UAE,Organic Search,0.8496,High,8.93
+C04337,0,1,16.67,16.67,United Kingdom,Social Media,0.5212,Medium,8.69
+C03710,38,1,13.3,13.3,Turkey,Paid Search,0.6497,Medium,8.64
+C03371,57,1,14.11,14.11,Germany,Email,0.6021,Medium,8.5
+C00638,67,1,11.06,11.06,Turkey,Social Media,0.7541,High,8.34
+C00136,31,3,99.81,33.27,Azerbaijan,Social Media,0.7143,High,8.33
+C02775,92,2,83.3,41.65,United States,Referral,0.826,High,8.26
+C02319,92,1,11.04,11.04,United States,Paid Search,0.7635,High,8.25
+C00518,82,2,12.15,6.075,UAE,Paid Search,0.67,Medium,8.14
+C00647,64,1,14.38,14.38,Azerbaijan,Email,0.5659,Medium,8.14
+C01952,133,2,27.41,13.705,Germany,Paid Search,0.8369,High,8.13
+C02056,96,1,12.14,12.14,Turkey,Email,0.7049,High,8.02
+C02334,130,1,14.1,14.1,Azerbaijan,Social Media,0.813,High,7.94
+C02893,87,1,11.04,11.04,Turkey,Organic Search,0.7158,High,7.9
+C00057,2,1,16.67,16.67,UAE,Organic Search,0.4732,Medium,7.89
+C02797,43,1,14.4,14.4,United Kingdom,Organic Search,0.5429,Medium,7.82
+C00093,135,1,14.64,14.64,Azerbaijan,Paid Search,0.7991,High,7.8
+C01099,76,1,9.95,9.95,UAE,Social Media,0.7762,High,7.72
+C05498,98,1,11.03,11.03,United Kingdom,Paid Search,0.7593,High,7.69
+C01170,38,1,11.08,11.08,United States,Social Media,0.6944,Medium,7.69
+C04537,123,1,14.87,14.87,Germany,Referral,0.7059,High,7.68
+C02956,0,1,13.73,13.73,United States,Social Media,0.5563,Medium,7.64
+C03432,33,1,14.74,14.74,United Kingdom,Email,0.5172,Medium,7.62
+C01703,7,1,14.17,14.17,United Kingdom,Paid Search,0.5253,Medium,7.44
+C00490,14,1,12.21,12.21,United Kingdom,Social Media,0.6082,Medium,7.43
+C03032,38,1,13.3,13.3,Azerbaijan,Organic Search,0.5563,Medium,7.4
+C05139,104,1,12.13,12.13,Germany,Referral,0.704,High,7.39
+C00064,59,3,49.49,16.4967,Azerbaijan,Email,0.5614,Medium,7.38
+C00986,29,1,11.09,11.09,United Kingdom,Social Media,0.6611,Medium,7.33
+C01888,109,1,12.13,12.13,United Kingdom,Organic Search,0.7305,High,7.32
+C05024,0,1,15.0,15.0,United Kingdom,Paid Search,0.4821,Medium,7.23
+C03738,67,1,11.06,11.06,Germany,Email,0.6507,Medium,7.2
+C03130,80,1,11.05,11.05,Azerbaijan,Email,0.6515,Medium,7.2
+C00983,152,2,20.29,10.145,United States,Organic Search,0.8242,High,7.17
+C04234,147,2,18.68,9.34,Azerbaijan,Paid Search,0.8102,High,7.09
+C03997,94,2,26.32,13.16,Turkey,Paid Search,0.7626,High,7.08
+C01351,32,1,12.2,12.2,United States,Organic Search,0.5786,Medium,7.06
+C04496,171,2,54.35,27.175,Turkey,Email,0.8786,High,7.02
+C00804,108,1,10.47,10.47,Azerbaijan,Social Media,0.8043,High,7.02
+C00038,10,1,16.66,16.66,United Kingdom,Referral,0.4202,Medium,7.0
+C03194,73,2,48.77,24.385,Germany,Referral,0.732,High,6.91
+C04452,8,3,41.61,13.87,Germany,Referral,0.412,Medium,6.89
+C05370,1,1,12.22,12.22,Germany,Social Media,0.5551,Medium,6.78
+C00292,118,1,11.02,11.02,Germany,Paid Search,0.8026,High,6.75
+C00157,152,2,42.85,21.425,Germany,Email,0.8484,High,6.65
+C03039,85,3,50.45,16.8167,United States,Referral,0.6663,Medium,6.61
+C05400,39,1,11.08,11.08,Turkey,Organic Search,0.5933,Medium,6.57
+C02606,74,1,10.5,10.5,United Kingdom,Referral,0.6248,Medium,6.56
+C05181,39,1,11.08,11.08,United Kingdom,Email,0.5707,Medium,6.32
+C03930,129,1,11.01,11.01,UAE,Paid Search,0.8216,High,6.31
+C02559,25,1,9.98,9.98,Turkey,Paid Search,0.625,Medium,6.24
+C04970,69,1,9.4,9.4,United States,Organic Search,0.6615,Medium,6.22
+C02113,112,1,11.02,11.02,Turkey,Referral,0.6967,Medium,6.17
+C04681,84,2,32.75,16.375,Germany,Paid Search,0.8269,High,6.02
+C01036,5,1,12.27,12.27,United States,Organic Search,0.4861,Medium,5.96
+C01653,142,1,11.0,11.0,Germany,Social Media,0.8541,High,5.95
+C01931,123,1,11.01,11.01,Turkey,Referral,0.7261,High,5.85
+C03899,131,1,11.01,11.01,Germany,Organic Search,0.7712,High,5.83
+C04798,150,1,10.99,10.99,UAE,Social Media,0.8696,High,5.73
+C00783,0,1,11.0,11.0,Turkey,Paid Search,0.4953,Medium,5.45
+C02422,7,1,11.11,11.11,United Kingdom,Organic Search,0.4705,Medium,5.23
+C01092,16,1,10.54,10.54,United States,Referral,0.4961,Medium,5.23
+C04991,155,1,10.44,10.44,Turkey,Paid Search,0.8402,High,5.09
+C02795,3,1,10.55,10.55,United States,Organic Search,0.4727,Medium,4.99
+C03537,20,1,9.43,9.43,Turkey,Organic Search,0.5116,Medium,4.82
+C04085,151,1,9.34,9.34,Azerbaijan,Organic Search,0.7895,High,4.4
+C00750,166,1,9.33,9.33,United States,Paid Search,0.8537,High,4.32
+C05626,1,1,8.89,8.89,Azerbaijan,Paid Search,0.4833,Medium,4.3
+C00462,6,1,10.0,10.0,United Kingdom,Email,0.4222,Medium,4.22
+C02823,8,1,8.89,8.89,United Kingdom,Organic Search,0.4641,Medium,4.13
+C05226,73,2,9.95,4.975,Azerbaijan,Referral,0.5382,Medium,3.98
+C01014,180,2,29.11,14.555,United States,Email,0.9158,High,3.52
+C00042,46,1,0.0,0.0,Azerbaijan,Organic Search,0.5249,Medium,0.0
+C03237,72,1,0.0,0.0,Azerbaijan,Email,0.5638,Medium,0.0
+C02477,16,1,0.0,0.0,Germany,Referral,0.3862,Low,0.0
+C03696,65,1,0.0,0.0,United States,Social Media,0.689,Medium,0.0
+C04095,109,1,0.0,0.0,United States,Referral,0.6719,Medium,0.0
+C05674,95,1,0.0,0.0,Azerbaijan,Paid Search,0.683,Medium,0.0
+C01514,3,1,0.0,0.0,Azerbaijan,Organic Search,0.3487,Low,0.0
+C01230,135,1,0.0,0.0,UAE,Organic Search,0.7461,High,0.0
+C03424,33,1,0.0,0.0,United States,Email,0.5056,Medium,0.0

@@ -1,0 +1,62 @@
+{
+  "kpis": {
+    "net_revenue": 1767636.8599999999,
+    "net_profit": 668588.76,
+    "orders": 22140,
+    "customers": 5904,
+    "aov": 79.83906323396566,
+    "gross_margin_pct": 0.3782387520477481,
+    "return_rate_pct": 0.060838152272981505,
+    "repeat_customer_pct": 0.6473577235772358,
+    "orders_per_customer": 3.75
+  },
+  "churn": {
+    "best_model": "Logistic Regression",
+    "metrics": {
+      "Logistic Regression": {
+        "roc_auc": 0.7118622448979591,
+        "pr_auc": 0.769913052890398,
+        "brier": 0.20865991806405812,
+        "precision@0.5": 0.6912983425414365,
+        "recall@0.5": 0.8171428571428572,
+        "top_decile_lift": 1.4580228969636635,
+        "base_churn_rate": 0.5955274671852212
+      },
+      "Gradient Boosting": {
+        "roc_auc": 0.6997095761381475,
+        "pr_auc": 0.7592029449958584,
+        "brier": 0.21310904855422308,
+        "precision@0.5": 0.6872852233676976,
+        "recall@0.5": 0.8163265306122449,
+        "top_decile_lift": 1.408876057740169,
+        "base_churn_rate": 0.5955274671852212
+      }
+    },
+    "test_snapshot": "2026-07-02",
+    "n_train": 7127,
+    "n_test": 2057
+  },
+  "forecast": {
+    "best_model": "Damped Holt-Winters",
+    "backtest": [
+      {
+        "model": "Damped Holt-Winters",
+        "mape": 0.0419,
+        "rmse": 3651.3191,
+        "bias": -0.034
+      },
+      {
+        "model": "Seasonal naive + growth",
+        "mape": 0.0808,
+        "rmse": 6118.1368,
+        "bias": 0.0795
+      },
+      {
+        "model": "Ridge trend + seasonality",
+        "mape": 0.0842,
+        "rmse": 6764.2899,
+        "bias": 0.0781
+      }
+    ]
+  }
+}

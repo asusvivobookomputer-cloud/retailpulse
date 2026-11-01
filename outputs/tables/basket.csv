@@ -1,0 +1,26 @@
+product_a,product_b,orders_together,support,confidence_a_to_b,confidence_b_to_a,lift
+Eco Air Fryer,Smart Dried Fruit Mix,28,0.0013,0.2314,0.2569,47.0028
+Classic Self-Help Book,Compact RC Car,26,0.0012,0.1486,0.194,24.5475
+Premium Face Serum,Pro Sunglasses,42,0.0019,0.24,0.1597,20.2038
+Eco Coffee Maker,Smart Green Tea,45,0.002,0.2761,0.1485,20.1725
+Pro Comic Collection,Smart Puzzle,51,0.0023,0.2082,0.2082,18.8112
+Classic Dumbbell Set,Smart Power Bank,35,0.0016,0.1287,0.2258,18.38
+Classic Water Bottle,Pro Bluetooth Speaker,61,0.0028,0.2374,0.2103,18.1208
+Compact Cookbook,Pro Plush Toy,44,0.002,0.2431,0.1477,18.0607
+Eco Blender,Pro Protein Bars,52,0.0023,0.2842,0.1465,17.7215
+Pro Water Bottle,Smart Headphones,72,0.0033,0.3711,0.1538,17.5575
+Eco Textbook,Smart Board Game,27,0.0012,0.1508,0.1357,16.7817
+Eco RC Car,Smart Cookbook,47,0.0021,0.2866,0.1175,15.8625
+Compact Coffee Beans,Smart Air Fryer,134,0.0061,0.1506,0.6321,15.7238
+Eco Jacket,Smart Skincare Set,127,0.0057,0.5359,0.1624,15.1714
+Premium Green Tea,Premium Vacuum Cleaner,66,0.003,0.1486,0.3041,15.1663
+Eco Coffee Beans,Pro Vacuum Cleaner,26,0.0012,0.1444,0.1193,14.6697
+Classic Skincare Set,Compact Sunglasses,34,0.0015,0.1604,0.1328,13.8701
+Eco Webcam,Pro Yoga Mat,32,0.0014,0.1379,0.1441,13.7558
+Compact Smartwatch,Pro Running Belt,51,0.0023,0.1969,0.1584,13.5392
+Classic Power Bank,Classic Water Bottle,63,0.0028,0.1486,0.2451,12.8003
+Eco Comic Collection,Pro Plush Toy,25,0.0011,0.1634,0.0839,12.1398
+Compact Comic Collection,Smart Puzzle,36,0.0016,0.1328,0.1469,12.0045
+Compact Smartwatch,Premium Yoga Mat,72,0.0033,0.278,0.1361,11.6347
+Classic Blender,Eco Dried Fruit Mix,41,0.0019,0.1491,0.1434,11.5415
+Compact Cookware Set,Smart Coffee Beans,95,0.0043,0.3519,0.1395,11.4391

@@ -1,0 +1,9 @@
+table,issue,rows_affected,action
+customers,inconsistent country casing/whitespace,178,standardised
+customers,duplicate customer_id,30,kept first occurrence
+customers,impossible age (<16 or >100),18,set to NULL
+customers,missing age,168,kept as NULL (imputed in ML step)
+orders,duplicate order_id,46,kept first occurrence
+order_items,non-positive quantity,60,row dropped
+order_items,unknown order_id (orphan),80,row dropped
+returns,unknown order_item_id (orphan),5,row dropped
